@@ -11,5 +11,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: '/mlb-website-dist/' // <-- Change this to your repo name
+  base: '/mlb-website-static/' // <-- Change this to your repo name
 })
