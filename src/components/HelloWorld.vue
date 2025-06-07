@@ -7,7 +7,8 @@ const loading = ref(true)
 
 onMounted(async () => {
   try {
-    const response = await fetch('/json/pitching-most-h-last-5-days.json')
+    const baseUrl = window.location.pathname.split('/')[1] || ''
+    const response = await fetch(`/${baseUrl}/json/pitching-most-h-last-5-days.json`)
     data.value = await response.json()
     console.log(data.value);
     loading.value = false
