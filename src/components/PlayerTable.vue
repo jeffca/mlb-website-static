@@ -1,16 +1,18 @@
 <script setup>
-import { ref, computed } from 'vue'
+import { computed } from 'vue'
 
 const props = defineProps({
-  data: Object
+  data: Object,
+  currentPage: Number
 })
 
-const rowsPerPage = 10 // Or any number you prefer
-const currentPage = ref(1)
+const emit = defineEmits(['update:currentPage'])
+
+const rowsPerPage = 10
 
 const paginatedData = computed(() => {
   if (!props.data) return []
-  const start = (currentPage.value - 1) * rowsPerPage
+  const start = (props.currentPage - 1) * rowsPerPage
   const end = start + rowsPerPage
   return props.data.slice(start, end)
 })
@@ -21,11 +23,11 @@ const totalPages = computed(() => {
 })
 
 function nextPage() {
-  if (currentPage.value < totalPages.value) currentPage.value++
+  if (props.currentPage < totalPages.value) emit('update:currentPage', props.currentPage + 1)
 }
 
 function prevPage() {
-  if (currentPage.value > 1) currentPage.value--
+  if (props.currentPage > 1) emit('update:currentPage', props.currentPage - 1)
 }
 </script>
 
@@ -53,7 +55,7 @@ function prevPage() {
           <td v-if="row.count">{{ row.count }}</td>
           <td v-if="row.avg">{{ row.avg }}</td>
           <td v-if="row.ip">{{ row.ip.toFixed(1) }}</td>
-          <td v-else-if="row.ab">{{ row.ab.toFixed(1) }}</td>
+          <td v-else-if="row.ab">{{ row.ab }}</td>
         </tr>
       </tbody>
     </table>

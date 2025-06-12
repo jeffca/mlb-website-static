@@ -4,11 +4,12 @@ import { ref, onMounted } from 'vue'
 
 const daysOptions = [1,2,3,4,5] 
 const selectedDays = ref(1)
-const dataMapH = ref({}) // For most-h
-const dataMapER = ref({}) // For most-h
-const dataMapK = ref({}) // For most-k
-const dataMapBB = ref({}) // For most-bb
+const dataMapH = ref({}) 
+const dataMapER = ref({})
+const dataMapK = ref({}) 
+const dataMapBB = ref({}) 
 const loading = ref(true)
+const currentPage = ref(1); 
 
 onMounted(async () => {
   try {
@@ -33,12 +34,13 @@ onMounted(async () => {
 
 function selectDays(days) {
   selectedDays.value = days
+  currentPage.value = 1;
 }
 </script>
 
 <template>
   <div>
-    <div>
+    <div class="button-div">
       <button
         v-for="days in daysOptions"
         :key="days"
@@ -47,20 +49,19 @@ function selectDays(days) {
       >
         {{ days }}
       </button>
+      <span>Last {{ selectedDays }} starts</span>
     </div>
-    <h2>Most Hits Allowed (Last {{ selectedDays }} games)</h2>
-    <PlayerTable :data="dataMapH[selectedDays]" />
-    <h2>Most Strikeouts (Last {{ selectedDays }} games)</h2>
-    <PlayerTable :data="dataMapK[selectedDays]" />
-    <h2>Most Walks (Last {{ selectedDays }} games)</h2>
-    <PlayerTable :data="dataMapBB[selectedDays]" />
-    <h2>Most ER Allowed (Last {{ selectedDays }} games)</h2>
-    <PlayerTable :data="dataMapER[selectedDays]" />
+    <h2>SP Hits Allowed</h2>
+    <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <h2>SP Strikeouts</h2>
+    <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <h2>SP Walks</h2>
+    <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <h2>SP ER Allowed</h2>
+    <PlayerTable :data="dataMapER[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
   </div>
 </template>
 
 <style scoped>
-button.active {
-  font-weight: bold;
-}
+
 </style>

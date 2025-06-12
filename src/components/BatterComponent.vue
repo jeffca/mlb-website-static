@@ -2,13 +2,14 @@
 import PlayerTable from './PlayerTable.vue'
 import { ref, onMounted } from 'vue'
 
-const daysOptions = [3,5,7,10,15,20,30] 
+const daysOptions = [3,5,7,10,15] 
 const selectedDays = ref(3)
 const dataMapH = ref({}) // For most-h
 const dataMapK = ref({}) // For most-k
 const dataMapR = ref({}) // For most-h
 const dataMapRBI = ref({}) // For most-bb
 const loading = ref(true)
+const currentPage = ref(1); 
 
 onMounted(async () => {
   try {
@@ -33,12 +34,13 @@ onMounted(async () => {
 
 function selectDays(days) {
   selectedDays.value = days
+  currentPage.value = 1;
 }
 </script>
 
 <template>
   <div>
-    <div>
+    <div class="button-div">
       <button
         v-for="days in daysOptions"
         :key="days"
@@ -47,15 +49,16 @@ function selectDays(days) {
       >
         {{ days }}
       </button>
+      <span>Last {{ selectedDays }} days</span>
     </div>
-    <h2>Most Hits (Last {{ selectedDays }} days)</h2>
-    <PlayerTable :data="dataMapH[selectedDays]" />
-    <h2>Most Strikeouts (Last {{ selectedDays }} days)</h2>
-    <PlayerTable :data="dataMapK[selectedDays]" />
-    <h2>Most RBIs (Last {{ selectedDays }} days)</h2>
-    <PlayerTable :data="dataMapRBI[selectedDays]" />
-    <h2>Most Runs (Last {{ selectedDays }} days)</h2>
-    <PlayerTable :data="dataMapR[selectedDays]" />
+    <h2>Most Hits</h2>
+    <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <h2>Most Strikeouts</h2>
+    <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <h2>Most RBIs</h2>
+    <PlayerTable :data="dataMapRBI[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <h2>Most Runs</h2>
+    <PlayerTable :data="dataMapR[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
   </div>
 </template>
 
