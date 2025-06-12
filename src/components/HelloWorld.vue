@@ -1,5 +1,7 @@
 <script setup>
-import PlayerTable from './PlayerTable.vue'
+import PitcherComponent from './PitcherComponent.vue'
+import BatterComponent from './BatterComponent.vue'
+import TeamComponent from './TeamComponent.vue'
 import { ref, onMounted } from 'vue'
 
 const data = ref(null)
@@ -7,10 +9,6 @@ const loading = ref(true)
 
 onMounted(async () => {
   try {
-    const baseUrl = window.location.pathname.split('/')[1] || ''
-    const response = await fetch(`/${baseUrl}/json/pitching-most-h-last-5-days.json`)
-    data.value = await response.json()
-    console.log(data.value);
     loading.value = false
   } catch (error) {
     console.error('Error fetching data:', error)
@@ -20,10 +18,22 @@ onMounted(async () => {
 </script>
 
 <template>
-  <div>
-    <PlayerTable :data="data" />
+  <div class="layout">
+    <PitcherComponent />
+    <TeamComponent />
+    <BatterComponent />
   </div>
 </template>
 
 <style scoped>
+.layout {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.layout > * {
+  flex: 0 0 33.33%;  /* Each takes up 1/3 of the container */
+  max-width: 33.33%;
+  box-sizing: border-box;
+}
 </style>
