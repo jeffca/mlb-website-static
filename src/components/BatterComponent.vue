@@ -51,13 +51,13 @@ function selectDays(days) {
       </button>
       <span>Last {{ selectedDays }} days</span>
     </div>
-    <h2>Most Hits</h2>
+    <h2>Batter Hits</h2>
     <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>Most Strikeouts</h2>
+    <h2>Batter Strikeouts</h2>
     <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>Most RBIs</h2>
+    <h2>Batter RBIs</h2>
     <PlayerTable :data="dataMapRBI[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>Most Runs</h2>
+    <h2>Batter Runs</h2>
     <PlayerTable :data="dataMapR[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
   </div>
 </template>
