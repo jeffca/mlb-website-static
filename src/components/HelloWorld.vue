@@ -2,6 +2,7 @@
 import PitcherComponent from './PitcherComponent.vue'
 import BatterComponent from './BatterComponent.vue'
 import TeamComponent from './TeamComponent.vue'
+import ScheduleComponent from './ScheduleComponent.vue'
 import { ref, onMounted } from 'vue'
 
 const data = ref(null)
@@ -18,6 +19,10 @@ onMounted(async () => {
 </script>
 
 <template>
+  <div class="schedule">
+    <ScheduleComponent />
+
+  </div>
   <div class="layout">
     <PitcherComponent />
     <TeamComponent />

@@ -41,23 +41,26 @@ function selectDays(days) {
 <template>
   <div>
     <div class="button-div">
-      <button
-        v-for="days in daysOptions"
-        :key="days"
-        @click="selectDays(days)"
-        :class="{ active: selectedDays === days }"
-      >
-        {{ days }}
-      </button>
-      <span>Last {{ selectedDays }} days</span>
+
+        <div class="button-group">
+            <button
+                v-for="days in daysOptions"
+                :key="days"
+                @click="selectDays(days)"
+                :class="{ active: selectedDays === days }"
+            >
+                {{ days }}
+            </button>
+        </div>
+        <span class="days-label">Last {{ selectedDays }} days</span>
     </div>
-    <h2>Team Hits</h2>
+    <h2>Top Team Hits</h2>
     <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>Team Strikeouts</h2>
+    <h2>Top Team Strikeouts</h2>
     <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>Team Walks</h2>
+    <h2>Top Team Walks</h2>
     <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>Team RBIs</h2>
+    <h2>Top Team RBIs</h2>
     <PlayerTable :data="dataMapRBI[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
   </div>
 </template>

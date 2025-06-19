@@ -1,12 +1,20 @@
 <script setup>
-import { computed } from 'vue'
+import BatterHHistory from './BatterHHistory.vue'
+
+import { computed, ref } from 'vue'
 
 const props = defineProps({
   data: Object,
-  currentPage: Number
+  currentPage: Number,
+  metric: String,
+  selectedDays: Number,
+  position: String
 })
 
 const emit = defineEmits(['update:currentPage'])
+
+const showModal = ref(false)
+const currentPlayer = ref(null)
 
 const rowsPerPage = 10
 
@@ -29,6 +37,11 @@ function nextPage() {
 function prevPage() {
   if (props.currentPage > 1) emit('update:currentPage', props.currentPage - 1)
 }
+
+function openPlayerHistory(player_id) {
+  currentPlayer.value = player_id
+  showModal.value = true
+}
 </script>
 
 <template>
@@ -39,8 +52,7 @@ function prevPage() {
             <th v-if="paginatedData.length > 0 && 'name' in paginatedData[0]">Player</th>
             <th>Team</th>
             <th>vs.</th>
-            <!-- <th>stat</th> -->
-            <th v-if="paginatedData.length > 0 && 'count' in paginatedData[0]">count</th>
+            <th v-if="paginatedData.length > 0 && 'count' in paginatedData[0]">{{metric}}</th>
             <th v-if="paginatedData.length > 0 && 'avg' in paginatedData[0]">avg</th>
             <th v-if="paginatedData.length > 0 && 'ip' in paginatedData[0]">ip</th>
             <th v-else-if="paginatedData.length > 0 && 'ab' in paginatedData[0]">ab</th>
@@ -48,10 +60,12 @@ function prevPage() {
       </thead>
       <tbody>
         <tr v-for="(row, index) in paginatedData" :key="index">
-          <td v-if="row.name">{{ row.name }}</td>
+          <td v-if="row.name">
+            <span @click="openPlayerHistory(row.player_id)"
+              style="cursor: pointer; text-decoration: underline;">{{ row.name }}</span>
+          </td>
           <td>{{ row.team }}</td>
           <td>{{ row.opponent }}</td>
-          <!-- <td>{{ row.metric }}</td> -->
           <td v-if="row.count">{{ row.count }}</td>
           <td v-if="row.avg">{{ row.avg }}</td>
           <td v-if="row.ip">{{ row.ip.toFixed(1) }}</td>
@@ -64,9 +78,17 @@ function prevPage() {
       <span style="margin: 0 1rem;">Page {{ currentPage }} of {{ totalPages }}</span>
       <button @click="nextPage" :disabled="currentPage === totalPages">Next</button>
     </div>
+    <BatterHHistory 
+      v-if="showModal" 
+      :player_id="currentPlayer"
+      :selectedDays="selectedDays"
+      :metric="metric"
+      :position="position"
+      @close="showModal = false"
+    />
   </div>
 </template>
 
 <style scoped>
-/* Add your styles here */
+
 </style>

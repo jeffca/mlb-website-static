@@ -1,3 +1,12 @@
+.center {
+  text-align: center;
+}
+
+h2 {
+  font-size: 14pt;
+  margin-bottom: 0.5em;
+}
+
 table {
   font-family: Helvetica;
   font-size: 10pt;
@@ -38,6 +47,42 @@ button.active {
   border-color: #5e96f0;
   box-shadow: 0 2px 8px rgba(66, 133, 244, 0.2);
 }
+
+
+.button-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.button-group {
+  display: flex;
+  gap: 8px;
+}
+.days-label {
+  color: #333;
+  font-weight: bold;
+}
+
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+.modal-content {
+  background: white;
+  padding: 2em;
+  border-radius: 8px;
+}
+
 
 .layout {
   display: flex;

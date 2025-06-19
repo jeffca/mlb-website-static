@@ -41,24 +41,27 @@ function selectDays(days) {
 <template>
   <div>
     <div class="button-div">
-      <button
-        v-for="days in daysOptions"
-        :key="days"
-        @click="selectDays(days)"
-        :class="{ active: selectedDays === days }"
-      >
-        {{ days }}
-      </button>
-      <span>Last {{ selectedDays }} days</span>
+        <div class="button-group">
+            <button
+            v-for="days in daysOptions"
+            :key="days"
+            @click="selectDays(days)"
+            :class="{ active: selectedDays === days }"
+            >
+            {{ days }}
+            </button>
+        </div>
+        <span class="days-label">Last {{ selectedDays }} days</span>
     </div>
-    <h2>Batter Hits</h2>
-    <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>Batter Strikeouts</h2>
-    <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>Batter RBIs</h2>
-    <PlayerTable :data="dataMapRBI[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>Batter Runs</h2>
-    <PlayerTable :data="dataMapR[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+
+    <h2>Top Batter Hits</h2>
+    <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" :metric="'h'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+    <h2>Top Batter Strikeouts</h2>
+    <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" :metric="'k'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+    <h2>Top Batter RBIs</h2>
+    <PlayerTable :data="dataMapRBI[selectedDays]" :currentPage="currentPage" :metric="'rbi'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+    <h2>Top Batter Runs</h2>
+    <PlayerTable :data="dataMapR[selectedDays]" :currentPage="currentPage" :metric="'r'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
   </div>
 </template>
 
@@ -66,4 +69,20 @@ function selectDays(days) {
 button.active {
   font-weight: bold;
 }
+
+.button-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.button-group {
+  display: flex;
+  gap: 8px;
+}
+.days-label {
+  color: #333;
+  font-weight: bold;
+}
+
 </style>

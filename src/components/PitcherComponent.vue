@@ -39,27 +39,29 @@ function selectDays(days) {
 </script>
 
 <template>
-  <div>
-    <div class="button-div">
-      <button
-        v-for="days in daysOptions"
-        :key="days"
-        @click="selectDays(days)"
-        :class="{ active: selectedDays === days }"
-      >
-        {{ days }}
-      </button>
-      <span>Last {{ selectedDays }} starts</span>
+    <div>
+        <div class="button-div">
+            <div class="button-group">
+                <button
+                    v-for="days in daysOptions"
+                    :key="days"
+                    @click="selectDays(days)"
+                    :class="{ active: selectedDays === days }"
+                >
+                    {{ days }}
+                </button>
+            </div>
+            <span class="days-label">Last {{ selectedDays }} start<span v-if="selectedDays > 1">s</span></span>
+        </div>
+        <h2>Top Starting Pitcher Hits Allowed</h2>
+        <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" :metric="'h'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <h2>Top S.P. Strikeouts</h2>
+        <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" :metric="'k'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <h2>Top S.P. Walks</h2>
+        <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" :metric="'bb'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <h2>Top S.P. ER Allowed</h2>
+        <PlayerTable :data="dataMapER[selectedDays]" :currentPage="currentPage" :metric="'er'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     </div>
-    <h2>SP Hits Allowed</h2>
-    <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>SP Strikeouts</h2>
-    <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>SP Walks</h2>
-    <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>SP ER Allowed</h2>
-    <PlayerTable :data="dataMapER[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-  </div>
 </template>
 
 <style scoped>
