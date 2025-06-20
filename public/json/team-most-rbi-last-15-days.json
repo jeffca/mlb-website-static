@@ -3,72 +3,66 @@
     "id": 17,
     "team": "Reds",
     "opponent": "Twins",
-    "avg": 0.163
-  },
-  {
-    "id": 15,
-    "team": "Rays",
-    "opponent": "Orioles",
-    "avg": 0.163
-  },
-  {
-    "id": 24,
-    "team": "Red Sox",
-    "opponent": "Mariners",
-    "avg": 0.148
-  },
-  {
-    "id": 7,
-    "team": "Astros",
-    "opponent": "A's",
-    "avg": 0.148
+    "avg": 0.17
   },
   {
     "id": 25,
     "team": "D-Backs",
     "opponent": "Jays",
-    "avg": 0.142
+    "avg": 0.157
   },
   {
-    "id": 26,
-    "team": "Rockies",
-    "opponent": "Nationals",
-    "avg": 0.141
+    "id": 15,
+    "team": "Rays",
+    "opponent": "Orioles",
+    "avg": 0.157
   },
   {
-    "id": 27,
-    "team": "Mets",
-    "opponent": "Braves",
-    "avg": 0.14
-  },
-  {
-    "id": 16,
-    "team": "Jays",
-    "opponent": "D-Backs",
-    "avg": 0.138
-  },
-  {
-    "id": 13,
-    "team": "Dodgers",
-    "opponent": "Padres",
-    "avg": 0.134
-  },
-  {
-    "id": 12,
-    "team": "Giants",
-    "opponent": "Guardians",
-    "avg": 0.134
+    "id": 7,
+    "team": "Astros",
+    "opponent": "A's",
+    "avg": 0.155
   },
   {
     "id": 30,
     "team": "Braves",
     "opponent": "Mets",
+    "avg": 0.146
+  },
+  {
+    "id": 16,
+    "team": "Jays",
+    "opponent": "D-Backs",
+    "avg": 0.145
+  },
+  {
+    "id": 26,
+    "team": "Rockies",
+    "opponent": "Nationals",
+    "avg": 0.137
+  },
+  {
+    "id": 12,
+    "team": "Giants",
+    "opponent": "Guardians",
+    "avg": 0.136
+  },
+  {
+    "id": 14,
+    "team": "Cardinals",
+    "opponent": "White Sox",
+    "avg": 0.135
+  },
+  {
+    "id": 27,
+    "team": "Mets",
+    "opponent": "Braves",
     "avg": 0.133
   },
   {
-    "id": 19,
-    "team": "Rangers",
-    "opponent": "Royals",
+    "id": 24,
+    "team": "Red Sox",
+    "opponent": "Giants",
     "avg": 0.132
   },
   {
@@ -78,105 +72,111 @@
     "avg": 0.131
   },
   {
-    "id": 14,
-    "team": "Cardinals",
-    "opponent": "White Sox",
-    "avg": 0.128
-  },
-  {
     "id": 21,
     "team": "A's",
     "opponent": "Astros",
-    "avg": 0.127
+    "avg": 0.129
   },
   {
     "id": 6,
     "team": "Twins",
     "opponent": "Reds",
-    "avg": 0.123
-  },
-  {
-    "id": 9,
-    "team": "Marlins",
-    "opponent": "Phillies",
-    "avg": 0.121
-  },
-  {
-    "id": 29,
-    "team": "Phillies",
-    "opponent": "Marlins",
-    "avg": 0.12
-  },
-  {
-    "id": 2,
-    "team": "Angels",
-    "opponent": "Yankees",
-    "avg": 0.119
+    "avg": 0.128
   },
   {
     "id": 4,
     "team": "Tigers",
     "opponent": "Pirates",
-    "avg": 0.118
+    "avg": 0.128
+  },
+  {
+    "id": 19,
+    "team": "Rangers",
+    "opponent": "Pirates",
+    "avg": 0.127
+  },
+  {
+    "id": 13,
+    "team": "Dodgers",
+    "opponent": "Padres",
+    "avg": 0.127
+  },
+  {
+    "id": 29,
+    "team": "Phillies",
+    "opponent": "Marlins",
+    "avg": 0.122
   },
   {
     "id": 11,
     "team": "Padres",
     "opponent": "Dodgers",
-    "avg": 0.115
-  },
-  {
-    "id": 23,
-    "team": "Mariners",
-    "opponent": "Red Sox",
-    "avg": 0.106
+    "avg": 0.12
   },
   {
     "id": 8,
     "team": "Yankees",
     "opponent": "Angels",
-    "avg": 0.104
+    "avg": 0.119
   },
   {
-    "id": 28,
-    "team": "Brewers",
-    "opponent": "Cubs",
-    "avg": 0.103
-  },
-  {
-    "id": 5,
-    "team": "Royals",
-    "opponent": "Rangers",
-    "avg": 0.099
-  },
-  {
-    "id": 3,
-    "team": "White Sox",
-    "opponent": "Cardinals",
-    "avg": 0.093
+    "id": 9,
+    "team": "Marlins",
+    "opponent": "Phillies",
+    "avg": 0.118
   },
   {
     "id": 20,
     "team": "Cubs",
     "opponent": "Brewers",
-    "avg": 0.092
+    "avg": 0.108
+  },
+  {
+    "id": 2,
+    "team": "Angels",
+    "opponent": "Yankees",
+    "avg": 0.107
+  },
+  {
+    "id": 23,
+    "team": "Mariners",
+    "opponent": "Cubs",
+    "avg": 0.106
+  },
+  {
+    "id": 28,
+    "team": "Brewers",
+    "opponent": "Cubs",
+    "avg": 0.101
   },
   {
     "id": 10,
     "team": "Pirates",
     "opponent": "Tigers",
-    "avg": 0.091
+    "avg": 0.1
+  },
+  {
+    "id": 5,
+    "team": "Royals",
+    "opponent": "Padres",
+    "avg": 0.1
+  },
+  {
+    "id": 3,
+    "team": "White Sox",
+    "opponent": "Cardinals",
+    "avg": 0.096
   },
   {
     "id": 22,
     "team": "Guardians",
     "opponent": "Giants",
-    "avg": 0.09
+    "avg": 0.084
   },
   {
     "id": 18,
     "team": "Nationals",
     "opponent": "Rockies",
-    "avg": 0.077
+    "avg": 0.08
   }
 ]

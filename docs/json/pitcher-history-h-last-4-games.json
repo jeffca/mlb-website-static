@@ -1,5 +1,55 @@
 [
   {
+    "player_id": 29155,
+    "name": "Charlie Morton",
+    "team": "Orioles",
+    "opponent": "Rays",
+    "date_est": "2025-06-19",
+    "event_id": 401696020,
+    "metric": 6,
+    "ip": 6.0
+  },
+  {
+    "player_id": 29155,
+    "name": "Charlie Morton",
+    "team": "Orioles",
+    "opponent": "Angels",
+    "date_est": "2025-06-13",
+    "event_id": 401695936,
+    "metric": 5,
+    "ip": 5.0
+  },
+  {
+    "player_id": 29155,
+    "name": "Charlie Morton",
+    "team": "Orioles",
+    "opponent": "A's",
+    "date_est": "2025-06-07",
+    "event_id": 401764552,
+    "metric": 6,
+    "ip": 2.1
+  },
+  {
+    "player_id": 29155,
+    "name": "Charlie Morton",
+    "team": "Orioles",
+    "opponent": "White Sox",
+    "date_est": "2025-06-01",
+    "event_id": 401695782,
+    "metric": 6,
+    "ip": 6.2
+  },
+  {
+    "player_id": 29155,
+    "name": "Charlie Morton",
+    "team": "Orioles",
+    "opponent": "Cardinals",
+    "date_est": "2025-05-26",
+    "event_id": 401695707,
+    "metric": 4,
+    "ip": 6.0
+  },
+  {
     "player_id": 32082,
     "name": "Sonny Gray",
     "team": "Cardinals",
@@ -93,6 +143,16 @@
     "player_id": 32151,
     "name": "Tyler Anderson",
     "team": "Angels",
+    "opponent": "Yankees",
+    "date_est": "2025-06-19",
+    "event_id": 401696018,
+    "metric": 8,
+    "ip": 6.0
+  },
+  {
+    "player_id": 32151,
+    "name": "Tyler Anderson",
+    "team": "Angels",
     "opponent": "Orioles",
     "date_est": "2025-06-14",
     "event_id": 401695951,
@@ -168,6 +228,66 @@
     "event_id": 401695683,
     "metric": 7,
     "ip": 5.0
+  },
+  {
+    "player_id": 32667,
+    "name": "Kevin Gausman",
+    "team": "Jays",
+    "opponent": "D-Backs",
+    "date_est": "2025-06-19",
+    "event_id": 401696019,
+    "metric": 7,
+    "ip": 4.1
+  },
+  {
+    "player_id": 32667,
+    "name": "Kevin Gausman",
+    "team": "Jays",
+    "opponent": "Phillies",
+    "date_est": "2025-06-13",
+    "event_id": 401695942,
+    "metric": 4,
+    "ip": 5.0
+  },
+  {
+    "player_id": 32667,
+    "name": "Kevin Gausman",
+    "team": "Jays",
+    "opponent": "Twins",
+    "date_est": "2025-06-07",
+    "event_id": 401695869,
+    "metric": 4,
+    "ip": 6.0
+  },
+  {
+    "player_id": 32667,
+    "name": "Kevin Gausman",
+    "team": "Jays",
+    "opponent": "A's",
+    "date_est": "2025-06-01",
+    "event_id": 401695785,
+    "metric": 8,
+    "ip": 4.2
+  },
+  {
+    "player_id": 32667,
+    "name": "Kevin Gausman",
+    "team": "Jays",
+    "opponent": "Rangers",
+    "date_est": "2025-05-26",
+    "event_id": 401695712,
+    "metric": 5,
+    "ip": 8.0
+  },
+  {
+    "player_id": 32667,
+    "name": "Kevin Gausman",
+    "team": "Jays",
+    "opponent": "Padres",
+    "date_est": "2025-05-21",
+    "event_id": 401695640,
+    "metric": 3,
+    "ip": 7.0
   },
   {
     "player_id": 32675,
@@ -350,16 +470,6 @@
     "ip": 6.0
   },
   {
-    "player_id": 33173,
-    "name": "Kyle Hendricks",
-    "team": "Angels",
-    "opponent": "A's",
-    "date_est": "2025-05-20",
-    "event_id": 401764541,
-    "metric": 9,
-    "ip": 5.2
-  },
-  {
     "player_id": 33252,
     "name": "Michael Lorenzen",
     "team": "Royals",
@@ -388,16 +498,6 @@
     "event_id": 401695709,
     "metric": 11,
     "ip": 5.0
-  },
-  {
-    "player_id": 33252,
-    "name": "Michael Lorenzen",
-    "team": "Royals",
-    "opponent": "Giants",
-    "date_est": "2025-05-20",
-    "event_id": 401695634,
-    "metric": 7,
-    "ip": 4.2
   },
   {
     "player_id": 33263,
@@ -453,6 +553,16 @@
     "player_id": 33372,
     "name": "Nick Martinez",
     "team": "Reds",
+    "opponent": "Twins",
+    "date_est": "2025-06-19",
+    "event_id": 401696022,
+    "metric": 7,
+    "ip": 2.2
+  },
+  {
+    "player_id": 33372,
+    "name": "Nick Martinez",
+    "team": "Reds",
     "opponent": "D-Backs",
     "date_est": "2025-06-07",
     "event_id": 401695859,
@@ -478,126 +588,6 @@
     "event_id": 401695709,
     "metric": 6,
     "ip": 7.0
-  },
-  {
-    "player_id": 33372,
-    "name": "Nick Martinez",
-    "team": "Reds",
-    "opponent": "Pirates",
-    "date_est": "2025-05-20",
-    "event_id": 401695622,
-    "metric": 4,
-    "ip": 6.0
-  },
-  {
-    "player_id": 33722,
-    "name": "Mitch Keller",
-    "team": "Pirates",
-    "opponent": "Cubs",
-    "date_est": "2025-06-15",
-    "event_id": 401695976,
-    "metric": 3,
-    "ip": 6.0
-  },
-  {
-    "player_id": 33722,
-    "name": "Mitch Keller",
-    "team": "Pirates",
-    "opponent": "Marlins",
-    "date_est": "2025-06-10",
-    "event_id": 401695901,
-    "metric": 8,
-    "ip": 6.0
-  },
-  {
-    "player_id": 33722,
-    "name": "Mitch Keller",
-    "team": "Pirates",
-    "opponent": "Astros",
-    "date_est": "2025-06-05",
-    "event_id": 401695835,
-    "metric": 8,
-    "ip": 6.1
-  },
-  {
-    "player_id": 33722,
-    "name": "Mitch Keller",
-    "team": "Pirates",
-    "opponent": "Padres",
-    "date_est": "2025-05-30",
-    "event_id": 401695763,
-    "metric": 3,
-    "ip": 6.0
-  },
-  {
-    "player_id": 33722,
-    "name": "Mitch Keller",
-    "team": "Pirates",
-    "opponent": "Brewers",
-    "date_est": "2025-05-24",
-    "event_id": 401695678,
-    "metric": 7,
-    "ip": 6.0
-  },
-  {
-    "player_id": 33735,
-    "name": "Ryan Yarbrough",
-    "team": "Yankees",
-    "opponent": "Angels",
-    "date_est": "2025-06-18",
-    "event_id": 401696003,
-    "metric": 5,
-    "ip": 5.1
-  },
-  {
-    "player_id": 33735,
-    "name": "Ryan Yarbrough",
-    "team": "Yankees",
-    "opponent": "Red Sox",
-    "date_est": "2025-06-13",
-    "event_id": 401695940,
-    "metric": 4,
-    "ip": 4.2
-  },
-  {
-    "player_id": 33735,
-    "name": "Ryan Yarbrough",
-    "team": "Yankees",
-    "opponent": "Red Sox",
-    "date_est": "2025-06-07",
-    "event_id": 401695860,
-    "metric": 9,
-    "ip": 4.0
-  },
-  {
-    "player_id": 33735,
-    "name": "Ryan Yarbrough",
-    "team": "Yankees",
-    "opponent": "Dodgers",
-    "date_est": "2025-06-01",
-    "event_id": 401695792,
-    "metric": 4,
-    "ip": 6.0
-  },
-  {
-    "player_id": 33735,
-    "name": "Ryan Yarbrough",
-    "team": "Yankees",
-    "opponent": "Angels",
-    "date_est": "2025-05-26",
-    "event_id": 401695714,
-    "metric": 2,
-    "ip": 6.0
-  },
-  {
-    "player_id": 33735,
-    "name": "Ryan Yarbrough",
-    "team": "Yankees",
-    "opponent": "Rangers",
-    "date_est": "2025-05-21",
-    "event_id": 401695641,
-    "metric": 3,
-    "ip": 5.0
   },
   {
     "player_id": 33750,
@@ -648,16 +638,6 @@
     "event_id": 401695701,
     "metric": 6,
     "ip": 4.1
-  },
-  {
-    "player_id": 33750,
-    "name": "Antonio Senzatela",
-    "team": "Rockies",
-    "opponent": "Phillies",
-    "date_est": "2025-05-20",
-    "event_id": 401695631,
-    "metric": 10,
-    "ip": 6.0
   },
   {
     "player_id": 33839,
@@ -883,6 +863,16 @@
     "player_id": 35999,
     "name": "Chris Paddack",
     "team": "Twins",
+    "opponent": "Reds",
+    "date_est": "2025-06-19",
+    "event_id": 401696022,
+    "metric": 6,
+    "ip": 5.0
+  },
+  {
+    "player_id": 35999,
+    "name": "Chris Paddack",
+    "team": "Twins",
     "opponent": "Astros",
     "date_est": "2025-06-13",
     "event_id": 401695944,
@@ -978,16 +968,6 @@
     "event_id": 401695711,
     "metric": 3,
     "ip": 6.1
-  },
-  {
-    "player_id": 36052,
-    "name": "Zack Littell",
-    "team": "Rays",
-    "opponent": "Astros",
-    "date_est": "2025-05-20",
-    "event_id": 401695623,
-    "metric": 7,
-    "ip": 5.0
   },
   {
     "player_id": 36071,
@@ -1140,16 +1120,6 @@
     "ip": 5.0
   },
   {
-    "player_id": 39251,
-    "name": "Walker Buehler",
-    "team": "Red Sox",
-    "opponent": "Mets",
-    "date_est": "2025-05-20",
-    "event_id": 401695624,
-    "metric": 0,
-    "ip": 2.1
-  },
-  {
     "player_id": 39667,
     "name": "Jesus Luzardo",
     "team": "Phillies",
@@ -1198,16 +1168,6 @@
     "event_id": 401764546,
     "metric": 9,
     "ip": 7.0
-  },
-  {
-    "player_id": 39667,
-    "name": "Jesus Luzardo",
-    "team": "Phillies",
-    "opponent": "Rockies",
-    "date_est": "2025-05-20",
-    "event_id": 401695631,
-    "metric": 2,
-    "ip": 6.0
   },
   {
     "player_id": 39818,
@@ -1453,6 +1413,16 @@
     "player_id": 41216,
     "name": "Logan Webb",
     "team": "Giants",
+    "opponent": "Guardians",
+    "date_est": "2025-06-19",
+    "event_id": 401696029,
+    "metric": 7,
+    "ip": 7.0
+  },
+  {
+    "player_id": 41216,
+    "name": "Logan Webb",
+    "team": "Giants",
     "opponent": "Dodgers",
     "date_est": "2025-06-13",
     "event_id": 401695950,
@@ -1588,6 +1558,16 @@
     "event_id": 401695690,
     "metric": 7,
     "ip": 4.1
+  },
+  {
+    "player_id": 42359,
+    "name": "Cristopher Sanchez",
+    "team": "Phillies",
+    "opponent": "Marlins",
+    "date_est": "2025-06-19",
+    "event_id": 401696024,
+    "metric": 5,
+    "ip": 8.0
   },
   {
     "player_id": 42359,
@@ -1740,16 +1720,6 @@
     "ip": 5.0
   },
   {
-    "player_id": 4414154,
-    "name": "Gunnar Hoglund",
-    "team": "A's",
-    "opponent": "Angels",
-    "date_est": "2025-05-20",
-    "event_id": 401764541,
-    "metric": 6,
-    "ip": 4.2
-  },
-  {
     "player_id": 4424862,
     "name": "Spencer Schwellenbach",
     "team": "Braves",
@@ -1840,64 +1810,34 @@
     "ip": 5.0
   },
   {
-    "player_id": 4683356,
-    "name": "Mitchell Parker",
-    "team": "Nationals",
-    "opponent": "Rockies",
-    "date_est": "2025-06-18",
-    "event_id": 401696006,
+    "player_id": 4719068,
+    "name": "Chase Dollander",
+    "team": "Rockies",
+    "opponent": "Nationals",
+    "date_est": "2025-06-19",
+    "event_id": 401696021,
     "metric": 6,
     "ip": 6.0
   },
   {
-    "player_id": 4683356,
-    "name": "Mitchell Parker",
-    "team": "Nationals",
-    "opponent": "Marlins",
-    "date_est": "2025-06-13",
-    "event_id": 401695939,
-    "metric": 8,
-    "ip": 3.1
-  },
-  {
-    "player_id": 4683356,
-    "name": "Mitchell Parker",
-    "team": "Nationals",
-    "opponent": "Rangers",
-    "date_est": "2025-06-07",
-    "event_id": 401695865,
-    "metric": 4,
-    "ip": 6.0
-  },
-  {
-    "player_id": 4683356,
-    "name": "Mitchell Parker",
-    "team": "Nationals",
-    "opponent": "D-Backs",
-    "date_est": "2025-06-01",
-    "event_id": 401695794,
-    "metric": 3,
-    "ip": 5.0
-  },
-  {
-    "player_id": 4683356,
-    "name": "Mitchell Parker",
-    "team": "Nationals",
-    "opponent": "Mariners",
-    "date_est": "2025-05-27",
-    "event_id": 401695730,
-    "metric": 7,
-    "ip": 4.2
-  },
-  {
-    "player_id": 4683356,
-    "name": "Mitchell Parker",
-    "team": "Nationals",
+    "player_id": 4719068,
+    "name": "Chase Dollander",
+    "team": "Rockies",
     "opponent": "Braves",
-    "date_est": "2025-05-20",
-    "event_id": 401695620,
+    "date_est": "2025-06-14",
+    "event_id": 401695953,
     "metric": 6,
-    "ip": 5.1
+    "ip": 6.0
+  },
+  {
+    "player_id": 4719068,
+    "name": "Chase Dollander",
+    "team": "Rockies",
+    "opponent": "Mets",
+    "date_est": "2025-06-08",
+    "event_id": 401695885,
+    "metric": 8,
+    "ip": 3.0
   },
   {
     "player_id": 4721302,
@@ -1953,6 +1893,16 @@
     "player_id": 4867679,
     "name": "Sean Burke",
     "team": "White Sox",
+    "opponent": "Cardinals",
+    "date_est": "2025-06-19",
+    "event_id": 401696028,
+    "metric": 4,
+    "ip": 5.1
+  },
+  {
+    "player_id": 4867679,
+    "name": "Sean Burke",
+    "team": "White Sox",
     "opponent": "Astros",
     "date_est": "2025-06-11",
     "event_id": 401695920,
@@ -1986,6 +1936,56 @@
     "opponent": "Rangers",
     "date_est": "2025-05-23",
     "event_id": 401695670,
+    "metric": 3,
+    "ip": 6.0
+  },
+  {
+    "player_id": 4872587,
+    "name": "Yoshinobu Yamamoto",
+    "team": "Dodgers",
+    "opponent": "Padres",
+    "date_est": "2025-06-19",
+    "event_id": 401696031,
+    "metric": 7,
+    "ip": 6.1
+  },
+  {
+    "player_id": 4872587,
+    "name": "Yoshinobu Yamamoto",
+    "team": "Dodgers",
+    "opponent": "Giants",
+    "date_est": "2025-06-13",
+    "event_id": 401695950,
+    "metric": 6,
+    "ip": 4.2
+  },
+  {
+    "player_id": 4872587,
+    "name": "Yoshinobu Yamamoto",
+    "team": "Dodgers",
+    "opponent": "Cardinals",
+    "date_est": "2025-06-07",
+    "event_id": 401695867,
+    "metric": 4,
+    "ip": 6.0
+  },
+  {
+    "player_id": 4872587,
+    "name": "Yoshinobu Yamamoto",
+    "team": "Dodgers",
+    "opponent": "Yankees",
+    "date_est": "2025-06-01",
+    "event_id": 401695792,
+    "metric": 7,
+    "ip": 3.2
+  },
+  {
+    "player_id": 4872587,
+    "name": "Yoshinobu Yamamoto",
+    "team": "Dodgers",
+    "opponent": "Guardians",
+    "date_est": "2025-05-26",
+    "event_id": 401695705,
     "metric": 3,
     "ip": 6.0
   },
@@ -2193,6 +2193,16 @@
     "player_id": 5133837,
     "name": "Colton Gordon",
     "team": "Astros",
+    "opponent": "A's",
+    "date_est": "2025-06-19",
+    "event_id": 401764557,
+    "metric": 7,
+    "ip": 5.0
+  },
+  {
+    "player_id": 5133837,
+    "name": "Colton Gordon",
+    "team": "Astros",
     "opponent": "Twins",
     "date_est": "2025-06-13",
     "event_id": 401695944,
@@ -2217,36 +2227,6 @@
     "date_est": "2025-05-31",
     "event_id": 401695775,
     "metric": 5,
-    "ip": 5.0
-  },
-  {
-    "player_id": 5182933,
-    "name": "Keider Montero",
-    "team": "Tigers",
-    "opponent": "Cubs",
-    "date_est": "2025-06-07",
-    "event_id": 401695861,
-    "metric": 5,
-    "ip": 5.2
-  },
-  {
-    "player_id": 5182933,
-    "name": "Keider Montero",
-    "team": "Tigers",
-    "opponent": "Royals",
-    "date_est": "2025-06-01",
-    "event_id": 401695788,
-    "metric": 7,
-    "ip": 4.2
-  },
-  {
-    "player_id": 5182933,
-    "name": "Keider Montero",
-    "team": "Tigers",
-    "opponent": "Giants",
-    "date_est": "2025-05-26",
-    "event_id": 401695706,
-    "metric": 1,
     "ip": 5.0
   },
   {
