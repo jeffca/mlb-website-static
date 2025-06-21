@@ -1150,6 +1150,16 @@
     "ip": 4.2
   },
   {
+    "player_id": 41054,
+    "name": "Cole Ragans",
+    "team": "Royals",
+    "opponent": "Cardinals",
+    "date_est": "2025-06-05",
+    "event_id": 401695839,
+    "metric": 4,
+    "ip": 3.0
+  },
+  {
     "player_id": 41216,
     "name": "Logan Webb",
     "team": "Giants",
@@ -1700,6 +1710,26 @@
     "ip": 7.0
   },
   {
+    "player_id": 4414525,
+    "name": "Kumar Rocker",
+    "team": "Rangers",
+    "opponent": "White Sox",
+    "date_est": "2025-06-15",
+    "event_id": 401695973,
+    "metric": 6,
+    "ip": 5.0
+  },
+  {
+    "player_id": 4414525,
+    "name": "Kumar Rocker",
+    "team": "Rangers",
+    "opponent": "Rays",
+    "date_est": "2025-06-04",
+    "event_id": 401695825,
+    "metric": 5,
+    "ip": 3.1
+  },
+  {
     "player_id": 4417208,
     "name": "Noah Cameron",
     "team": "Royals",
@@ -2070,26 +2100,6 @@
     "ip": 5.0
   },
   {
-    "player_id": 5080761,
-    "name": "Jacob Misiorowski",
-    "team": "Brewers",
-    "opponent": "Twins",
-    "date_est": "2025-06-20",
-    "event_id": 401696039,
-    "metric": 6,
-    "ip": 6.0
-  },
-  {
-    "player_id": 5080761,
-    "name": "Jacob Misiorowski",
-    "team": "Brewers",
-    "opponent": "Cardinals",
-    "date_est": "2025-06-12",
-    "event_id": 401695933,
-    "metric": 5,
-    "ip": 5.0
-  },
-  {
     "player_id": 5131708,
     "name": "Chad Patrick",
     "team": "Brewers",
@@ -2188,45 +2198,5 @@
     "event_id": 401695701,
     "metric": 7,
     "ip": 4.0
-  },
-  {
-    "player_id": 5196249,
-    "name": "Ryan Bergert",
-    "team": "Padres",
-    "opponent": "Dodgers",
-    "date_est": "2025-06-19",
-    "event_id": 401696031,
-    "metric": 3,
-    "ip": 4.2
-  },
-  {
-    "player_id": 5196249,
-    "name": "Ryan Bergert",
-    "team": "Padres",
-    "opponent": "D-Backs",
-    "date_est": "2025-06-14",
-    "event_id": 401695964,
-    "metric": 8,
-    "ip": 5.0
-  },
-  {
-    "player_id": 5196249,
-    "name": "Ryan Bergert",
-    "team": "Padres",
-    "opponent": "Brewers",
-    "date_est": "2025-06-08",
-    "event_id": 401695883,
-    "metric": 4,
-    "ip": 5.1
-  },
-  {
-    "player_id": 5196249,
-    "name": "Ryan Bergert",
-    "team": "Padres",
-    "opponent": "Giants",
-    "date_est": "2025-06-03",
-    "event_id": 401695816,
-    "metric": 2,
-    "ip": 5.0
   }
 ]

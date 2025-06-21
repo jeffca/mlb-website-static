@@ -30,16 +30,6 @@
     "expected_count_per_game": 7.4
   },
   {
-    "player_id": 32082,
-    "name": "Sonny Gray",
-    "team": "Cardinals",
-    "opponent": "Reds",
-    "metric": "k",
-    "count": 34,
-    "ip": 29.2,
-    "expected_count_per_game": 6.8
-  },
-  {
     "player_id": 32968,
     "name": "Merrill Kelly",
     "team": "D-Backs",
@@ -47,6 +37,16 @@
     "metric": "k",
     "count": 34,
     "ip": 29.0,
+    "expected_count_per_game": 6.8
+  },
+  {
+    "player_id": 32082,
+    "name": "Sonny Gray",
+    "team": "Cardinals",
+    "opponent": "Reds",
+    "metric": "k",
+    "count": 34,
+    "ip": 29.2,
     "expected_count_per_game": 6.8
   },
   {
@@ -90,16 +90,6 @@
     "expected_count_per_game": 5.0
   },
   {
-    "player_id": 40973,
-    "name": "Jose Soriano",
-    "team": "Angels",
-    "opponent": "Astros",
-    "metric": "k",
-    "count": 24,
-    "ip": 27.4,
-    "expected_count_per_game": 4.8
-  },
-  {
     "player_id": 4720856,
     "name": "Brayan Bello",
     "team": "Red Sox",
@@ -107,6 +97,16 @@
     "metric": "k",
     "count": 24,
     "ip": 25.4,
+    "expected_count_per_game": 4.8
+  },
+  {
+    "player_id": 40973,
+    "name": "Jose Soriano",
+    "team": "Angels",
+    "opponent": "Astros",
+    "metric": "k",
+    "count": 24,
+    "ip": 27.4,
     "expected_count_per_game": 4.8
   },
   {
@@ -120,16 +120,6 @@
     "expected_count_per_game": 4.6
   },
   {
-    "player_id": 32804,
-    "name": "Zach Eflin",
-    "team": "Orioles",
-    "opponent": "Yankees",
-    "metric": "k",
-    "count": 21,
-    "ip": 29.2,
-    "expected_count_per_game": 4.2
-  },
-  {
     "player_id": 4692526,
     "name": "Cade Horton",
     "team": "Cubs",
@@ -140,14 +130,14 @@
     "expected_count_per_game": 4.2
   },
   {
-    "player_id": 33722,
-    "name": "Mitch Keller",
-    "team": "Pirates",
-    "opponent": "Rangers",
+    "player_id": 32804,
+    "name": "Zach Eflin",
+    "team": "Orioles",
+    "opponent": "Yankees",
     "metric": "k",
-    "count": 20,
-    "ip": 30.1,
-    "expected_count_per_game": 4.0
+    "count": 21,
+    "ip": 29.2,
+    "expected_count_per_game": 4.2
   },
   {
     "player_id": 4297897,
@@ -160,14 +150,14 @@
     "expected_count_per_game": 4.0
   },
   {
-    "player_id": 41290,
-    "name": "Jake Irvin",
-    "team": "Nationals",
-    "opponent": "Dodgers",
+    "player_id": 33722,
+    "name": "Mitch Keller",
+    "team": "Pirates",
+    "opponent": "Rangers",
     "metric": "k",
-    "count": 19,
-    "ip": 29.0,
-    "expected_count_per_game": 3.8
+    "count": 20,
+    "ip": 30.1,
+    "expected_count_per_game": 4.0
   },
   {
     "player_id": 4228724,
@@ -180,6 +170,16 @@
     "expected_count_per_game": 6.333
   },
   {
+    "player_id": 41290,
+    "name": "Jake Irvin",
+    "team": "Nationals",
+    "opponent": "Dodgers",
+    "metric": "k",
+    "count": 19,
+    "ip": 29.0,
+    "expected_count_per_game": 3.8
+  },
+  {
     "player_id": 4621424,
     "name": "Carson Palmquist",
     "team": "Rockies",
@@ -190,16 +190,6 @@
     "expected_count_per_game": 3.6
   },
   {
-    "player_id": 41065,
-    "name": "Griffin Canning",
-    "team": "Mets",
-    "opponent": "Phillies",
-    "metric": "k",
-    "count": 17,
-    "ip": 20.4,
-    "expected_count_per_game": 3.4
-  },
-  {
     "player_id": 4718970,
     "name": "Mick Abel",
     "team": "Phillies",
@@ -208,6 +198,16 @@
     "count": 17,
     "ip": 20.1,
     "expected_count_per_game": 4.25
+  },
+  {
+    "player_id": 41065,
+    "name": "Griffin Canning",
+    "team": "Mets",
+    "opponent": "Phillies",
+    "metric": "k",
+    "count": 17,
+    "ip": 20.4,
+    "expected_count_per_game": 3.4
   },
   {
     "player_id": 4345404,
@@ -230,16 +230,6 @@
     "expected_count_per_game": 4.0
   },
   {
-    "player_id": 32106,
-    "name": "Jose Quintana",
-    "team": "Brewers",
-    "opponent": "Twins",
-    "metric": "k",
-    "count": 11,
-    "ip": 14.1,
-    "expected_count_per_game": 3.667
-  },
-  {
     "player_id": 4414525,
     "name": "Kumar Rocker",
     "team": "Rangers",
@@ -248,6 +238,16 @@
     "count": 11,
     "ip": 8.1,
     "expected_count_per_game": 5.5
+  },
+  {
+    "player_id": 32106,
+    "name": "Jose Quintana",
+    "team": "Brewers",
+    "opponent": "Twins",
+    "metric": "k",
+    "count": 11,
+    "ip": 14.1,
+    "expected_count_per_game": 3.667
   },
   {
     "player_id": 4987645,

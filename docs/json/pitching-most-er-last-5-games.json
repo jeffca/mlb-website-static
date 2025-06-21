@@ -10,13 +10,13 @@
     "expected_count_per_game": 3.6
   },
   {
-    "player_id": 41290,
-    "name": "Jake Irvin",
-    "team": "Nationals",
-    "opponent": "Dodgers",
+    "player_id": 41065,
+    "name": "Griffin Canning",
+    "team": "Mets",
+    "opponent": "Phillies",
     "metric": "er",
     "count": 16,
-    "ip": 29.0,
+    "ip": 20.4,
     "expected_count_per_game": 3.2
   },
   {
@@ -30,23 +30,23 @@
     "expected_count_per_game": 3.2
   },
   {
-    "player_id": 41065,
-    "name": "Griffin Canning",
-    "team": "Mets",
-    "opponent": "Phillies",
+    "player_id": 41290,
+    "name": "Jake Irvin",
+    "team": "Nationals",
+    "opponent": "Dodgers",
     "metric": "er",
     "count": 16,
-    "ip": 20.4,
+    "ip": 29.0,
     "expected_count_per_game": 3.2
   },
   {
-    "player_id": 33722,
-    "name": "Mitch Keller",
-    "team": "Pirates",
-    "opponent": "Rangers",
+    "player_id": 34943,
+    "name": "Dylan Cease",
+    "team": "Padres",
+    "opponent": "Royals",
     "metric": "er",
     "count": 15,
-    "ip": 30.1,
+    "ip": 26.2,
     "expected_count_per_game": 3.0
   },
   {
@@ -60,13 +60,13 @@
     "expected_count_per_game": 3.0
   },
   {
-    "player_id": 34943,
-    "name": "Dylan Cease",
-    "team": "Padres",
-    "opponent": "Royals",
+    "player_id": 33722,
+    "name": "Mitch Keller",
+    "team": "Pirates",
+    "opponent": "Rangers",
     "metric": "er",
     "count": 15,
-    "ip": 26.2,
+    "ip": 30.1,
     "expected_count_per_game": 3.0
   },
   {
@@ -90,16 +90,6 @@
     "expected_count_per_game": 2.6
   },
   {
-    "player_id": 32968,
-    "name": "Merrill Kelly",
-    "team": "D-Backs",
-    "opponent": "Rockies",
-    "metric": "er",
-    "count": 12,
-    "ip": 29.0,
-    "expected_count_per_game": 2.4
-  },
-  {
     "player_id": 33840,
     "name": "Grant Holmes",
     "team": "Braves",
@@ -107,6 +97,16 @@
     "metric": "er",
     "count": 12,
     "ip": 26.5,
+    "expected_count_per_game": 2.4
+  },
+  {
+    "player_id": 32968,
+    "name": "Merrill Kelly",
+    "team": "D-Backs",
+    "opponent": "Rockies",
+    "metric": "er",
+    "count": 12,
+    "ip": 29.0,
     "expected_count_per_game": 2.4
   },
   {
@@ -120,13 +120,13 @@
     "expected_count_per_game": 2.2
   },
   {
-    "player_id": 32811,
-    "name": "Jose Berrios",
-    "team": "Jays",
-    "opponent": "White Sox",
+    "player_id": 4345404,
+    "name": "Landen Roupp",
+    "team": "Giants",
+    "opponent": "Red Sox",
     "metric": "er",
     "count": 10,
-    "ip": 28.4,
+    "ip": 23.3,
     "expected_count_per_game": 2.0
   },
   {
@@ -140,13 +140,13 @@
     "expected_count_per_game": 2.0
   },
   {
-    "player_id": 4345404,
-    "name": "Landen Roupp",
-    "team": "Giants",
-    "opponent": "Red Sox",
+    "player_id": 32811,
+    "name": "Jose Berrios",
+    "team": "Jays",
+    "opponent": "White Sox",
     "metric": "er",
     "count": 10,
-    "ip": 23.3,
+    "ip": 28.4,
     "expected_count_per_game": 2.0
   },
   {
@@ -160,14 +160,14 @@
     "expected_count_per_game": 1.8
   },
   {
-    "player_id": 4417208,
-    "name": "Noah Cameron",
-    "team": "Royals",
-    "opponent": "Padres",
+    "player_id": 32106,
+    "name": "Jose Quintana",
+    "team": "Brewers",
+    "opponent": "Twins",
     "metric": "er",
     "count": 8,
-    "ip": 28.499999999999996,
-    "expected_count_per_game": 1.6
+    "ip": 14.1,
+    "expected_count_per_game": 2.667
   },
   {
     "player_id": 4297897,
@@ -180,34 +180,14 @@
     "expected_count_per_game": 1.6
   },
   {
-    "player_id": 32106,
-    "name": "Jose Quintana",
-    "team": "Brewers",
-    "opponent": "Twins",
+    "player_id": 4417208,
+    "name": "Noah Cameron",
+    "team": "Royals",
+    "opponent": "Padres",
     "metric": "er",
     "count": 8,
-    "ip": 14.1,
-    "expected_count_per_game": 2.667
-  },
-  {
-    "player_id": 4208281,
-    "name": "Ryan Pepiot",
-    "team": "Rays",
-    "opponent": "Tigers",
-    "metric": "er",
-    "count": 6,
-    "ip": 32.4,
-    "expected_count_per_game": 1.2
-  },
-  {
-    "player_id": 41085,
-    "name": "Clarke Schmidt",
-    "team": "Yankees",
-    "opponent": "Orioles",
-    "metric": "er",
-    "count": 6,
-    "ip": 28.599999999999998,
-    "expected_count_per_game": 1.2
+    "ip": 28.499999999999996,
+    "expected_count_per_game": 1.6
   },
   {
     "player_id": 41383,
@@ -220,34 +200,24 @@
     "expected_count_per_game": 3.0
   },
   {
-    "player_id": 4718970,
-    "name": "Mick Abel",
-    "team": "Phillies",
-    "opponent": "Mets",
+    "player_id": 41085,
+    "name": "Clarke Schmidt",
+    "team": "Yankees",
+    "opponent": "Orioles",
     "metric": "er",
-    "count": 5,
-    "ip": 20.1,
-    "expected_count_per_game": 1.25
+    "count": 6,
+    "ip": 28.599999999999998,
+    "expected_count_per_game": 1.2
   },
   {
-    "player_id": 40934,
-    "name": "Aaron Civale",
-    "team": "Brewers",
-    "opponent": null,
+    "player_id": 4208281,
+    "name": "Ryan Pepiot",
+    "team": "Rays",
+    "opponent": "Tigers",
     "metric": "er",
-    "count": 5,
-    "ip": 13.2,
-    "expected_count_per_game": 1.667
-  },
-  {
-    "player_id": 4414525,
-    "name": "Kumar Rocker",
-    "team": "Rangers",
-    "opponent": "Pirates",
-    "metric": "er",
-    "count": 5,
-    "ip": 8.1,
-    "expected_count_per_game": 2.5
+    "count": 6,
+    "ip": 32.4,
+    "expected_count_per_game": 1.2
   },
   {
     "player_id": 4917854,
@@ -260,6 +230,36 @@
     "expected_count_per_game": 2.5
   },
   {
+    "player_id": 4414525,
+    "name": "Kumar Rocker",
+    "team": "Rangers",
+    "opponent": "Pirates",
+    "metric": "er",
+    "count": 5,
+    "ip": 8.1,
+    "expected_count_per_game": 2.5
+  },
+  {
+    "player_id": 40934,
+    "name": "Aaron Civale",
+    "team": "Brewers",
+    "opponent": null,
+    "metric": "er",
+    "count": 5,
+    "ip": 13.2,
+    "expected_count_per_game": 1.667
+  },
+  {
+    "player_id": 4718970,
+    "name": "Mick Abel",
+    "team": "Phillies",
+    "opponent": "Mets",
+    "metric": "er",
+    "count": 5,
+    "ip": 20.1,
+    "expected_count_per_game": 1.25
+  },
+  {
     "player_id": 4987645,
     "name": "Mitch Spence",
     "team": "A's",
@@ -268,16 +268,6 @@
     "count": 4,
     "ip": 11.399999999999999,
     "expected_count_per_game": 0.8
-  },
-  {
-    "player_id": 4228724,
-    "name": "Brandon Walter",
-    "team": "Astros",
-    "opponent": "Angels",
-    "metric": "er",
-    "count": 3,
-    "ip": 17.2,
-    "expected_count_per_game": 1.0
   },
   {
     "player_id": 36023,
@@ -290,13 +280,13 @@
     "expected_count_per_game": 0.6
   },
   {
-    "player_id": 4087614,
-    "name": "Sawyer Gipson-Long",
-    "team": "Tigers",
-    "opponent": "Rays",
+    "player_id": 4228724,
+    "name": "Brandon Walter",
+    "team": "Astros",
+    "opponent": "Angels",
     "metric": "er",
-    "count": 2,
-    "ip": 7.2,
+    "count": 3,
+    "ip": 17.2,
     "expected_count_per_game": 1.0
   },
   {
@@ -308,5 +298,15 @@
     "count": 2,
     "ip": 5.0,
     "expected_count_per_game": 2.0
+  },
+  {
+    "player_id": 4087614,
+    "name": "Sawyer Gipson-Long",
+    "team": "Tigers",
+    "opponent": "Rays",
+    "metric": "er",
+    "count": 2,
+    "ip": 7.2,
+    "expected_count_per_game": 1.0
   }
 ]
