@@ -8,6 +8,7 @@ const dataMapH = ref({})
 const dataMapER = ref({})
 const dataMapK = ref({}) 
 const dataMapBB = ref({}) 
+const dataMapIP = ref({}) 
 const loading = ref(true)
 const currentPage = ref(1); 
 
@@ -24,6 +25,8 @@ onMounted(async () => {
       dataMapK.value[days] = await responseK.json()
       const responseBB = await fetch(`/${baseUrl}/json/pitching-most-bb-last-${days}-games.json`)
       dataMapBB.value[days] = await responseBB.json()
+      const responseIP = await fetch(`/${baseUrl}/json/pitching-most-ip-last-${days}-games.json`)
+      dataMapIP.value[days] = await responseIP.json()
     }
     loading.value = false
   } catch (error) {
@@ -59,6 +62,8 @@ function selectDays(days) {
         <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" :metric="'k'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
         <h2>Top S.P. Walks</h2>
         <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" :metric="'bb'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <h2>Top S.P. IP</h2>
+        <PlayerTable :data="dataMapIP[selectedDays]" :currentPage="currentPage" :metric="'ip'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
         <h2>Top S.P. ER Allowed</h2>
         <PlayerTable :data="dataMapER[selectedDays]" :currentPage="currentPage" :metric="'er'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     </div>

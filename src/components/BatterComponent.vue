@@ -5,6 +5,7 @@ import { ref, onMounted } from 'vue'
 const daysOptions = [3,5,7,10,15] 
 const selectedDays = ref(3)
 const dataMapH = ref({}) // For most-h
+const dataMapHR = ref({}) // For most-h
 const dataMapK = ref({}) // For most-k
 const dataMapR = ref({}) // For most-h
 const dataMapRBI = ref({}) // For most-bb
@@ -20,6 +21,8 @@ onMounted(async () => {
       dataMapH.value[days] = await responseH.json()
       const responseK = await fetch(`/${baseUrl}/json/batting-most-k-last-${days}-days.json`)
       dataMapK.value[days] = await responseK.json()
+      const responseHR = await fetch(`/${baseUrl}/json/batting-most-hr-last-${days}-days.json`)
+      dataMapHR.value[days] = await responseHR.json()
       const responseR = await fetch(`/${baseUrl}/json/batting-most-r-last-${days}-days.json`)
       dataMapR.value[days] = await responseR.json()
       const responseRBI = await fetch(`/${baseUrl}/json/batting-most-rbi-last-${days}-days.json`)
@@ -58,6 +61,8 @@ function selectDays(days) {
     <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" :metric="'h'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Batter Strikeouts</h2>
     <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" :metric="'k'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+    <h2>Top Batter Home Runs</h2>
+    <PlayerTable :data="dataMapHR[selectedDays]" :currentPage="currentPage" :metric="'hr'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Batter RBIs</h2>
     <PlayerTable :data="dataMapRBI[selectedDays]" :currentPage="currentPage" :metric="'rbi'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Batter Runs</h2>
@@ -66,23 +71,5 @@ function selectDays(days) {
 </template>
 
 <style scoped>
-button.active {
-  font-weight: bold;
-}
-
-.button-div {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 10px;
-}
-.button-group {
-  display: flex;
-  gap: 8px;
-}
-.days-label {
-  color: #333;
-  font-weight: bold;
-}
 
 </style>

@@ -1,5 +1,5 @@
 <script setup>
-import BatterHHistory from './BatterHHistory.vue'
+import PlayerHistory from './PlayerHistory.vue'
 
 import { computed, ref } from 'vue'
 
@@ -54,8 +54,9 @@ function openPlayerHistory(player_id) {
             <th>vs.</th>
             <th v-if="paginatedData.length > 0 && 'count' in paginatedData[0]">{{metric}}</th>
             <th v-if="paginatedData.length > 0 && 'avg' in paginatedData[0]">avg</th>
-            <th v-if="paginatedData.length > 0 && 'ip' in paginatedData[0]">ip</th>
+            <th v-if="paginatedData.length > 0 && 'ip' in paginatedData[0] && metric != 'ip'">ip</th>
             <th v-else-if="paginatedData.length > 0 && 'ab' in paginatedData[0]">ab</th>
+            <th v-else-if="metric == 'ip'">games</th>
         </tr>
       </thead>
       <tbody>
@@ -68,8 +69,9 @@ function openPlayerHistory(player_id) {
           <td>{{ row.opponent }}</td>
           <td v-if="row.count">{{ row.count }}</td>
           <td v-if="row.avg">{{ row.avg }}</td>
-          <td v-if="row.ip">{{ row.ip.toFixed(1) }}</td>
+          <td v-if="row.ip && metric!='ip'">{{ row.ip.toFixed(1) }}</td>
           <td v-else-if="row.ab">{{ row.ab }}</td>
+          <td v-else-if="metric=='ip'">{{ selectedDays }}</td>
         </tr>
       </tbody>
     </table>
@@ -78,7 +80,7 @@ function openPlayerHistory(player_id) {
       <span style="margin: 0 1rem;">Page {{ currentPage }} of {{ totalPages }}</span>
       <button @click="nextPage" :disabled="currentPage === totalPages">Next</button>
     </div>
-    <BatterHHistory 
+    <PlayerHistory 
       v-if="showModal" 
       :player_id="currentPlayer"
       :selectedDays="selectedDays"

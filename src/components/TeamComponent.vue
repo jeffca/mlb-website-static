@@ -5,6 +5,7 @@ import { ref, onMounted } from 'vue'
 const daysOptions = [3,5,7,10,15] 
 const selectedDays = ref(3)
 const dataMapH = ref({}) 
+const dataMapHR = ref({}) 
 const dataMapK = ref({}) 
 const dataMapBB = ref({}) 
 const dataMapRBI = ref({}) 
@@ -18,6 +19,8 @@ onMounted(async () => {
       // Fetch most-h data
       const responseH = await fetch(`/${baseUrl}/json/team-most-h-last-${days}-days.json`)
       dataMapH.value[days] = await responseH.json()
+      const responseHR = await fetch(`/${baseUrl}/json/team-most-hr-last-${days}-days.json`)
+      dataMapHR.value[days] = await responseHR.json()
       const responseK = await fetch(`/${baseUrl}/json/team-most-k-last-${days}-days.json`)
       dataMapK.value[days] = await responseK.json()
       const responseBB = await fetch(`/${baseUrl}/json/team-most-bb-last-${days}-days.json`)
@@ -60,6 +63,8 @@ function selectDays(days) {
     <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
     <h2>Top Team Walks</h2>
     <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <h2>Top Team HRs</h2>
+    <PlayerTable :data="dataMapHR[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
     <h2>Top Team RBIs</h2>
     <PlayerTable :data="dataMapRBI[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
   </div>
