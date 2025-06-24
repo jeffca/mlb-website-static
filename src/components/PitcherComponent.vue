@@ -5,6 +5,7 @@ import { ref, onMounted } from 'vue'
 const daysOptions = [1,2,3,4,5] 
 const selectedDays = ref(1)
 const dataMapH = ref({}) 
+const dataMapHR = ref({}) 
 const dataMapER = ref({})
 const dataMapK = ref({}) 
 const dataMapBB = ref({}) 
@@ -19,6 +20,8 @@ onMounted(async () => {
       // Fetch most-h data
       const responseH = await fetch(`/${baseUrl}/json/pitching-most-h-last-${days}-games.json`)
       dataMapH.value[days] = await responseH.json()
+      const responseHR = await fetch(`/${baseUrl}/json/pitching-most-hr-last-${days}-games.json`)
+      dataMapHR.value[days] = await responseHR.json()
       const responseER = await fetch(`/${baseUrl}/json/pitching-most-er-last-${days}-games.json`)
       dataMapER.value[days] = await responseER.json()
       const responseK = await fetch(`/${baseUrl}/json/pitching-most-k-last-${days}-games.json`)
@@ -60,12 +63,14 @@ function selectDays(days) {
         <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" :metric="'h'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
         <h2>Top S.P. Strikeouts</h2>
         <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" :metric="'k'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <h2>Top S.P. Home Runs</h2>
+        <PlayerTable :data="dataMapHR[selectedDays]" :currentPage="currentPage" :metric="'hr'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
         <h2>Top S.P. Walks</h2>
         <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" :metric="'bb'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-        <h2>Top S.P. IP</h2>
-        <PlayerTable :data="dataMapIP[selectedDays]" :currentPage="currentPage" :metric="'ip'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
         <h2>Top S.P. ER Allowed</h2>
         <PlayerTable :data="dataMapER[selectedDays]" :currentPage="currentPage" :metric="'er'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <h2>Top S.P. IP</h2>
+        <PlayerTable :data="dataMapIP[selectedDays]" :currentPage="currentPage" :metric="'ip'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     </div>
 </template>
 

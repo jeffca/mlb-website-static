@@ -44,6 +44,8 @@
           response = await fetch(`/${baseUrl}/json/pitcher-history-h-last-${props.selectedDays}-games.json`)
         } else if (props.metric == 'k') {
           response = await fetch(`/${baseUrl}/json/pitcher-history-k-last-${props.selectedDays}-games.json`)
+        } else if (props.metric == 'hr') {
+          response = await fetch(`/${baseUrl}/json/pitcher-history-hr-last-${props.selectedDays}-games.json`)
         } else if (props.metric == 'er') {
           response = await fetch(`/${baseUrl}/json/pitcher-history-er-last-${props.selectedDays}-games.json`)
         } else if (props.metric == 'bb') {

@@ -61,10 +61,10 @@ function selectDays(days) {
     <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
     <h2>Top Team Strikeouts</h2>
     <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
-    <h2>Top Team Walks</h2>
-    <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
     <h2>Top Team HRs</h2>
     <PlayerTable :data="dataMapHR[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <h2>Top Team Walks</h2>
+    <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
     <h2>Top Team RBIs</h2>
     <PlayerTable :data="dataMapRBI[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
   </div>

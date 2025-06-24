@@ -45,8 +45,8 @@ function openPlayerHistory(player_id) {
 </script>
 
 <template>
-  <div>
-    <table>
+  <div class="player-table-container">
+    <table class="player-table">
       <thead>
         <tr>
             <th v-if="paginatedData.length > 0 && 'name' in paginatedData[0]">Player</th>
@@ -92,5 +92,4 @@ function openPlayerHistory(player_id) {
 </template>
 
 <style scoped>
-
 </style>
