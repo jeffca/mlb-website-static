@@ -84,7 +84,7 @@ button.active {
   z-index: 1000;
 }
 .modal-content {
-  background: white;
+  background: rgb(3, 6, 5);
   padding: 2em;
   border-radius: 8px;
 }
@@ -132,6 +132,38 @@ button.active {
 .time {
   font-size: larger;
 }
+
+
+.player-name {
+  font-size: larger;
+  font-family: Arial;
+}
+.kpi {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px; /* gap between boxes, not inside */
+  margin-bottom: 16px;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.kpi-box {
+  display: flex;
+  background: #36577a;
+  border: 1px rgb(16, 32, 48);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  min-width: 100px;
+  padding: 4px 8px;
+}
+
+.kpi-label, .kpi-value {
+  font-weight: bold;
+  margin-right: 2px;
+  padding: 2px 2px;
+  border-radius: 4px;
+}
+
 
 
 .layout {

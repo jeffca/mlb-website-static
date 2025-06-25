@@ -83,16 +83,12 @@
         if (props.position != 'team') {
           //when a user drills down to a pitcher or batter
           if (allPlayers[i]["player_id"] == props.player_id) {
-            console.log(foundPlayer);
             if (foundPlayer == false) {
               console.log("found the player for the first time...")
               foundPlayerIndex = i;
               foundPlayer = true;
-              console.log(foundPlayer);
             }
             history.value.push(allPlayers[i]);
-            console.log(foundPlayerIndex);
-            // console.log(allPlayers[i]['metric']);
             if (i < (foundPlayerIndex + 3)) {
               last3DaysSum += allPlayers[i]['metric']
             } 
@@ -116,10 +112,7 @@
         }
 
       }
-      console.log(last3DaysSum)
-      console.log(last5DaysSum)
-      console.log(last10DaysSum)
-      console.log(playerHistoryCount)
+      console.log(history);
 
       last3DaysAvg.value = (Math.round((last3DaysSum / Math.min(3,playerHistoryCount)) * 10) / 10).toFixed(1)
       last5DaysAvg.value = (Math.round((last5DaysSum / Math.min(5,playerHistoryCount)) * 10) / 10).toFixed(1)
@@ -204,39 +197,6 @@
 </template>
 
 <style scoped>
-
-.player-name {
-  font-size: larger;
-  font-family: Arial;
-}
-.kpi {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px; /* gap between boxes, not inside */
-  margin-bottom: 16px;
-  background: #f8f9fa;
-  border-radius: 8px;
-  padding: 8px;
-}
-
-.kpi-box {
-  display: flex;
-  background: #e9ecef;
-  border: 1px solid #dee2e6;
-  border-radius: 6px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-  min-width: 100px;
-  padding: 4px 8px;
-}
-
-.kpi-label, .kpi-value {
-  font-weight: bold;
-  color: #272727;
-  margin-right: 2px;
-  padding: 2px 2px;
-  border-radius: 4px;
-}
-
 
 td {
   padding-left: 1.25em;
