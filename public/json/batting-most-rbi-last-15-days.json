@@ -26,8 +26,8 @@
     "opponent": "Pirates",
     "metric": "rbi",
     "count": 15,
-    "ab": 45,
-    "expected_count_per_game": 1.364
+    "ab": 41,
+    "expected_count_per_game": 1.5
   },
   {
     "player_id": 42179,
@@ -56,8 +56,8 @@
     "opponent": "Astros",
     "metric": "rbi",
     "count": 14,
-    "ab": 52,
-    "expected_count_per_game": 1.077
+    "ab": 47,
+    "expected_count_per_game": 1.167
   },
   {
     "player_id": 31097,
@@ -80,16 +80,6 @@
     "expected_count_per_game": 1.0
   },
   {
-    "player_id": 34945,
-    "name": "Ian Happ",
-    "team": "Cubs",
-    "opponent": "Cardinals",
-    "metric": "rbi",
-    "count": 13,
-    "ab": 50,
-    "expected_count_per_game": 1.0
-  },
-  {
     "player_id": 4301949,
     "name": "Casey Schmitt",
     "team": "Giants",
@@ -97,6 +87,16 @@
     "metric": "rbi",
     "count": 12,
     "ab": 41,
+    "expected_count_per_game": 1.0
+  },
+  {
+    "player_id": 34945,
+    "name": "Ian Happ",
+    "team": "Cubs",
+    "opponent": "Cardinals",
+    "metric": "rbi",
+    "count": 12,
+    "ab": 45,
     "expected_count_per_game": 1.0
   },
   {
@@ -110,16 +110,6 @@
     "expected_count_per_game": 0.923
   },
   {
-    "player_id": 32532,
-    "name": "Willson Contreras",
-    "team": "Cardinals",
-    "opponent": "Cubs",
-    "metric": "rbi",
-    "count": 12,
-    "ab": 46,
-    "expected_count_per_game": 0.923
-  },
-  {
     "player_id": 35066,
     "name": "Josh Naylor",
     "team": "D-Backs",
@@ -130,24 +120,14 @@
     "expected_count_per_game": 1.0
   },
   {
-    "player_id": 32767,
-    "name": "Matt Olson",
-    "team": "Braves",
-    "opponent": "Mets",
+    "player_id": 4917694,
+    "name": "Elly De La Cruz",
+    "team": "Reds",
+    "opponent": "Yankees",
     "metric": "rbi",
     "count": 12,
     "ab": 48,
-    "expected_count_per_game": 0.923
-  },
-  {
-    "player_id": 31668,
-    "name": "Marcell Ozuna",
-    "team": "Braves",
-    "opponent": "Mets",
-    "metric": "rbi",
-    "count": 12,
-    "ab": 50,
-    "expected_count_per_game": 0.923
+    "expected_count_per_game": 1.0
   },
   {
     "player_id": 40538,
@@ -160,24 +140,24 @@
     "expected_count_per_game": 0.857
   },
   {
-    "player_id": 4917694,
-    "name": "Elly De La Cruz",
-    "team": "Reds",
-    "opponent": "Yankees",
-    "metric": "rbi",
-    "count": 12,
-    "ab": 53,
-    "expected_count_per_game": 0.923
-  },
-  {
     "player_id": 4345070,
     "name": "Alec Burleson",
     "team": "Cardinals",
     "opponent": "Cubs",
     "metric": "rbi",
     "count": 12,
-    "ab": 59,
-    "expected_count_per_game": 0.857
+    "ab": 55,
+    "expected_count_per_game": 0.923
+  },
+  {
+    "player_id": 32532,
+    "name": "Willson Contreras",
+    "team": "Cardinals",
+    "opponent": "Cubs",
+    "metric": "rbi",
+    "count": 11,
+    "ab": 44,
+    "expected_count_per_game": 0.917
   },
   {
     "player_id": 4416591,
@@ -188,16 +168,6 @@
     "count": 11,
     "ab": 46,
     "expected_count_per_game": 1.0
-  },
-  {
-    "player_id": 38904,
-    "name": "Bo Bichette",
-    "team": "Jays",
-    "opponent": "Guardians",
-    "metric": "rbi",
-    "count": 11,
-    "ab": 52,
-    "expected_count_per_game": 0.917
   },
   {
     "player_id": 4739755,
@@ -218,16 +188,6 @@
     "count": 10,
     "ab": 25,
     "expected_count_per_game": 1.429
-  },
-  {
-    "player_id": 40576,
-    "name": "Taylor Walls",
-    "team": "Rays",
-    "opponent": "Royals",
-    "metric": "rbi",
-    "count": 10,
-    "ab": 31,
-    "expected_count_per_game": 0.909
   },
   {
     "player_id": 36181,
@@ -256,8 +216,8 @@
     "opponent": "Guardians",
     "metric": "rbi",
     "count": 10,
-    "ab": 41,
-    "expected_count_per_game": 0.909
+    "ab": 36,
+    "expected_count_per_game": 1.0
   },
   {
     "player_id": 39642,
@@ -290,6 +250,16 @@
     "expected_count_per_game": 0.833
   },
   {
+    "player_id": 32767,
+    "name": "Matt Olson",
+    "team": "Braves",
+    "opponent": "Mets",
+    "metric": "rbi",
+    "count": 10,
+    "ab": 45,
+    "expected_count_per_game": 0.833
+  },
+  {
     "player_id": 31662,
     "name": "Jose Altuve",
     "team": "Astros",
@@ -300,14 +270,24 @@
     "expected_count_per_game": 0.769
   },
   {
-    "player_id": 4905921,
-    "name": "Junior Caminero",
-    "team": "Rays",
-    "opponent": "Royals",
+    "player_id": 31668,
+    "name": "Marcell Ozuna",
+    "team": "Braves",
+    "opponent": "Mets",
     "metric": "rbi",
     "count": 10,
     "ab": 46,
     "expected_count_per_game": 0.833
+  },
+  {
+    "player_id": 38904,
+    "name": "Bo Bichette",
+    "team": "Jays",
+    "opponent": "Guardians",
+    "metric": "rbi",
+    "count": 10,
+    "ab": 47,
+    "expected_count_per_game": 0.909
   },
   {
     "player_id": 4966637,
@@ -318,16 +298,6 @@
     "count": 10,
     "ab": 48,
     "expected_count_per_game": 0.833
-  },
-  {
-    "player_id": 42664,
-    "name": "Jake Mangum",
-    "team": "Rays",
-    "opponent": "Royals",
-    "metric": "rbi",
-    "count": 10,
-    "ab": 48,
-    "expected_count_per_game": 0.769
   },
   {
     "player_id": 39832,
@@ -360,6 +330,16 @@
     "expected_count_per_game": 0.769
   },
   {
+    "player_id": 40576,
+    "name": "Taylor Walls",
+    "team": "Rays",
+    "opponent": "Royals",
+    "metric": "rbi",
+    "count": 9,
+    "ab": 28,
+    "expected_count_per_game": 0.9
+  },
+  {
     "player_id": 38309,
     "name": "Will Smith",
     "team": "Dodgers",
@@ -390,6 +370,26 @@
     "expected_count_per_game": 0.9
   },
   {
+    "player_id": 41174,
+    "name": "Nolan Gorman",
+    "team": "Cardinals",
+    "opponent": "Cubs",
+    "metric": "rbi",
+    "count": 9,
+    "ab": 40,
+    "expected_count_per_game": 0.75
+  },
+  {
+    "player_id": 4905921,
+    "name": "Junior Caminero",
+    "team": "Rays",
+    "opponent": "Royals",
+    "metric": "rbi",
+    "count": 9,
+    "ab": 41,
+    "expected_count_per_game": 0.818
+  },
+  {
     "player_id": 32655,
     "name": "Byron Buxton",
     "team": "Twins",
@@ -400,24 +400,14 @@
     "expected_count_per_game": 0.75
   },
   {
-    "player_id": 41174,
-    "name": "Nolan Gorman",
-    "team": "Cardinals",
-    "opponent": "Cubs",
+    "player_id": 31187,
+    "name": "Nick Castellanos",
+    "team": "Phillies",
+    "opponent": "Astros",
     "metric": "rbi",
     "count": 9,
-    "ab": 42,
-    "expected_count_per_game": 0.692
-  },
-  {
-    "player_id": 36185,
-    "name": "Ronald Acuna Jr.",
-    "team": "Braves",
-    "opponent": "Mets",
-    "metric": "rbi",
-    "count": 9,
-    "ab": 45,
-    "expected_count_per_game": 0.692
+    "ab": 44,
+    "expected_count_per_game": 0.818
   },
   {
     "player_id": 33712,
@@ -426,8 +416,8 @@
     "opponent": "Astros",
     "metric": "rbi",
     "count": 9,
-    "ab": 47,
-    "expected_count_per_game": 0.692
+    "ab": 45,
+    "expected_count_per_game": 0.75
   },
   {
     "player_id": 35537,
@@ -440,16 +430,6 @@
     "expected_count_per_game": 0.692
   },
   {
-    "player_id": 31187,
-    "name": "Nick Castellanos",
-    "team": "Phillies",
-    "opponent": "Astros",
-    "metric": "rbi",
-    "count": 9,
-    "ab": 49,
-    "expected_count_per_game": 0.75
-  },
-  {
     "player_id": 35983,
     "name": "Fernando Tatis Jr.",
     "team": "Padres",
@@ -458,6 +438,36 @@
     "count": 9,
     "ab": 49,
     "expected_count_per_game": 0.643
+  },
+  {
+    "player_id": 4417795,
+    "name": "Sal Frelick",
+    "team": "Brewers",
+    "opponent": "Pirates",
+    "metric": "rbi",
+    "count": 9,
+    "ab": 50,
+    "expected_count_per_game": 0.75
+  },
+  {
+    "player_id": 4142424,
+    "name": "Seiya Suzuki",
+    "team": "Cubs",
+    "opponent": "Cardinals",
+    "metric": "rbi",
+    "count": 9,
+    "ab": 50,
+    "expected_count_per_game": 0.75
+  },
+  {
+    "player_id": 4917869,
+    "name": "Jackson Chourio",
+    "team": "Brewers",
+    "opponent": "Pirates",
+    "metric": "rbi",
+    "count": 9,
+    "ab": 51,
+    "expected_count_per_game": 0.75
   },
   {
     "player_id": 40459,
@@ -480,23 +490,13 @@
     "expected_count_per_game": 0.692
   },
   {
-    "player_id": 4417795,
-    "name": "Sal Frelick",
+    "player_id": 42959,
+    "name": "Isaac Collins",
     "team": "Brewers",
     "opponent": "Pirates",
     "metric": "rbi",
-    "count": 9,
-    "ab": 54,
-    "expected_count_per_game": 0.692
-  },
-  {
-    "player_id": 4917869,
-    "name": "Jackson Chourio",
-    "team": "Brewers",
-    "opponent": "Pirates",
-    "metric": "rbi",
-    "count": 9,
-    "ab": 55,
-    "expected_count_per_game": 0.692
+    "count": 8,
+    "ab": 37,
+    "expected_count_per_game": 0.8
   }
 ]

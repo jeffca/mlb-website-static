@@ -14,7 +14,7 @@ const props = defineProps({
 const emit = defineEmits(['update:currentPage'])
 
 const showModal = ref(false)
-const currentPlayer = ref(null)
+const clickedValue = ref(null)
 
 const rowsPerPage = 10
 
@@ -39,7 +39,7 @@ function prevPage() {
 }
 
 function openPlayerHistory(player_id) {
-  currentPlayer.value = player_id
+  clickedValue.value = player_id;
   showModal.value = true
 }
 </script>
@@ -65,10 +65,18 @@ function openPlayerHistory(player_id) {
             <span @click="openPlayerHistory(row.player_id)"
               style="cursor: pointer; text-decoration: underline;">{{ row.name }}</span>
           </td>
-          <td>{{ row.team }}</td>
+          <td>
+            <span v-if="position=='team'" @click="openPlayerHistory(row.id)"
+            style="cursor: pointer; text-decoration: underline;">
+              {{ row.team }}
+            </span>
+            <span v-else>
+              {{ row.team }}
+            </span>
+          </td>
           <td>{{ row.opponent }}</td>
           <td v-if="row.count">{{ row.count }}</td>
-          <td v-if="row.avg">{{ row.avg }}</td>
+          <td v-if="row.avg">{{ row.avg.toFixed(3) }}</td>
           <td v-if="row.ip && metric!='ip'">{{ row.ip.toFixed(1) }}</td>
           <td v-else-if="row.ab">{{ row.ab }}</td>
           <td v-else-if="metric=='ip'">{{ selectedDays }}</td>
@@ -82,7 +90,7 @@ function openPlayerHistory(player_id) {
     </div>
     <PlayerHistory 
       v-if="showModal" 
-      :player_id="currentPlayer"
+      :player_id="clickedValue"
       :selectedDays="selectedDays"
       :metric="metric"
       :position="position"

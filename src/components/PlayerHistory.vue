@@ -53,6 +53,18 @@
         } else if (props.metric == 'ip') {
           response = await fetch(`/${baseUrl}/json/pitcher-history-ip-last-${props.selectedDays}-games.json`)
         }
+      } else if (props.position == 'team') {
+        if (props.metric == 'h') {
+          response = await fetch(`/${baseUrl}/json/team-history-h-last-${props.selectedDays}-days.json`)
+        } else if (props.metric == 'k') {
+          response = await fetch(`/${baseUrl}/json/team-history-k-last-${props.selectedDays}-days.json`)
+        } else if (props.metric == 'hr') {
+          response = await fetch(`/${baseUrl}/json/team-history-hr-last-${props.selectedDays}-days.json`)
+        } else if (props.metric == 'rbi') {
+          response = await fetch(`/${baseUrl}/json/team-history-rbi-last-${props.selectedDays}-days.json`)
+        } else if (props.metric == 'bb') {
+          response = await fetch(`/${baseUrl}/json/team-history-bb-last-${props.selectedDays}-days.json`)
+        }
       }
       let allPlayers = await response.json()
 
@@ -68,32 +80,41 @@
 
 
       for (let i = 0; i < allPlayers.length; i++) {
-        if (allPlayers[i]["player_id"] == props.player_id) {
-          console.log(foundPlayer);
-          if (foundPlayer == false) {
-            console.log("found the player for the first time...")
-            foundPlayerIndex = i;
-            foundPlayer = true;
+        if (props.position != 'team') {
+          //when a user drills down to a pitcher or batter
+          if (allPlayers[i]["player_id"] == props.player_id) {
             console.log(foundPlayer);
+            if (foundPlayer == false) {
+              console.log("found the player for the first time...")
+              foundPlayerIndex = i;
+              foundPlayer = true;
+              console.log(foundPlayer);
+            }
+            history.value.push(allPlayers[i]);
+            console.log(foundPlayerIndex);
+            // console.log(allPlayers[i]['metric']);
+            if (i < (foundPlayerIndex + 3)) {
+              last3DaysSum += allPlayers[i]['metric']
+            } 
+            if (i < (foundPlayerIndex + 5)) {
+              last5DaysSum += allPlayers[i]['metric']
+            }
+            if (i < (foundPlayerIndex + 10)) {
+              last10DaysSum += allPlayers[i]['metric']
+            }
+            playerHistoryCount += 1;
           }
-          history.value.push(allPlayers[i]);
-          console.log(foundPlayerIndex);
-          // console.log(allPlayers[i]['metric']);
-          if (i < (foundPlayerIndex + 3)) {
-            last3DaysSum += allPlayers[i]['metric']
-          } 
-          if (i < (foundPlayerIndex + 5)) {
-            last5DaysSum += allPlayers[i]['metric']
+          if (foundPlayer == true && allPlayers[i]['player_id'] != props.player_id) {
+            console.log("found a new player that isn't the target player...")
+            foundPlayer = false;
           }
-          if (i < (foundPlayerIndex + 10)) {
-            last10DaysSum += allPlayers[i]['metric']
+        } else {
+          //when the user drill down into a team
+          if (allPlayers[i]["team_id"] == props.player_id) {
+            history.value.push(allPlayers[i]);
           }
-          playerHistoryCount += 1;
         }
-        if (foundPlayer == true && allPlayers[i]['player_id'] != props.player_id) {
-          console.log("found a new player that isn't the target player...")
-          foundPlayer = false;
-        }
+
       }
       console.log(last3DaysSum)
       console.log(last5DaysSum)

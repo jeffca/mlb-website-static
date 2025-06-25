@@ -15,7 +15,7 @@
     "id": 24,
     "team": "Red Sox",
     "opponent": "Angels",
-    "avg": 0.298
+    "avg": 0.3
   },
   {
     "id": 2,
@@ -36,16 +36,16 @@
     "avg": 0.271
   },
   {
-    "id": 28,
-    "team": "Brewers",
-    "opponent": "Pirates",
-    "avg": 0.264
-  },
-  {
     "id": 22,
     "team": "Guardians",
     "opponent": "Jays",
-    "avg": 0.262
+    "avg": 0.265
+  },
+  {
+    "id": 10,
+    "team": "Pirates",
+    "opponent": "Brewers",
+    "avg": 0.255
   },
   {
     "id": 6,
@@ -72,9 +72,15 @@
     "avg": 0.249
   },
   {
-    "id": 10,
-    "team": "Pirates",
-    "opponent": "Brewers",
+    "id": 28,
+    "team": "Brewers",
+    "opponent": "Pirates",
+    "avg": 0.247
+  },
+  {
+    "id": 17,
+    "team": "Reds",
+    "opponent": "Yankees",
     "avg": 0.247
   },
   {
@@ -90,12 +96,6 @@
     "avg": 0.241
   },
   {
-    "id": 17,
-    "team": "Reds",
-    "opponent": "Yankees",
-    "avg": 0.24
-  },
-  {
     "id": 4,
     "team": "Tigers",
     "opponent": "A's",
@@ -105,13 +105,19 @@
     "id": 30,
     "team": "Braves",
     "opponent": "Mets",
-    "avg": 0.235
+    "avg": 0.238
   },
   {
     "id": 20,
     "team": "Cubs",
     "opponent": "Cardinals",
-    "avg": 0.233
+    "avg": 0.234
+  },
+  {
+    "id": 15,
+    "team": "Rays",
+    "opponent": "Royals",
+    "avg": 0.232
   },
   {
     "id": 13,
@@ -126,27 +132,21 @@
     "avg": 0.229
   },
   {
-    "id": 15,
-    "team": "Rays",
-    "opponent": "Royals",
-    "avg": 0.229
-  },
-  {
     "id": 14,
     "team": "Cardinals",
     "opponent": "Cubs",
-    "avg": 0.227
-  },
-  {
-    "id": 9,
-    "team": "Marlins",
-    "opponent": "Giants",
-    "avg": 0.213
+    "avg": 0.229
   },
   {
     "id": 29,
     "team": "Phillies",
     "opponent": "Astros",
+    "avg": 0.224
+  },
+  {
+    "id": 9,
+    "team": "Marlins",
+    "opponent": "Giants",
     "avg": 0.209
   },
   {
@@ -171,7 +171,7 @@
     "id": 16,
     "team": "Jays",
     "opponent": "Guardians",
-    "avg": 0.18
+    "avg": 0.186
   },
   {
     "id": 5,

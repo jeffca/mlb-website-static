@@ -58,15 +58,15 @@ function selectDays(days) {
         <span class="days-label">Last {{ selectedDays }} days</span>
     </div>
     <h2>Top Team Hits</h2>
-    <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" :metric="'h'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Team Strikeouts</h2>
-    <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" :metric="'k'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Team HRs</h2>
-    <PlayerTable :data="dataMapHR[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <PlayerTable :data="dataMapHR[selectedDays]" :currentPage="currentPage" :metric="'hr'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Team Walks</h2>
-    <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" :metric="'bb'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Team RBIs</h2>
-    <PlayerTable :data="dataMapRBI[selectedDays]" :currentPage="currentPage" @update:currentPage="currentPage = $event"/>
+    <PlayerTable :data="dataMapRBI[selectedDays]" :currentPage="currentPage" :metric="'rbi'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
   </div>
 </template>
 
