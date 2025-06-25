@@ -98,8 +98,21 @@ button.active {
   display: flex;
   gap: 10px;
   padding: 10px;
-  overflow-x: auto;
+  overflow-x: scroll;
+  overflow-y: hidden;
   white-space: nowrap;
+}
+
+.scoreboard::-webkit-scrollbar {
+  height: 4px; /* Sets the height of the horizontal scrollbar */
+  background: #191504;
+}
+.scoreboard::-webkit-scrollbar-thumb {
+  background: #312a19;
+  border-radius: 0;
+}
+.scoreboard::-webkit-scrollbar-thumb:horizontal {
+  background: rgb(32, 4, 4); 
 }
 
 .game {
