@@ -1,3 +1,9 @@
+body {
+  background-color: rgb(12, 5, 14);
+  color: white;
+  font-family: Helvetica;
+}
+
 .center {
   text-align: center;
 }
@@ -17,7 +23,7 @@ table {
   flex-wrap: wrap;
   gap: 12px;
   padding: 16px;
-  background: #f8f9fa;
+  background: #040f1a;
   border-radius: 8px;
 }
 
@@ -59,8 +65,8 @@ button.active {
   display: flex;
   gap: 8px;
 }
+
 .days-label {
-  color: #333;
   font-weight: bold;
 }
 
@@ -81,6 +87,50 @@ button.active {
   background: white;
   padding: 2em;
   border-radius: 8px;
+}
+
+
+.today { 
+  font-family:fantasy;
+}
+
+.scoreboard {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.game {
+  font-size: 8pt;
+  background: rgb(5, 18, 18);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 12px;
+  min-width: 180px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.game-box span {
+  margin: 2px 0;
+}
+
+.teams {
+  font-size: smaller;
+  font-family: Helvetica;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  display: block; /* or inline-block */
+  max-width: 100%; /* or a fixed width like 180px */
+  font-weight: bold;
+}
+
+.time {
+  font-size: larger;
 }
 
 
