@@ -146,6 +146,37 @@ button.active {
   font-size: larger;
 }
 
+.player-table-container {
+  display: flex;
+  flex-direction: column;
+  height: 300px; 
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.player-table {
+  width: 100%;
+  border-collapse: collapse;
+  flex-grow: 1;
+}  
+
+
+.player-table tbody {
+  display: table-row-group; /* ensures table layout isn't broken */
+}
+
+.player-table th,
+.player-table td {
+  text-align: left;
+}
+
+.pagination-controls {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 .player-name {
   font-size: larger;

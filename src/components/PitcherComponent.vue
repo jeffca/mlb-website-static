@@ -11,7 +11,12 @@ const dataMapK = ref({})
 const dataMapBB = ref({}) 
 const dataMapIP = ref({}) 
 const loading = ref(true)
-const currentPage = ref(1); 
+const pageH = ref(1)
+const pageK = ref(1)
+const pageHR = ref(1)
+const pageER = ref(1)
+const pageBB = ref(1)
+const pageIP = ref(1)
 
 onMounted(async () => {
   try {
@@ -60,17 +65,17 @@ function selectDays(days) {
             <span class="days-label">Last {{ selectedDays }} start<span v-if="selectedDays > 1">s</span></span>
         </div>
         <h2>Top Starting Pitcher Hits Allowed</h2>
-        <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" :metric="'h'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <PlayerTable :data="dataMapH[selectedDays]" v-model:currentPage="pageH" :metric="'h'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
         <h2>Top S.P. Strikeouts</h2>
-        <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" :metric="'k'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <PlayerTable :data="dataMapK[selectedDays]" v-model:currentPage="pageK" :metric="'k'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
         <h2>Top S.P. Home Runs</h2>
-        <PlayerTable :data="dataMapHR[selectedDays]" :currentPage="currentPage" :metric="'hr'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <PlayerTable :data="dataMapHR[selectedDays]" v-model:currentPage="pageHR" :metric="'hr'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
         <h2>Top S.P. Walks</h2>
-        <PlayerTable :data="dataMapBB[selectedDays]" :currentPage="currentPage" :metric="'bb'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <PlayerTable :data="dataMapBB[selectedDays]" v-model:currentPage="pageBB" :metric="'bb'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
         <h2>Top S.P. ER Allowed</h2>
-        <PlayerTable :data="dataMapER[selectedDays]" :currentPage="currentPage" :metric="'er'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <PlayerTable :data="dataMapER[selectedDays]" v-model:currentPage="pageER" :metric="'er'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
         <h2>Top S.P. IP</h2>
-        <PlayerTable :data="dataMapIP[selectedDays]" :currentPage="currentPage" :metric="'ip'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+        <PlayerTable :data="dataMapIP[selectedDays]" v-model:currentPage="pageIP" :metric="'ip'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     </div>
 </template>
 

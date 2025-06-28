@@ -10,7 +10,12 @@ const dataMapK = ref({}) // For most-k
 const dataMapR = ref({}) // For most-h
 const dataMapRBI = ref({}) // For most-bb
 const loading = ref(true)
-const currentPage = ref(1); 
+
+const pageH = ref(1)
+const pageK = ref(1)
+const pageHR = ref(1)
+const pageRBI = ref(1)
+const pageR = ref(1)
 
 onMounted(async () => {
   try {
@@ -58,15 +63,15 @@ function selectDays(days) {
     </div>
 
     <h2>Top Batter Hits</h2>
-    <PlayerTable :data="dataMapH[selectedDays]" :currentPage="currentPage" :metric="'h'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+    <PlayerTable :data="dataMapH[selectedDays]" v-model:currentPage="pageH" :metric="'h'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Batter Strikeouts</h2>
-    <PlayerTable :data="dataMapK[selectedDays]" :currentPage="currentPage" :metric="'k'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+    <PlayerTable :data="dataMapK[selectedDays]" v-model:currentPage="pageK" :metric="'k'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Batter Home Runs</h2>
-    <PlayerTable :data="dataMapHR[selectedDays]" :currentPage="currentPage" :metric="'hr'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+    <PlayerTable :data="dataMapHR[selectedDays]" v-model:currentPage="pageHR" :metric="'hr'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Batter RBIs</h2>
-    <PlayerTable :data="dataMapRBI[selectedDays]" :currentPage="currentPage" :metric="'rbi'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+    <PlayerTable :data="dataMapRBI[selectedDays]" v-model:currentPage="pageRBI" :metric="'rbi'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Batter Runs</h2>
-    <PlayerTable :data="dataMapR[selectedDays]" :currentPage="currentPage" :metric="'r'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+    <PlayerTable :data="dataMapR[selectedDays]" v-model:currentPage="pageR" :metric="'r'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
   </div>
 </template>
 
