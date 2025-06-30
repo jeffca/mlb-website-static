@@ -1,14 +1,20 @@
 <script setup>
+import PlayerStreakTable from './PlayerStreakTable.vue'
 import PlayerTable from './PlayerTable.vue'
 import { ref, onMounted } from 'vue'
 
 const daysOptions = [3,5,7,10,15] 
 const selectedDays = ref(3)
-const dataMapH = ref({}) // For most-h
-const dataMapHR = ref({}) // For most-h
-const dataMapK = ref({}) // For most-k
-const dataMapR = ref({}) // For most-h
-const dataMapRBI = ref({}) // For most-bb
+const dataMapH = ref({})
+const dataMapHR = ref({})
+const dataMapK = ref({}) 
+const dataMapR = ref({}) 
+const dataMapRBI = ref({}) 
+const dataMapHStreak = ref({})
+const dataMapHRStreak = ref({})
+const dataMapKStreak = ref({}) 
+const dataMapRStreak = ref({}) 
+const dataMapRBIStreak = ref({}) 
 const loading = ref(true)
 
 const pageH = ref(1)
@@ -16,6 +22,9 @@ const pageK = ref(1)
 const pageHR = ref(1)
 const pageRBI = ref(1)
 const pageR = ref(1)
+
+const clickedAverages = ref(true);
+const clickedStreaks = ref(false);
 
 onMounted(async () => {
   try {
@@ -33,6 +42,17 @@ onMounted(async () => {
       const responseRBI = await fetch(`/${baseUrl}/json/batting-most-rbi-last-${days}-days.json`)
       dataMapRBI.value[days] = await responseRBI.json()
     }
+    const responseHStreak = await fetch(`/${baseUrl}/json/batting-1-h-streak.json`)
+    dataMapHStreak.value = await responseHStreak.json()
+    const responseKStreak = await fetch(`/${baseUrl}/json/batting-1-k-streak.json`)
+    dataMapKStreak.value = await responseKStreak.json()
+    const responseHRStreak = await fetch(`/${baseUrl}/json/batting-1-hr-streak.json`)
+    dataMapHRStreak.value = await responseHRStreak.json()
+    const responseRBIStreak = await fetch(`/${baseUrl}/json/batting-1-rbi-streak.json`)
+    dataMapRBIStreak.value = await responseRBIStreak.json()
+    const responseRStreak = await fetch(`/${baseUrl}/json/batting-1-r-streak.json`)
+    dataMapRStreak.value = await responseRStreak.json()
+
     loading.value = false
   } catch (error) {
     console.error('Error fetching data:', error)
@@ -48,7 +68,13 @@ function selectDays(days) {
 
 <template>
   <div>
-    <div class="button-div">
+    <div>
+      <span @click="clickedAverages = true; clickedStreaks = false">Averages</span>
+      <span>|</span>
+      <span @click="clickedStreaks = true; clickedAverages = false">Streaks</span>
+    </div>
+    <div v-if="clickedAverages && !clickedStreaks">
+      <div class="button-div">
         <div class="button-group">
             <button
             v-for="days in daysOptions"
@@ -60,18 +86,26 @@ function selectDays(days) {
             </button>
         </div>
         <span class="days-label">Last {{ selectedDays }} days</span>
+      </div>
+      <div>
+        <h2>Top Batter Hits</h2>
+          <PlayerTable :data="dataMapH[selectedDays]" v-model:currentPage="pageH" :metric="'h'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+          <h2>Top Batter Strikeouts</h2>
+          <PlayerTable :data="dataMapK[selectedDays]" v-model:currentPage="pageK" :metric="'k'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+          <h2>Top Batter Home Runs</h2>
+          <PlayerTable :data="dataMapHR[selectedDays]" v-model:currentPage="pageHR" :metric="'hr'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+          <h2>Top Batter RBIs</h2>
+          <PlayerTable :data="dataMapRBI[selectedDays]" v-model:currentPage="pageRBI" :metric="'rbi'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+          <h2>Top Batter Runs</h2>
+          <PlayerTable :data="dataMapR[selectedDays]" v-model:currentPage="pageR" :metric="'r'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+      </div>
     </div>
-
-    <h2>Top Batter Hits</h2>
-    <PlayerTable :data="dataMapH[selectedDays]" v-model:currentPage="pageH" :metric="'h'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top Batter Strikeouts</h2>
-    <PlayerTable :data="dataMapK[selectedDays]" v-model:currentPage="pageK" :metric="'k'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top Batter Home Runs</h2>
-    <PlayerTable :data="dataMapHR[selectedDays]" v-model:currentPage="pageHR" :metric="'hr'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top Batter RBIs</h2>
-    <PlayerTable :data="dataMapRBI[selectedDays]" v-model:currentPage="pageRBI" :metric="'rbi'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top Batter Runs</h2>
-    <PlayerTable :data="dataMapR[selectedDays]" v-model:currentPage="pageR" :metric="'r'" :position="'b'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+    
+    <div v-if="clickedStreaks && !clickedAverages">
+      <h2>Hit Streaks</h2>
+      <PlayerStreakTable :data="dataMapHStreak" v-model:currentPage="pageH" :position="'b'" @update:currentPage="currentPage = $event"/>
+    </div>
+    
   </div>
 </template>
 

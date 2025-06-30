@@ -85,7 +85,7 @@ function openPlayerHistory(player_id) {
     </table>
     <div style="margin-top: 1rem;">
       <button @click="prevPage" :disabled="currentPage === 1">Previous</button>
-      <span style="margin: 0 1rem;">Page {{ currentPage }} of {{ totalPages }}</span>
+      <span class="page">Page {{ currentPage }} of {{ totalPages }}</span>
       <button @click="nextPage" :disabled="currentPage === totalPages">Next</button>
     </div>
     <PlayerHistory 
