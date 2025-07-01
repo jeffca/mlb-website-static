@@ -18,10 +18,14 @@ const dataMapRBIStreak = ref({})
 const loading = ref(true)
 
 const pageH = ref(1)
+const pageHStreak = ref(1)
 const pageK = ref(1)
+const pageKStreak = ref(1)
 const pageHR = ref(1)
 const pageRBI = ref(1)
+const pageRBIStreak = ref(1)
 const pageR = ref(1)
+const pageRStreak = ref(1)
 
 const clickedAverages = ref(true);
 const clickedStreaks = ref(false);
@@ -46,8 +50,8 @@ onMounted(async () => {
     dataMapHStreak.value = await responseHStreak.json()
     const responseKStreak = await fetch(`/${baseUrl}/json/batting-1-k-streak.json`)
     dataMapKStreak.value = await responseKStreak.json()
-    const responseHRStreak = await fetch(`/${baseUrl}/json/batting-1-hr-streak.json`)
-    dataMapHRStreak.value = await responseHRStreak.json()
+    // const responseHRStreak = await fetch(`/${baseUrl}/json/batting-1-hr-streak.json`)
+    // dataMapHRStreak.value = await responseHRStreak.json()
     const responseRBIStreak = await fetch(`/${baseUrl}/json/batting-1-rbi-streak.json`)
     dataMapRBIStreak.value = await responseRBIStreak.json()
     const responseRStreak = await fetch(`/${baseUrl}/json/batting-1-r-streak.json`)
@@ -102,8 +106,14 @@ function selectDays(days) {
     </div>
     
     <div v-if="clickedStreaks && !clickedAverages">
-      <h2>Hit Streaks</h2>
-      <PlayerStreakTable :data="dataMapHStreak" v-model:currentPage="pageH" :position="'b'" @update:currentPage="currentPage = $event"/>
+      <h2>1+ Hit Streaks</h2>
+      <PlayerStreakTable :data="dataMapHStreak" v-model:currentPage="pageHStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+      <h2>1+ Strikeout Streaks</h2>
+      <PlayerStreakTable :data="dataMapKStreak" v-model:currentPage="pageKStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+      <h2>1+ RBI Streaks</h2>
+      <PlayerStreakTable :data="dataMapRBIStreak" v-model:currentPage="pageRBIStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+      <h2>1+ Run Streaks</h2>
+      <PlayerStreakTable :data="dataMapRStreak" v-model:currentPage="pageRStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
     </div>
     
   </div>

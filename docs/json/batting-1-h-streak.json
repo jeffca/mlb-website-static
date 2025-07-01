@@ -1,10 +1,52 @@
 [
   {
-    "player_id": 39961,
-    "name": "Brandon Lowe",
-    "team": "Rays",
-    "streak": 16,
-    "ab": 62
+    "player_id": 41179,
+    "name": "Brice Turang",
+    "team": "Brewers",
+    "streak": 13,
+    "ab": 53
+  },
+  {
+    "player_id": 31283,
+    "name": "Christian Yelich",
+    "team": "Brewers",
+    "streak": 12,
+    "ab": 51
+  },
+  {
+    "player_id": 41219,
+    "name": "Nico Hoerner",
+    "team": "Cubs",
+    "streak": 11,
+    "ab": 41
+  },
+  {
+    "player_id": 33804,
+    "name": "Gleyber Torres",
+    "team": "Tigers",
+    "streak": 10,
+    "ab": 41
+  },
+  {
+    "player_id": 41917,
+    "name": "Otto Lopez",
+    "team": "Marlins",
+    "streak": 10,
+    "ab": 41
+  },
+  {
+    "player_id": 41169,
+    "name": "Alec Bohm",
+    "team": "Phillies",
+    "streak": 9,
+    "ab": 35
+  },
+  {
+    "player_id": 35020,
+    "name": "Ke'Bryan Hayes",
+    "team": "Pirates",
+    "streak": 9,
+    "ab": 33
   },
   {
     "player_id": 35042,
@@ -14,6 +56,20 @@
     "ab": 37
   },
   {
+    "player_id": 32767,
+    "name": "Matt Olson",
+    "team": "Braves",
+    "streak": 8,
+    "ab": 35
+  },
+  {
+    "player_id": 38980,
+    "name": "Bryan Reynolds",
+    "team": "Pirates",
+    "streak": 8,
+    "ab": 35
+  },
+  {
     "player_id": 33743,
     "name": "Miguel Andujar",
     "team": "A's",
@@ -21,25 +77,39 @@
     "ab": 33
   },
   {
-    "player_id": 41169,
-    "name": "Alec Bohm",
-    "team": "Phillies",
+    "player_id": 4917889,
+    "name": "Daylen Lile",
+    "team": "Nationals",
     "streak": 8,
-    "ab": 32
+    "ab": 31
   },
   {
-    "player_id": 35020,
-    "name": "Ke'Bryan Hayes",
-    "team": "Pirates",
-    "streak": 8,
+    "player_id": 5012120,
+    "name": "Carlos Narvaez",
+    "team": "Red Sox",
+    "streak": 7,
+    "ab": 31
+  },
+  {
+    "player_id": 34923,
+    "name": "Taylor Ward",
+    "team": "Angels",
+    "streak": 7,
+    "ab": 30
+  },
+  {
+    "player_id": 5007615,
+    "name": "Caleb Durbin",
+    "team": "Brewers",
+    "streak": 7,
     "ab": 29
   },
   {
-    "player_id": 38980,
-    "name": "Bryan Reynolds",
-    "team": "Pirates",
+    "player_id": 37237,
+    "name": "Luis Rengifo",
+    "team": "Angels",
     "streak": 7,
-    "ab": 31
+    "ab": 28
   },
   {
     "player_id": 4917921,
@@ -49,10 +119,31 @@
     "ab": 28
   },
   {
+    "player_id": 32691,
+    "name": "Corey Seager",
+    "team": "Rangers",
+    "streak": 7,
+    "ab": 26
+  },
+  {
     "player_id": 33857,
     "name": "Matt Chapman",
     "team": "Giants",
     "streak": 7,
+    "ab": 26
+  },
+  {
+    "player_id": 42796,
+    "name": "Kyle Stowers",
+    "team": "Marlins",
+    "streak": 7,
+    "ab": 24
+  },
+  {
+    "player_id": 41996,
+    "name": "Steven Kwan",
+    "team": "Guardians",
+    "streak": 6,
     "ab": 26
   },
   {
@@ -63,18 +154,74 @@
     "ab": 26
   },
   {
-    "player_id": 5012120,
-    "name": "Carlos Narvaez",
-    "team": "Red Sox",
+    "player_id": 31606,
+    "name": "Xander Bogaerts",
+    "team": "Padres",
     "streak": 6,
-    "ab": 26
+    "ab": 25
   },
   {
-    "player_id": 32691,
-    "name": "Corey Seager",
-    "team": "Rangers",
+    "player_id": 42403,
+    "name": "Bobby Witt Jr.",
+    "team": "Royals",
     "streak": 6,
-    "ab": 22
+    "ab": 25
+  },
+  {
+    "player_id": 42547,
+    "name": "Anthony Volpe",
+    "team": "Yankees",
+    "streak": 6,
+    "ab": 25
+  },
+  {
+    "player_id": 5132014,
+    "name": "Agustin Ramirez",
+    "team": "Marlins",
+    "streak": 6,
+    "ab": 25
+  },
+  {
+    "player_id": 32801,
+    "name": "Jose Ramirez",
+    "team": "Guardians",
+    "streak": 6,
+    "ab": 24
+  },
+  {
+    "player_id": 33303,
+    "name": "Max Muncy",
+    "team": "Dodgers",
+    "streak": 6,
+    "ab": 24
+  },
+  {
+    "player_id": 35591,
+    "name": "Ty France",
+    "team": "Twins",
+    "streak": 6,
+    "ab": 24
+  },
+  {
+    "player_id": 28701,
+    "name": "Andrew McCutchen",
+    "team": "Pirates",
+    "streak": 6,
+    "ab": 23
+  },
+  {
+    "player_id": 42664,
+    "name": "Jake Mangum",
+    "team": "Rays",
+    "streak": 6,
+    "ab": 23
+  },
+  {
+    "player_id": 40557,
+    "name": "Josh Lowe",
+    "team": "Rays",
+    "streak": 6,
+    "ab": 21
   },
   {
     "player_id": 4414241,
@@ -84,9 +231,37 @@
     "ab": 20
   },
   {
+    "player_id": 4683371,
+    "name": "Coby Mayo",
+    "team": "Orioles",
+    "streak": 6,
+    "ab": 19
+  },
+  {
+    "player_id": 33210,
+    "name": "J.P. Crawford",
+    "team": "Mariners",
+    "streak": 5,
+    "ab": 23
+  },
+  {
     "player_id": 33859,
     "name": "Rafael Devers",
     "team": "Red Sox",
+    "streak": 5,
+    "ab": 23
+  },
+  {
+    "player_id": 42047,
+    "name": "Logan O'Hoppe",
+    "team": "Angels",
+    "streak": 5,
+    "ab": 23
+  },
+  {
+    "player_id": 4416990,
+    "name": "Colton Cowser",
+    "team": "Orioles",
     "streak": 5,
     "ab": 23
   },
@@ -98,37 +273,16 @@
     "ab": 23
   },
   {
-    "player_id": 33192,
-    "name": "Aaron Judge",
-    "team": "Yankees",
+    "player_id": 41684,
+    "name": "Lenyn Sosa",
+    "team": "White Sox",
     "streak": 5,
     "ab": 22
   },
   {
-    "player_id": 4997589,
-    "name": "Addison Barger",
-    "team": "Jays",
-    "streak": 5,
-    "ab": 22
-  },
-  {
-    "player_id": 31606,
-    "name": "Xander Bogaerts",
-    "team": "Padres",
-    "streak": 5,
-    "ab": 21
-  },
-  {
-    "player_id": 42403,
-    "name": "Bobby Witt Jr.",
-    "team": "Royals",
-    "streak": 5,
-    "ab": 21
-  },
-  {
-    "player_id": 42547,
-    "name": "Anthony Volpe",
-    "team": "Yankees",
+    "player_id": 4629081,
+    "name": "Brooks Lee",
+    "team": "Twins",
     "streak": 5,
     "ab": 21
   },
@@ -140,53 +294,32 @@
     "ab": 21
   },
   {
-    "player_id": 28701,
-    "name": "Andrew McCutchen",
-    "team": "Pirates",
-    "streak": 5,
-    "ab": 20
-  },
-  {
-    "player_id": 40557,
-    "name": "Josh Lowe",
-    "team": "Rays",
+    "player_id": 41171,
+    "name": "Jonathan India",
+    "team": "Royals",
     "streak": 5,
     "ab": 19
   },
   {
-    "player_id": 42664,
-    "name": "Jake Mangum",
-    "team": "Rays",
+    "player_id": 4109031,
+    "name": "Christian Koss",
+    "team": "Giants",
     "streak": 5,
     "ab": 19
   },
   {
-    "player_id": 4679983,
-    "name": "Chandler Simpson",
-    "team": "Rays",
+    "player_id": 35304,
+    "name": "Mauricio Dubon",
+    "team": "Astros",
     "streak": 5,
     "ab": 18
   },
   {
-    "player_id": 42081,
-    "name": "Alejandro Kirk",
-    "team": "Jays",
+    "player_id": 41197,
+    "name": "Jake McCarthy",
+    "team": "D-Backs",
     "streak": 5,
-    "ab": 16
-  },
-  {
-    "player_id": 42608,
-    "name": "Pedro Pages",
-    "team": "Cardinals",
-    "streak": 5,
-    "ab": 16
-  },
-  {
-    "player_id": 4683371,
-    "name": "Coby Mayo",
-    "team": "Orioles",
-    "streak": 5,
-    "ab": 16
+    "ab": 17
   },
   {
     "player_id": 4626239,
@@ -196,157 +329,24 @@
     "ab": 19
   },
   {
-    "player_id": 33210,
-    "name": "J.P. Crawford",
-    "team": "Mariners",
+    "player_id": 4666100,
+    "name": "Zach Neto",
+    "team": "Angels",
+    "streak": 4,
+    "ab": 19
+  },
+  {
+    "player_id": 33192,
+    "name": "Aaron Judge",
+    "team": "Yankees",
     "streak": 4,
     "ab": 18
-  },
-  {
-    "player_id": 4345070,
-    "name": "Alec Burleson",
-    "team": "Cardinals",
-    "streak": 4,
-    "ab": 17
-  },
-  {
-    "player_id": 4416990,
-    "name": "Colton Cowser",
-    "team": "Orioles",
-    "streak": 4,
-    "ab": 17
-  },
-  {
-    "player_id": 32532,
-    "name": "Willson Contreras",
-    "team": "Cardinals",
-    "streak": 4,
-    "ab": 16
-  },
-  {
-    "player_id": 33712,
-    "name": "Kyle Schwarber",
-    "team": "Phillies",
-    "streak": 4,
-    "ab": 16
-  },
-  {
-    "player_id": 41171,
-    "name": "Jonathan India",
-    "team": "Royals",
-    "streak": 4,
-    "ab": 16
-  },
-  {
-    "player_id": 4109031,
-    "name": "Christian Koss",
-    "team": "Giants",
-    "streak": 4,
-    "ab": 15
-  },
-  {
-    "player_id": 4020015,
-    "name": "Willie MacIver",
-    "team": "A's",
-    "streak": 4,
-    "ab": 14
-  },
-  {
-    "player_id": 41197,
-    "name": "Jake McCarthy",
-    "team": "D-Backs",
-    "streak": 4,
-    "ab": 13
-  },
-  {
-    "player_id": 32367,
-    "name": "Eugenio Suarez",
-    "team": "D-Backs",
-    "streak": 3,
-    "ab": 13
-  },
-  {
-    "player_id": 33572,
-    "name": "Isiah Kiner-Falefa",
-    "team": "Pirates",
-    "streak": 3,
-    "ab": 13
   },
   {
     "player_id": 5080767,
     "name": "Roman Anthony",
     "team": "Red Sox",
-    "streak": 3,
-    "ab": 13
-  },
-  {
-    "player_id": 31097,
-    "name": "Manny Machado",
-    "team": "Padres",
-    "streak": 3,
-    "ab": 12
-  },
-  {
-    "player_id": 33481,
-    "name": "Yandy Diaz",
-    "team": "Rays",
-    "streak": 3,
-    "ab": 12
-  },
-  {
-    "player_id": 33710,
-    "name": "Trea Turner",
-    "team": "Phillies",
-    "streak": 3,
-    "ab": 12
-  },
-  {
-    "player_id": 35183,
-    "name": "Ryan O'Hearn",
-    "team": "Orioles",
-    "streak": 3,
-    "ab": 12
-  },
-  {
-    "player_id": 39216,
-    "name": "Will Benson",
-    "team": "Reds",
-    "streak": 3,
-    "ab": 12
-  },
-  {
-    "player_id": 4686066,
-    "name": "Tyler Soderstrom",
-    "team": "A's",
-    "streak": 3,
-    "ab": 12
-  },
-  {
-    "player_id": 4719324,
-    "name": "Wyatt Langford",
-    "team": "Rangers",
-    "streak": 3,
-    "ab": 12
-  },
-  {
-    "player_id": 33411,
-    "name": "Rob Refsnyder",
-    "team": "Red Sox",
-    "streak": 3,
-    "ab": 11
-  },
-  {
-    "player_id": 40926,
-    "name": "Brent Rooker",
-    "team": "A's",
-    "streak": 3,
-    "ab": 11
-  },
-  {
-    "player_id": 42598,
-    "name": "Shea Langeliers",
-    "team": "A's",
-    "streak": 3,
-    "ab": 11
+    "streak": 4,
+    "ab": 18
   }
 ]

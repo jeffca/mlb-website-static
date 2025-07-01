@@ -2,6 +2,15 @@
   {
     "team": "Yankees",
     "team_id": 8,
+    "metric": 2,
+    "ab": 33,
+    "event_id": 401696171,
+    "date_est": "2025-06-30",
+    "opponent": "Jays"
+  },
+  {
+    "team": "Yankees",
+    "team_id": 8,
     "metric": 4,
     "ab": 34,
     "event_id": 401696157,
@@ -126,13 +135,346 @@
     "opponent": "Red Sox"
   },
   {
-    "team": "Yankees",
-    "team_id": 8,
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 2,
+    "ab": 38,
+    "event_id": 401785798,
+    "date_est": "2025-06-19",
+    "opponent": "Cardinals"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 0,
+    "ab": 34,
+    "event_id": 401696167,
+    "date_est": "2025-06-29",
+    "opponent": "Giants"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 1,
+    "ab": 29,
+    "event_id": 401696152,
+    "date_est": "2025-06-28",
+    "opponent": "Giants"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 0,
+    "ab": 33,
+    "event_id": 401696137,
+    "date_est": "2025-06-27",
+    "opponent": "Giants"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 3,
+    "ab": 33,
+    "event_id": 401696106,
+    "date_est": "2025-06-25",
+    "opponent": "D-Backs"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 1,
+    "ab": 29,
+    "event_id": 401696091,
+    "date_est": "2025-06-24",
+    "opponent": "D-Backs"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 0,
+    "ab": 31,
+    "event_id": 401696080,
+    "date_est": "2025-06-23",
+    "opponent": "D-Backs"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
     "metric": 0,
     "ab": 32,
-    "event_id": 401695955,
-    "date_est": "2025-06-14",
-    "opponent": "Red Sox"
+    "event_id": 401696064,
+    "date_est": "2025-06-22",
+    "opponent": "Jays"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 0,
+    "ab": 28,
+    "event_id": 401696049,
+    "date_est": "2025-06-21",
+    "opponent": "Jays"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 2,
+    "ab": 35,
+    "event_id": 401696034,
+    "date_est": "2025-06-20",
+    "opponent": "Jays"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 1,
+    "ab": 36,
+    "event_id": 401696028,
+    "date_est": "2025-06-19",
+    "opponent": "Cardinals"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 0,
+    "ab": 31,
+    "event_id": 401695998,
+    "date_est": "2025-06-17",
+    "opponent": "Cardinals"
+  },
+  {
+    "team": "White Sox",
+    "team_id": 3,
+    "metric": 1,
+    "ab": 34,
+    "event_id": 401695973,
+    "date_est": "2025-06-15",
+    "opponent": "Rangers"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 0,
+    "ab": 28,
+    "event_id": 401696155,
+    "date_est": "2025-06-29",
+    "opponent": "Tigers"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 2,
+    "ab": 34,
+    "event_id": 401696140,
+    "date_est": "2025-06-28",
+    "opponent": "Tigers"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 3,
+    "ab": 36,
+    "event_id": 401696121,
+    "date_est": "2025-06-26",
+    "opponent": "Mariners"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 1,
+    "ab": 28,
+    "event_id": 401696110,
+    "date_est": "2025-06-25",
+    "opponent": "Mariners"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 1,
+    "ab": 33,
+    "event_id": 401696095,
+    "date_est": "2025-06-24",
+    "opponent": "Mariners"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 2,
+    "ab": 35,
+    "event_id": 401696083,
+    "date_est": "2025-06-23",
+    "opponent": "Mariners"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 4,
+    "ab": 45,
+    "event_id": 401696069,
+    "date_est": "2025-06-22",
+    "opponent": "Brewers"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 0,
+    "ab": 29,
+    "event_id": 401696054,
+    "date_est": "2025-06-21",
+    "opponent": "Brewers"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 1,
+    "ab": 32,
+    "event_id": 401696039,
+    "date_est": "2025-06-21",
+    "opponent": "Brewers"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 4,
+    "ab": 44,
+    "event_id": 401696022,
+    "date_est": "2025-06-19",
+    "opponent": "Reds"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 1,
+    "ab": 21,
+    "event_id": 401696007,
+    "date_est": "2025-06-18",
+    "opponent": "Reds"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 2,
+    "ab": 35,
+    "event_id": 401695992,
+    "date_est": "2025-06-17",
+    "opponent": "Reds"
+  },
+  {
+    "team": "Twins",
+    "team_id": 6,
+    "metric": 1,
+    "ab": 37,
+    "event_id": 401695974,
+    "date_est": "2025-06-15",
+    "opponent": "Astros"
+  },
+  {
+    "team": "Tigers",
+    "team_id": 4,
+    "metric": 2,
+    "ab": 34,
+    "event_id": 401696155,
+    "date_est": "2025-06-29",
+    "opponent": "Twins"
+  },
+  {
+    "team": "Tigers",
+    "team_id": 4,
+    "metric": 4,
+    "ab": 35,
+    "event_id": 401696140,
+    "date_est": "2025-06-28",
+    "opponent": "Twins"
+  },
+  {
+    "team": "Tigers",
+    "team_id": 4,
+    "metric": 2,
+    "ab": 33,
+    "event_id": 401696117,
+    "date_est": "2025-06-26",
+    "opponent": "A's"
+  },
+  {
+    "team": "Tigers",
+    "team_id": 4,
+    "metric": 0,
+    "ab": 30,
+    "event_id": 401696103,
+    "date_est": "2025-06-25",
+    "opponent": "A's"
+  },
+  {
+    "team": "Tigers",
+    "team_id": 4,
+    "metric": 2,
+    "ab": 36,
+    "event_id": 401696088,
+    "date_est": "2025-06-24",
+    "opponent": "A's"
+  },
+  {
+    "team": "Tigers",
+    "team_id": 4,
+    "metric": 2,
+    "ab": 36,
+    "event_id": 401696065,
+    "date_est": "2025-06-22",
+    "opponent": "Rays"
+  },
+  {
+    "team": "Tigers",
+    "team_id": 4,
+    "metric": 0,
+    "ab": 32,
+    "event_id": 401696050,
+    "date_est": "2025-06-21",
+    "opponent": "Rays"
+  },
+  {
+    "team": "Tigers",
+    "team_id": 4,
+    "metric": 3,
+    "ab": 34,
+    "event_id": 401696035,
+    "date_est": "2025-06-20",
+    "opponent": "Rays"
+  },
+  {
+    "team": "Tigers",
+    "team_id": 4,
+    "metric": 1,
+    "ab": 32,
+    "event_id": 401696025,
+    "date_est": "2025-06-19",
+    "opponent": "Pirates"
+  },
+  {
+    "team": "Tigers",
+    "team_id": 4,
+    "metric": 4,
+    "ab": 31,
+    "event_id": 401695995,
+    "date_est": "2025-06-17",
+    "opponent": "Pirates"
+  },
+  {
+    "team": "Tigers",
+    "team_id": 4,
+    "metric": 2,
+    "ab": 36,
+    "event_id": 401695967,
+    "date_est": "2025-06-15",
+    "opponent": "Reds"
+  },
+  {
+    "team": "Royals",
+    "team_id": 5,
+    "metric": 0,
+    "ab": 31,
+    "event_id": 401696176,
+    "date_est": "2025-07-01",
+    "opponent": "Mariners"
   },
   {
     "team": "Royals",
@@ -243,22 +585,130 @@
     "opponent": "A's"
   },
   {
-    "team": "Royals",
-    "team_id": 5,
-    "metric": 0,
-    "ab": 31,
-    "event_id": 401695960,
-    "date_est": "2025-06-14",
-    "opponent": "A's"
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 1,
+    "ab": 42,
+    "event_id": 401696164,
+    "date_est": "2025-06-29",
+    "opponent": "Brewers"
   },
   {
-    "team": "Royals",
-    "team_id": 5,
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 0,
+    "ab": 28,
+    "event_id": 401696149,
+    "date_est": "2025-06-28",
+    "opponent": "Brewers"
+  },
+  {
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 1,
+    "ab": 27,
+    "event_id": 401696123,
+    "date_est": "2025-06-26",
+    "opponent": "Dodgers"
+  },
+  {
+    "team": "Rockies",
+    "team_id": 26,
     "metric": 0,
     "ab": 32,
-    "event_id": 401695945,
-    "date_est": "2025-06-14",
-    "opponent": "A's"
+    "event_id": 401696112,
+    "date_est": "2025-06-26",
+    "opponent": "Dodgers"
+  },
+  {
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 0,
+    "ab": 39,
+    "event_id": 401696097,
+    "date_est": "2025-06-25",
+    "opponent": "Dodgers"
+  },
+  {
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 1,
+    "ab": 30,
+    "event_id": 401696071,
+    "date_est": "2025-06-22",
+    "opponent": "D-Backs"
+  },
+  {
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 1,
+    "ab": 31,
+    "event_id": 401696056,
+    "date_est": "2025-06-22",
+    "opponent": "D-Backs"
+  },
+  {
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 2,
+    "ab": 38,
+    "event_id": 401696041,
+    "date_est": "2025-06-21",
+    "opponent": "D-Backs"
+  },
+  {
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 0,
+    "ab": 42,
+    "event_id": 401696021,
+    "date_est": "2025-06-19",
+    "opponent": "Nationals"
+  },
+  {
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 2,
+    "ab": 33,
+    "event_id": 401696006,
+    "date_est": "2025-06-18",
+    "opponent": "Nationals"
+  },
+  {
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 7,
+    "ab": 35,
+    "event_id": 401695991,
+    "date_est": "2025-06-17",
+    "opponent": "Nationals"
+  },
+  {
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 3,
+    "ab": 34,
+    "event_id": 401695983,
+    "date_est": "2025-06-16",
+    "opponent": "Nationals"
+  },
+  {
+    "team": "Rockies",
+    "team_id": 26,
+    "metric": 1,
+    "ab": 34,
+    "event_id": 401695968,
+    "date_est": "2025-06-15",
+    "opponent": "Braves"
+  },
+  {
+    "team": "Reds",
+    "team_id": 17,
+    "metric": 1,
+    "ab": 36,
+    "event_id": 401696170,
+    "date_est": "2025-06-30",
+    "opponent": "Red Sox"
   },
   {
     "team": "Reds",
@@ -378,13 +828,13 @@
     "opponent": "Tigers"
   },
   {
-    "team": "Reds",
-    "team_id": 17,
+    "team": "Red Sox",
+    "team_id": 24,
     "metric": 4,
     "ab": 37,
-    "event_id": 401695952,
-    "date_est": "2025-06-14",
-    "opponent": "Tigers"
+    "event_id": 401696170,
+    "date_est": "2025-06-30",
+    "opponent": "Reds"
   },
   {
     "team": "Red Sox",
@@ -504,13 +954,13 @@
     "opponent": "Yankees"
   },
   {
-    "team": "Red Sox",
-    "team_id": 24,
-    "metric": 0,
-    "ab": 27,
-    "event_id": 401695955,
-    "date_est": "2025-06-14",
-    "opponent": "Yankees"
+    "team": "Rays",
+    "team_id": 15,
+    "metric": 1,
+    "ab": 32,
+    "event_id": 401696172,
+    "date_est": "2025-06-30",
+    "opponent": "A's"
   },
   {
     "team": "Rays",
@@ -639,13 +1089,13 @@
     "opponent": "Mets"
   },
   {
-    "team": "Rays",
-    "team_id": 15,
-    "metric": 1,
-    "ab": 37,
-    "event_id": 401695956,
-    "date_est": "2025-06-14",
-    "opponent": "Mets"
+    "team": "Rangers",
+    "team_id": 19,
+    "metric": 2,
+    "ab": 40,
+    "event_id": 401696175,
+    "date_est": "2025-07-01",
+    "opponent": "Orioles"
   },
   {
     "team": "Rangers",
@@ -756,13 +1206,13 @@
     "opponent": "White Sox"
   },
   {
-    "team": "Rangers",
-    "team_id": 19,
-    "metric": 0,
-    "ab": 43,
-    "event_id": 401695958,
-    "date_est": "2025-06-14",
-    "opponent": "White Sox"
+    "team": "Pirates",
+    "team_id": 10,
+    "metric": 1,
+    "ab": 33,
+    "event_id": 401696174,
+    "date_est": "2025-06-30",
+    "opponent": "Cardinals"
   },
   {
     "team": "Pirates",
@@ -873,13 +1323,13 @@
     "opponent": "Cubs"
   },
   {
-    "team": "Pirates",
-    "team_id": 10,
+    "team": "Phillies",
+    "team_id": 29,
     "metric": 1,
-    "ab": 30,
-    "event_id": 401695961,
-    "date_est": "2025-06-14",
-    "opponent": "Cubs"
+    "ab": 28,
+    "event_id": 401696173,
+    "date_est": "2025-06-30",
+    "opponent": "Padres"
   },
   {
     "team": "Phillies",
@@ -1008,13 +1458,13 @@
     "opponent": "Jays"
   },
   {
-    "team": "Phillies",
-    "team_id": 29,
-    "metric": 1,
-    "ab": 27,
-    "event_id": 401695957,
-    "date_est": "2025-06-14",
-    "opponent": "Jays"
+    "team": "Padres",
+    "team_id": 11,
+    "metric": 0,
+    "ab": 33,
+    "event_id": 401696173,
+    "date_est": "2025-06-30",
+    "opponent": "Phillies"
   },
   {
     "team": "Padres",
@@ -1134,22 +1584,13 @@
     "opponent": "D-Backs"
   },
   {
-    "team": "Padres",
-    "team_id": 11,
-    "metric": 1,
-    "ab": 35,
-    "event_id": 401695964,
-    "date_est": "2025-06-14",
-    "opponent": "D-Backs"
-  },
-  {
-    "team": "Padres",
-    "team_id": 11,
-    "metric": 0,
-    "ab": 31,
-    "event_id": 401695949,
-    "date_est": "2025-06-14",
-    "opponent": "D-Backs"
+    "team": "Orioles",
+    "team_id": 1,
+    "metric": 2,
+    "ab": 48,
+    "event_id": 401696175,
+    "date_est": "2025-07-01",
+    "opponent": "Rangers"
   },
   {
     "team": "Orioles",
@@ -1278,13 +1719,391 @@
     "opponent": "Angels"
   },
   {
-    "team": "Orioles",
-    "team_id": 1,
-    "metric": 2,
-    "ab": 34,
-    "event_id": 401695951,
-    "date_est": "2025-06-14",
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 0,
+    "ab": 40,
+    "event_id": 401696169,
+    "date_est": "2025-06-29",
     "opponent": "Angels"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 1,
+    "ab": 35,
+    "event_id": 401696154,
+    "date_est": "2025-06-29",
+    "opponent": "Angels"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 1,
+    "ab": 43,
+    "event_id": 401696139,
+    "date_est": "2025-06-28",
+    "opponent": "Angels"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 0,
+    "ab": 29,
+    "event_id": 401696115,
+    "date_est": "2025-06-25",
+    "opponent": "Padres"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 0,
+    "ab": 34,
+    "event_id": 401696100,
+    "date_est": "2025-06-25",
+    "opponent": "Padres"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 2,
+    "ab": 41,
+    "event_id": 401696085,
+    "date_est": "2025-06-24",
+    "opponent": "Padres"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 1,
+    "ab": 36,
+    "event_id": 401696076,
+    "date_est": "2025-06-22",
+    "opponent": "Dodgers"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 5,
+    "ab": 34,
+    "event_id": 401696061,
+    "date_est": "2025-06-22",
+    "opponent": "Dodgers"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 3,
+    "ab": 35,
+    "event_id": 401696046,
+    "date_est": "2025-06-21",
+    "opponent": "Dodgers"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 2,
+    "ab": 36,
+    "event_id": 401696021,
+    "date_est": "2025-06-19",
+    "opponent": "Rockies"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 0,
+    "ab": 33,
+    "event_id": 401696006,
+    "date_est": "2025-06-18",
+    "opponent": "Rockies"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 2,
+    "ab": 39,
+    "event_id": 401695991,
+    "date_est": "2025-06-17",
+    "opponent": "Rockies"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 2,
+    "ab": 28,
+    "event_id": 401695983,
+    "date_est": "2025-06-16",
+    "opponent": "Rockies"
+  },
+  {
+    "team": "Nationals",
+    "team_id": 18,
+    "metric": 0,
+    "ab": 31,
+    "event_id": 401695969,
+    "date_est": "2025-06-15",
+    "opponent": "Marlins"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 1,
+    "ab": 33,
+    "event_id": 401696156,
+    "date_est": "2025-06-29",
+    "opponent": "Pirates"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 0,
+    "ab": 36,
+    "event_id": 401696141,
+    "date_est": "2025-06-28",
+    "opponent": "Pirates"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 1,
+    "ab": 33,
+    "event_id": 401696126,
+    "date_est": "2025-06-27",
+    "opponent": "Pirates"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 0,
+    "ab": 32,
+    "event_id": 401696116,
+    "date_est": "2025-06-26",
+    "opponent": "Braves"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 3,
+    "ab": 34,
+    "event_id": 401696101,
+    "date_est": "2025-06-25",
+    "opponent": "Braves"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 0,
+    "ab": 31,
+    "event_id": 401696086,
+    "date_est": "2025-06-24",
+    "opponent": "Braves"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 1,
+    "ab": 32,
+    "event_id": 401696077,
+    "date_est": "2025-06-23",
+    "opponent": "Braves"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 1,
+    "ab": 31,
+    "event_id": 401696066,
+    "date_est": "2025-06-22",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 7,
+    "ab": 42,
+    "event_id": 401696051,
+    "date_est": "2025-06-21",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 2,
+    "ab": 33,
+    "event_id": 401696036,
+    "date_est": "2025-06-20",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 0,
+    "ab": 33,
+    "event_id": 401696023,
+    "date_est": "2025-06-19",
+    "opponent": "Braves"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 0,
+    "ab": 32,
+    "event_id": 401696008,
+    "date_est": "2025-06-18",
+    "opponent": "Braves"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 2,
+    "ab": 33,
+    "event_id": 401695993,
+    "date_est": "2025-06-17",
+    "opponent": "Braves"
+  },
+  {
+    "team": "Mets",
+    "team_id": 27,
+    "metric": 0,
+    "ab": 31,
+    "event_id": 401695971,
+    "date_est": "2025-06-15",
+    "opponent": "Rays"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 0,
+    "ab": 33,
+    "event_id": 401696168,
+    "date_est": "2025-06-29",
+    "opponent": "D-Backs"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 1,
+    "ab": 40,
+    "event_id": 401696153,
+    "date_est": "2025-06-28",
+    "opponent": "D-Backs"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 3,
+    "ab": 41,
+    "event_id": 401696138,
+    "date_est": "2025-06-28",
+    "opponent": "D-Backs"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 2,
+    "ab": 37,
+    "event_id": 401696124,
+    "date_est": "2025-06-26",
+    "opponent": "Giants"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 0,
+    "ab": 39,
+    "event_id": 401696114,
+    "date_est": "2025-06-26",
+    "opponent": "Giants"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 0,
+    "ab": 38,
+    "event_id": 401696099,
+    "date_est": "2025-06-25",
+    "opponent": "Giants"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 1,
+    "ab": 35,
+    "event_id": 401696062,
+    "date_est": "2025-06-22",
+    "opponent": "Braves"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 0,
+    "ab": 30,
+    "event_id": 401696047,
+    "date_est": "2025-06-21",
+    "opponent": "Braves"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 1,
+    "ab": 32,
+    "event_id": 401696032,
+    "date_est": "2025-06-20",
+    "opponent": "Braves"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 0,
+    "ab": 33,
+    "event_id": 401696024,
+    "date_est": "2025-06-19",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 1,
+    "ab": 33,
+    "event_id": 401696009,
+    "date_est": "2025-06-18",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 2,
+    "ab": 35,
+    "event_id": 401695994,
+    "date_est": "2025-06-17",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 0,
+    "ab": 31,
+    "event_id": 401695984,
+    "date_est": "2025-06-16",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Marlins",
+    "team_id": 9,
+    "metric": 1,
+    "ab": 35,
+    "event_id": 401695969,
+    "date_est": "2025-06-15",
+    "opponent": "Nationals"
+  },
+  {
+    "team": "Mariners",
+    "team_id": 23,
+    "metric": 3,
+    "ab": 34,
+    "event_id": 401696176,
+    "date_est": "2025-07-01",
+    "opponent": "Royals"
   },
   {
     "team": "Mariners",
@@ -1424,6 +2243,15 @@
   {
     "team": "Jays",
     "team_id": 16,
+    "metric": 0,
+    "ab": 32,
+    "event_id": 401696171,
+    "date_est": "2025-06-30",
+    "opponent": "Yankees"
+  },
+  {
+    "team": "Jays",
+    "team_id": 16,
     "metric": 2,
     "ab": 32,
     "event_id": 401696162,
@@ -1539,13 +2367,139 @@
     "opponent": "Phillies"
   },
   {
-    "team": "Jays",
-    "team_id": 16,
+    "team": "Guardians",
+    "team_id": 22,
     "metric": 0,
+    "ab": 33,
+    "event_id": 401764560,
+    "date_est": "2025-06-22",
+    "opponent": "A's"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 0,
+    "ab": 38,
+    "event_id": 401764559,
+    "date_est": "2025-06-22",
+    "opponent": "A's"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 1,
+    "ab": 31,
+    "event_id": 401764558,
+    "date_est": "2025-06-21",
+    "opponent": "A's"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 0,
+    "ab": 29,
+    "event_id": 401696160,
+    "date_est": "2025-06-29",
+    "opponent": "Cardinals"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 2,
+    "ab": 36,
+    "event_id": 401696145,
+    "date_est": "2025-06-28",
+    "opponent": "Cardinals"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 0,
+    "ab": 28,
+    "event_id": 401696130,
+    "date_est": "2025-06-27",
+    "opponent": "Cardinals"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 0,
+    "ab": 29,
+    "event_id": 401696118,
+    "date_est": "2025-06-26",
+    "opponent": "Jays"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 1,
+    "ab": 34,
+    "event_id": 401696105,
+    "date_est": "2025-06-25",
+    "opponent": "Jays"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 3,
     "ab": 32,
-    "event_id": 401695957,
-    "date_est": "2025-06-14",
-    "opponent": "Phillies"
+    "event_id": 401696090,
+    "date_est": "2025-06-24",
+    "opponent": "Jays"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 0,
+    "ab": 34,
+    "event_id": 401696029,
+    "date_est": "2025-06-19",
+    "opponent": "Giants"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 1,
+    "ab": 33,
+    "event_id": 401696015,
+    "date_est": "2025-06-19",
+    "opponent": "Giants"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 1,
+    "ab": 32,
+    "event_id": 401696000,
+    "date_est": "2025-06-18",
+    "opponent": "Giants"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 0,
+    "ab": 29,
+    "event_id": 401695978,
+    "date_est": "2025-06-15",
+    "opponent": "Mariners"
+  },
+  {
+    "team": "Guardians",
+    "team_id": 22,
+    "metric": 1,
+    "ab": 34,
+    "event_id": 401695963,
+    "date_est": "2025-06-15",
+    "opponent": "Mariners"
+  },
+  {
+    "team": "Giants",
+    "team_id": 12,
+    "metric": 0,
+    "ab": 33,
+    "event_id": 401696177,
+    "date_est": "2025-07-01",
+    "opponent": "D-Backs"
   },
   {
     "team": "Giants",
@@ -1674,13 +2628,139 @@
     "opponent": "Dodgers"
   },
   {
-    "team": "Giants",
-    "team_id": 12,
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 2,
+    "ab": 32,
+    "event_id": 401696165,
+    "date_est": "2025-06-29",
+    "opponent": "Royals"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 1,
+    "ab": 37,
+    "event_id": 401696150,
+    "date_est": "2025-06-28",
+    "opponent": "Royals"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 2,
+    "ab": 32,
+    "event_id": 401696135,
+    "date_est": "2025-06-28",
+    "opponent": "Royals"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 1,
+    "ab": 34,
+    "event_id": 401696123,
+    "date_est": "2025-06-26",
+    "opponent": "Rockies"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 2,
+    "ab": 34,
+    "event_id": 401696112,
+    "date_est": "2025-06-26",
+    "opponent": "Rockies"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 2,
+    "ab": 44,
+    "event_id": 401696097,
+    "date_est": "2025-06-25",
+    "opponent": "Rockies"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
     "metric": 3,
-    "ab": 36,
-    "event_id": 401695950,
-    "date_est": "2025-06-14",
-    "opponent": "Dodgers"
+    "ab": 35,
+    "event_id": 401696076,
+    "date_est": "2025-06-22",
+    "opponent": "Nationals"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 3,
+    "ab": 34,
+    "event_id": 401696061,
+    "date_est": "2025-06-22",
+    "opponent": "Nationals"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 1,
+    "ab": 32,
+    "event_id": 401696046,
+    "date_est": "2025-06-21",
+    "opponent": "Nationals"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 0,
+    "ab": 33,
+    "event_id": 401696031,
+    "date_est": "2025-06-20",
+    "opponent": "Padres"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 1,
+    "ab": 29,
+    "event_id": 401696017,
+    "date_est": "2025-06-19",
+    "opponent": "Padres"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 0,
+    "ab": 35,
+    "event_id": 401695987,
+    "date_est": "2025-06-17",
+    "opponent": "Padres"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 2,
+    "ab": 30,
+    "event_id": 401695980,
+    "date_est": "2025-06-15",
+    "opponent": "Giants"
+  },
+  {
+    "team": "Dodgers",
+    "team_id": 13,
+    "metric": 4,
+    "ab": 33,
+    "event_id": 401695965,
+    "date_est": "2025-06-15",
+    "opponent": "Giants"
+  },
+  {
+    "team": "D-Backs",
+    "team_id": 25,
+    "metric": 2,
+    "ab": 31,
+    "event_id": 401696177,
+    "date_est": "2025-07-01",
+    "opponent": "Giants"
   },
   {
     "team": "D-Backs",
@@ -1800,22 +2880,121 @@
     "opponent": "Padres"
   },
   {
-    "team": "D-Backs",
-    "team_id": 25,
-    "metric": 1,
-    "ab": 35,
-    "event_id": 401695964,
-    "date_est": "2025-06-14",
-    "opponent": "Padres"
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 0,
+    "ab": 32,
+    "event_id": 401696163,
+    "date_est": "2025-06-29",
+    "opponent": "Astros"
   },
   {
-    "team": "D-Backs",
-    "team_id": 25,
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 4,
+    "ab": 41,
+    "event_id": 401696148,
+    "date_est": "2025-06-28",
+    "opponent": "Astros"
+  },
+  {
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 1,
+    "ab": 35,
+    "event_id": 401696133,
+    "date_est": "2025-06-28",
+    "opponent": "Astros"
+  },
+  {
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 1,
+    "ab": 34,
+    "event_id": 401696119,
+    "date_est": "2025-06-26",
+    "opponent": "Cardinals"
+  },
+  {
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 3,
+    "ab": 40,
+    "event_id": 401696107,
+    "date_est": "2025-06-25",
+    "opponent": "Cardinals"
+  },
+  {
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 2,
+    "ab": 38,
+    "event_id": 401696092,
+    "date_est": "2025-06-24",
+    "opponent": "Cardinals"
+  },
+  {
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 0,
+    "ab": 32,
+    "event_id": 401696081,
+    "date_est": "2025-06-23",
+    "opponent": "Cardinals"
+  },
+  {
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 4,
+    "ab": 36,
+    "event_id": 401696070,
+    "date_est": "2025-06-22",
+    "opponent": "Mariners"
+  },
+  {
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 5,
+    "ab": 33,
+    "event_id": 401696055,
+    "date_est": "2025-06-21",
+    "opponent": "Mariners"
+  },
+  {
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 2,
+    "ab": 33,
+    "event_id": 401696040,
+    "date_est": "2025-06-20",
+    "opponent": "Mariners"
+  },
+  {
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 3,
+    "ab": 32,
+    "event_id": 401696027,
+    "date_est": "2025-06-19",
+    "opponent": "Brewers"
+  },
+  {
+    "team": "Cubs",
+    "team_id": 20,
     "metric": 2,
     "ab": 31,
-    "event_id": 401695949,
-    "date_est": "2025-06-14",
-    "opponent": "Padres"
+    "event_id": 401695997,
+    "date_est": "2025-06-18",
+    "opponent": "Brewers"
+  },
+  {
+    "team": "Cubs",
+    "team_id": 20,
+    "metric": 0,
+    "ab": 34,
+    "event_id": 401695976,
+    "date_est": "2025-06-15",
+    "opponent": "Pirates"
   },
   {
     "team": "Cardinals",
@@ -1825,6 +3004,15 @@
     "event_id": 401785798,
     "date_est": "2025-06-19",
     "opponent": "White Sox"
+  },
+  {
+    "team": "Cardinals",
+    "team_id": 14,
+    "metric": 0,
+    "ab": 29,
+    "event_id": 401696174,
+    "date_est": "2025-06-30",
+    "opponent": "Pirates"
   },
   {
     "team": "Cardinals",
@@ -1944,22 +3132,463 @@
     "opponent": "Brewers"
   },
   {
-    "team": "Cardinals",
-    "team_id": 14,
+    "team": "Brewers",
+    "team_id": 28,
     "metric": 2,
-    "ab": 36,
-    "event_id": 401695962,
-    "date_est": "2025-06-14",
-    "opponent": "Brewers"
+    "ab": 39,
+    "event_id": 401696164,
+    "date_est": "2025-06-29",
+    "opponent": "Rockies"
   },
   {
-    "team": "Cardinals",
-    "team_id": 14,
+    "team": "Brewers",
+    "team_id": 28,
+    "metric": 1,
+    "ab": 32,
+    "event_id": 401696149,
+    "date_est": "2025-06-28",
+    "opponent": "Rockies"
+  },
+  {
+    "team": "Brewers",
+    "team_id": 28,
+    "metric": 0,
+    "ab": 31,
+    "event_id": 401696109,
+    "date_est": "2025-06-25",
+    "opponent": "Pirates"
+  },
+  {
+    "team": "Brewers",
+    "team_id": 28,
+    "metric": 3,
+    "ab": 34,
+    "event_id": 401696094,
+    "date_est": "2025-06-24",
+    "opponent": "Pirates"
+  },
+  {
+    "team": "Brewers",
+    "team_id": 28,
+    "metric": 1,
+    "ab": 33,
+    "event_id": 401696082,
+    "date_est": "2025-06-23",
+    "opponent": "Pirates"
+  },
+  {
+    "team": "Brewers",
+    "team_id": 28,
+    "metric": 2,
+    "ab": 41,
+    "event_id": 401696069,
+    "date_est": "2025-06-22",
+    "opponent": "Twins"
+  },
+  {
+    "team": "Brewers",
+    "team_id": 28,
+    "metric": 0,
+    "ab": 35,
+    "event_id": 401696054,
+    "date_est": "2025-06-21",
+    "opponent": "Twins"
+  },
+  {
+    "team": "Brewers",
+    "team_id": 28,
+    "metric": 0,
+    "ab": 41,
+    "event_id": 401696039,
+    "date_est": "2025-06-21",
+    "opponent": "Twins"
+  },
+  {
+    "team": "Brewers",
+    "team_id": 28,
+    "metric": 3,
+    "ab": 37,
+    "event_id": 401696027,
+    "date_est": "2025-06-19",
+    "opponent": "Cubs"
+  },
+  {
+    "team": "Brewers",
+    "team_id": 28,
+    "metric": 1,
+    "ab": 35,
+    "event_id": 401695997,
+    "date_est": "2025-06-18",
+    "opponent": "Cubs"
+  },
+  {
+    "team": "Brewers",
+    "team_id": 28,
+    "metric": 1,
+    "ab": 31,
+    "event_id": 401695977,
+    "date_est": "2025-06-15",
+    "opponent": "Cardinals"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 1,
+    "ab": 33,
+    "event_id": 401696158,
+    "date_est": "2025-06-29",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 1,
+    "ab": 34,
+    "event_id": 401696143,
+    "date_est": "2025-06-28",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 0,
+    "ab": 35,
+    "event_id": 401696128,
+    "date_est": "2025-06-27",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 0,
+    "ab": 30,
+    "event_id": 401696116,
+    "date_est": "2025-06-26",
+    "opponent": "Mets"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 1,
+    "ab": 32,
+    "event_id": 401696101,
+    "date_est": "2025-06-25",
+    "opponent": "Mets"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 0,
+    "ab": 33,
+    "event_id": 401696086,
+    "date_est": "2025-06-24",
+    "opponent": "Mets"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 1,
+    "ab": 34,
+    "event_id": 401696077,
+    "date_est": "2025-06-23",
+    "opponent": "Mets"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 0,
+    "ab": 33,
+    "event_id": 401696062,
+    "date_est": "2025-06-22",
+    "opponent": "Marlins"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 1,
+    "ab": 37,
+    "event_id": 401696047,
+    "date_est": "2025-06-21",
+    "opponent": "Marlins"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 1,
+    "ab": 35,
+    "event_id": 401696032,
+    "date_est": "2025-06-20",
+    "opponent": "Marlins"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 0,
+    "ab": 32,
+    "event_id": 401696023,
+    "date_est": "2025-06-19",
+    "opponent": "Mets"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 2,
+    "ab": 30,
+    "event_id": 401696008,
+    "date_est": "2025-06-18",
+    "opponent": "Mets"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
     "metric": 0,
     "ab": 34,
-    "event_id": 401695947,
-    "date_est": "2025-06-14",
-    "opponent": "Brewers"
+    "event_id": 401695993,
+    "date_est": "2025-06-17",
+    "opponent": "Mets"
+  },
+  {
+    "team": "Braves",
+    "team_id": 30,
+    "metric": 0,
+    "ab": 31,
+    "event_id": 401695968,
+    "date_est": "2025-06-15",
+    "opponent": "Rockies"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 1,
+    "ab": 36,
+    "event_id": 401764557,
+    "date_est": "2025-06-20",
+    "opponent": "A's"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 3,
+    "ab": 45,
+    "event_id": 401764556,
+    "date_est": "2025-06-19",
+    "opponent": "A's"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 1,
+    "ab": 32,
+    "event_id": 401696163,
+    "date_est": "2025-06-29",
+    "opponent": "Cubs"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 2,
+    "ab": 32,
+    "event_id": 401696148,
+    "date_est": "2025-06-28",
+    "opponent": "Cubs"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 2,
+    "ab": 32,
+    "event_id": 401696133,
+    "date_est": "2025-06-28",
+    "opponent": "Cubs"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 0,
+    "ab": 31,
+    "event_id": 401696120,
+    "date_est": "2025-06-26",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 1,
+    "ab": 28,
+    "event_id": 401696108,
+    "date_est": "2025-06-26",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 1,
+    "ab": 27,
+    "event_id": 401696093,
+    "date_est": "2025-06-25",
+    "opponent": "Phillies"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 3,
+    "ab": 39,
+    "event_id": 401696074,
+    "date_est": "2025-06-22",
+    "opponent": "Angels"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 0,
+    "ab": 30,
+    "event_id": 401696059,
+    "date_est": "2025-06-22",
+    "opponent": "Angels"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 2,
+    "ab": 37,
+    "event_id": 401696044,
+    "date_est": "2025-06-21",
+    "opponent": "Angels"
+  },
+  {
+    "team": "Astros",
+    "team_id": 7,
+    "metric": 0,
+    "ab": 30,
+    "event_id": 401695974,
+    "date_est": "2025-06-15",
+    "opponent": "Twins"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 0,
+    "ab": 38,
+    "event_id": 401696169,
+    "date_est": "2025-06-29",
+    "opponent": "Nationals"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 3,
+    "ab": 31,
+    "event_id": 401696154,
+    "date_est": "2025-06-29",
+    "opponent": "Nationals"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 3,
+    "ab": 37,
+    "event_id": 401696139,
+    "date_est": "2025-06-28",
+    "opponent": "Nationals"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 2,
+    "ab": 33,
+    "event_id": 401696113,
+    "date_est": "2025-06-25",
+    "opponent": "Red Sox"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 2,
+    "ab": 32,
+    "event_id": 401696098,
+    "date_est": "2025-06-25",
+    "opponent": "Red Sox"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 1,
+    "ab": 28,
+    "event_id": 401696084,
+    "date_est": "2025-06-24",
+    "opponent": "Red Sox"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 3,
+    "ab": 38,
+    "event_id": 401696074,
+    "date_est": "2025-06-22",
+    "opponent": "Astros"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 3,
+    "ab": 36,
+    "event_id": 401696059,
+    "date_est": "2025-06-22",
+    "opponent": "Astros"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 2,
+    "ab": 36,
+    "event_id": 401696044,
+    "date_est": "2025-06-21",
+    "opponent": "Astros"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 3,
+    "ab": 32,
+    "event_id": 401696018,
+    "date_est": "2025-06-19",
+    "opponent": "Yankees"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 2,
+    "ab": 34,
+    "event_id": 401696003,
+    "date_est": "2025-06-18",
+    "opponent": "Yankees"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 0,
+    "ab": 34,
+    "event_id": 401695988,
+    "date_est": "2025-06-17",
+    "opponent": "Yankees"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 0,
+    "ab": 40,
+    "event_id": 401695981,
+    "date_est": "2025-06-16",
+    "opponent": "Yankees"
+  },
+  {
+    "team": "Angels",
+    "team_id": 2,
+    "metric": 1,
+    "ab": 31,
+    "event_id": 401695966,
+    "date_est": "2025-06-15",
+    "opponent": "Orioles"
   },
   {
     "team": "A's",
@@ -2005,6 +3634,15 @@
     "event_id": 401764556,
     "date_est": "2025-06-19",
     "opponent": "Astros"
+  },
+  {
+    "team": "A's",
+    "team_id": 21,
+    "metric": 1,
+    "ab": 34,
+    "event_id": 401696172,
+    "date_est": "2025-06-30",
+    "opponent": "Rays"
   },
   {
     "team": "A's",
@@ -2067,24 +3705,6 @@
     "ab": 34,
     "event_id": 401695975,
     "date_est": "2025-06-15",
-    "opponent": "Royals"
-  },
-  {
-    "team": "A's",
-    "team_id": 21,
-    "metric": 2,
-    "ab": 33,
-    "event_id": 401695960,
-    "date_est": "2025-06-14",
-    "opponent": "Royals"
-  },
-  {
-    "team": "A's",
-    "team_id": 21,
-    "metric": 2,
-    "ab": 38,
-    "event_id": 401695945,
-    "date_est": "2025-06-14",
     "opponent": "Royals"
   }
 ]

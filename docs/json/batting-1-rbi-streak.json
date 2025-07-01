@@ -1,10 +1,31 @@
 [
   {
+    "player_id": 34923,
+    "name": "Taylor Ward",
+    "team": "Angels",
+    "streak": 7,
+    "ab": 30
+  },
+  {
+    "player_id": 41917,
+    "name": "Otto Lopez",
+    "team": "Marlins",
+    "streak": 7,
+    "ab": 30
+  },
+  {
     "player_id": 33859,
     "name": "Rafael Devers",
     "team": "Red Sox",
     "streak": 5,
     "ab": 23
+  },
+  {
+    "player_id": 35020,
+    "name": "Ke'Bryan Hayes",
+    "team": "Pirates",
+    "streak": 5,
+    "ab": 18
   },
   {
     "player_id": 31261,
@@ -21,18 +42,32 @@
     "ab": 16
   },
   {
-    "player_id": 35020,
-    "name": "Ke'Bryan Hayes",
-    "team": "Pirates",
+    "player_id": 33303,
+    "name": "Max Muncy",
+    "team": "Dodgers",
     "streak": 4,
-    "ab": 14
+    "ab": 15
   },
   {
-    "player_id": 39961,
-    "name": "Brandon Lowe",
-    "team": "Rays",
+    "player_id": 4990055,
+    "name": "Wilyer Abreu",
+    "team": "Red Sox",
     "streak": 4,
-    "ab": 14
+    "ab": 12
+  },
+  {
+    "player_id": 4142424,
+    "name": "Seiya Suzuki",
+    "team": "Cubs",
+    "streak": 3,
+    "ab": 15
+  },
+  {
+    "player_id": 4666100,
+    "name": "Zach Neto",
+    "team": "Angels",
+    "streak": 3,
+    "ab": 15
   },
   {
     "player_id": 33192,
@@ -42,32 +77,46 @@
     "ab": 14
   },
   {
-    "player_id": 38980,
-    "name": "Bryan Reynolds",
-    "team": "Pirates",
+    "player_id": 42047,
+    "name": "Logan O'Hoppe",
+    "team": "Angels",
     "streak": 3,
     "ab": 14
   },
   {
-    "player_id": 33572,
-    "name": "Isiah Kiner-Falefa",
-    "team": "Pirates",
-    "streak": 3,
-    "ab": 13
-  },
-  {
-    "player_id": 28701,
-    "name": "Andrew McCutchen",
-    "team": "Pirates",
+    "player_id": 33557,
+    "name": "Sean Murphy",
+    "team": "Braves",
     "streak": 3,
     "ab": 11
   },
   {
-    "player_id": 4990055,
-    "name": "Wilyer Abreu",
-    "team": "Red Sox",
+    "player_id": 40344,
+    "name": "Gabriel Arias",
+    "team": "Guardians",
     "streak": 3,
-    "ab": 7
+    "ab": 11
+  },
+  {
+    "player_id": 33984,
+    "name": "Yoan Moncada",
+    "team": "Angels",
+    "streak": 3,
+    "ab": 10
+  },
+  {
+    "player_id": 41273,
+    "name": "Jeremy Pena",
+    "team": "Astros",
+    "streak": 2,
+    "ab": 11
+  },
+  {
+    "player_id": 31095,
+    "name": "Gary Sanchez",
+    "team": "Orioles",
+    "streak": 2,
+    "ab": 10
   },
   {
     "player_id": 40610,
@@ -91,11 +140,39 @@
     "ab": 10
   },
   {
+    "player_id": 4987650,
+    "name": "Eric Wagaman",
+    "team": "Marlins",
+    "streak": 2,
+    "ab": 10
+  },
+  {
     "player_id": 5080633,
     "name": "Jackson Holliday",
     "team": "Orioles",
     "streak": 2,
     "ab": 10
+  },
+  {
+    "player_id": 33804,
+    "name": "Gleyber Torres",
+    "team": "Tigers",
+    "streak": 2,
+    "ab": 9
+  },
+  {
+    "player_id": 40538,
+    "name": "Nathaniel Lowe",
+    "team": "Nationals",
+    "streak": 2,
+    "ab": 9
+  },
+  {
+    "player_id": 40655,
+    "name": "Riley Adams",
+    "team": "Nationals",
+    "streak": 2,
+    "ab": 9
   },
   {
     "player_id": 41610,
@@ -105,9 +182,37 @@
     "ab": 9
   },
   {
-    "player_id": 32512,
-    "name": "Ketel Marte",
+    "player_id": 4311634,
+    "name": "Nick Gonzales",
+    "team": "Pirates",
+    "streak": 2,
+    "ab": 9
+  },
+  {
+    "player_id": 4683384,
+    "name": "Colt Keith",
+    "team": "Tigers",
+    "streak": 2,
+    "ab": 9
+  },
+  {
+    "player_id": 32367,
+    "name": "Eugenio Suarez",
     "team": "D-Backs",
+    "streak": 2,
+    "ab": 8
+  },
+  {
+    "player_id": 32801,
+    "name": "Jose Ramirez",
+    "team": "Guardians",
+    "streak": 2,
+    "ab": 8
+  },
+  {
+    "player_id": 33229,
+    "name": "Victor Caratini",
+    "team": "Astros",
     "streak": 2,
     "ab": 8
   },
@@ -140,11 +245,25 @@
     "ab": 8
   },
   {
-    "player_id": 4997589,
-    "name": "Addison Barger",
-    "team": "Jays",
+    "player_id": 4927523,
+    "name": "Christian Moore",
+    "team": "Angels",
     "streak": 2,
     "ab": 8
+  },
+  {
+    "player_id": 40854,
+    "name": "Jo Adell",
+    "team": "Angels",
+    "streak": 2,
+    "ab": 7
+  },
+  {
+    "player_id": 41253,
+    "name": "Francisco Alvarez",
+    "team": "Mets",
+    "streak": 2,
+    "ab": 7
   },
   {
     "player_id": 41259,
@@ -154,6 +273,20 @@
     "ab": 7
   },
   {
+    "player_id": 31358,
+    "name": "Enrique Hernandez",
+    "team": "Dodgers",
+    "streak": 2,
+    "ab": 6
+  },
+  {
+    "player_id": 32797,
+    "name": "Carson Kelly",
+    "team": "Cubs",
+    "streak": 2,
+    "ab": 6
+  },
+  {
     "player_id": 40702,
     "name": "Jhonny Pereda",
     "team": "A's",
@@ -161,16 +294,30 @@
     "ab": 5
   },
   {
-    "player_id": 41168,
-    "name": "Joey Bart",
-    "team": "Pirates",
+    "player_id": 43030,
+    "name": "Tyler Fitzgerald",
+    "team": "Giants",
     "streak": 2,
-    "ab": 4
+    "ab": 5
+  },
+  {
+    "player_id": 31283,
+    "name": "Christian Yelich",
+    "team": "Brewers",
+    "streak": 1,
+    "ab": 5
   },
   {
     "player_id": 33411,
     "name": "Rob Refsnyder",
     "team": "Red Sox",
+    "streak": 1,
+    "ab": 5
+  },
+  {
+    "player_id": 33572,
+    "name": "Isiah Kiner-Falefa",
+    "team": "Pirates",
     "streak": 1,
     "ab": 5
   },
@@ -182,171 +329,24 @@
     "ab": 5
   },
   {
-    "player_id": 4311634,
-    "name": "Nick Gonzales",
-    "team": "Pirates",
+    "player_id": 35022,
+    "name": "Kevin Newman",
+    "team": "Angels",
     "streak": 1,
     "ab": 5
   },
   {
-    "player_id": 4345070,
-    "name": "Alec Burleson",
-    "team": "Cardinals",
+    "player_id": 36485,
+    "name": "Thairo Estrada",
+    "team": "Rockies",
     "streak": 1,
     "ab": 5
   },
   {
-    "player_id": 4448736,
-    "name": "Lars Nootbaar",
-    "team": "Cardinals",
+    "player_id": 41205,
+    "name": "Trevor Larnach",
+    "team": "Twins",
     "streak": 1,
     "ab": 5
-  },
-  {
-    "player_id": 5012120,
-    "name": "Carlos Narvaez",
-    "team": "Red Sox",
-    "streak": 1,
-    "ab": 5
-  },
-  {
-    "player_id": 31095,
-    "name": "Gary Sanchez",
-    "team": "Orioles",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 32177,
-    "name": "J.T. Realmuto",
-    "team": "Phillies",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 32367,
-    "name": "Eugenio Suarez",
-    "team": "D-Backs",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 33842,
-    "name": "Jonah Heim",
-    "team": "Rangers",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 34287,
-    "name": "Rowdy Tellez",
-    "team": "Mariners",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 35314,
-    "name": "Austin Wynns",
-    "team": "A's",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 35358,
-    "name": "Chadwick Tromp",
-    "team": "Orioles",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 39216,
-    "name": "Will Benson",
-    "team": "Reds",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 39400,
-    "name": "Oscar Gonzalez",
-    "team": "Padres",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 39899,
-    "name": "Garrett Hampson",
-    "team": "Cardinals",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 41171,
-    "name": "Jonathan India",
-    "team": "Royals",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 41197,
-    "name": "Jake McCarthy",
-    "team": "D-Backs",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 41644,
-    "name": "J.C. Escarra",
-    "team": "Yankees",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 42178,
-    "name": "Adley Rutschman",
-    "team": "Orioles",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 42401,
-    "name": "Jasson Dominguez",
-    "team": "Yankees",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 42437,
-    "name": "Josh Jung",
-    "team": "Rangers",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 42933,
-    "name": "Jared Triolo",
-    "team": "Pirates",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 4626239,
-    "name": "Ben Williamson",
-    "team": "Mariners",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 4722676,
-    "name": "Jorbit Vivas",
-    "team": "Yankees",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 4722941,
-    "name": "Luis Matos",
-    "team": "Giants",
-    "streak": 1,
-    "ab": 4
   }
 ]
