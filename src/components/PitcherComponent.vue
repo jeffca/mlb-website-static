@@ -80,12 +80,12 @@ function selectDays(days) {
 
 <template>
     <div>
-      <div>
-        <span @click="clickedAverages = true; clickedStreaks = false">Averages</span>
-        <span>|</span>
-        <span @click="clickedStreaks = true; clickedAverages = false">Streaks</span>
+      <div class="center">
+        <span @click="clickedAverages = true; clickedStreaks = false" class="averages-or-streaks-button">Averages</span>
+        <span class="divider">|</span>
+        <span @click="clickedStreaks = true; clickedAverages = false" class="averages-or-streaks-button">Streaks</span>
       </div>
-      <div v-if="clickedAverages">
+      <div v-if="clickedAverages && !clickedStreaks">
         <div class="button-div">
             <div class="button-group">
                 <button
@@ -114,19 +114,22 @@ function selectDays(days) {
           <PlayerTable :data="dataMapIP[selectedDays]" v-model:currentPage="pageIP" :metric="'ip'" :position="'p'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
         </div>
       </div>
-      <div v-if="clickedStreaks">
+      <div v-if="clickedStreaks && !clickedAverages">
+        <div class="streaks-container">
+          &nbsp;
+        </div>
         <h2>4+ Hit Streaks</h2>
-        <PlayerStreakTable :data="dataMapHStreak" v-model:currentPage="pageHStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+        <PlayerStreakTable :data="dataMapHStreak" v-model:currentPage="pageHStreak" :metric="'h'" :position="'p'" @update:currentPage="currentPage = $event"/>
         <h2>4+ Strikeout Streaks</h2>
-        <PlayerStreakTable :data="dataMapKStreak" v-model:currentPage="pageKStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+        <PlayerStreakTable :data="dataMapKStreak" v-model:currentPage="pageKStreak" :metric="'k'" :position="'p'" @update:currentPage="currentPage = $event"/>
         <h2>2+ Walk Streaks</h2>
-        <PlayerStreakTable :data="dataMapBBStreak" v-model:currentPage="pageBBStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+        <PlayerStreakTable :data="dataMapBBStreak" v-model:currentPage="pageBBStreak" :metric="'bb'" :position="'p'" @update:currentPage="currentPage = $event"/>
         <h2>2+ Earned Run Streaks</h2>
-        <PlayerStreakTable :data="dataMapERStreak" v-model:currentPage="pageERStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+        <PlayerStreakTable :data="dataMapERStreak" v-model:currentPage="pageERStreak" :metric="'er'" :position="'p'" @update:currentPage="currentPage = $event"/>
         <h2>1+ Home Run Streaks</h2>
-        <PlayerStreakTable :data="dataMapHRStreak" v-model:currentPage="pageHRStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+        <PlayerStreakTable :data="dataMapHRStreak" v-model:currentPage="pageHRStreak" :metric="'hr'" :position="'p'" @update:currentPage="currentPage = $event"/>
         <h2>6+ Innings Pitched Streaks</h2>
-        <PlayerStreakTable :data="dataMapIPStreak" v-model:currentPage="pageIPStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+        <PlayerStreakTable :data="dataMapIPStreak" v-model:currentPage="pageIPStreak" :metric="'ip'" :position="'p'" @update:currentPage="currentPage = $event"/>
       </div>
     </div>
 </template>

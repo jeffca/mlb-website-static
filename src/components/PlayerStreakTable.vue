@@ -6,6 +6,7 @@ import { computed, ref } from 'vue'
 const props = defineProps({
   data: Object,
   currentPage: Number,
+  metric: String,
   position: String
 })
 
@@ -37,11 +38,11 @@ function prevPage() {
 }
 
 function openPlayerHistory(player_id) {
+    console.log(player_id);
   clickedValue.value = player_id;
   showModal.value = true
 }
 
-console.log(props.data);
 </script>
 
 <template>
@@ -57,7 +58,7 @@ console.log(props.data);
       </thead>
       <tbody>
         <tr v-for="(row, index) in paginatedData" :key="index">
-          <td>{{ row['name'] }}</td>
+          <td @click="openPlayerHistory(row.player_id)">{{ row['name'] }}</td>
           <td>{{ row['team'] }}</td>
           <td>{{ row['streak'] }}</td>
           <td v-if="'ab' in paginatedData[index]">{{ row['ab'] }}</td>
@@ -72,8 +73,9 @@ console.log(props.data);
     <PlayerHistory 
       v-if="showModal" 
       :player_id="clickedValue"
-      :selectedDays="selectedDays"
+      :selectedDays="'5'"
       :position="position"
+      :metric="metric"
       @close="showModal = false"
     />
   </div>

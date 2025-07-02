@@ -67,7 +67,7 @@
         }
       }
       let allPlayers = await response.json()
-
+      console.log(allPlayers);
 
       let last3DaysSum = 0;
       let last5DaysSum = 0;

@@ -72,12 +72,12 @@ function selectDays(days) {
 
 <template>
   <div>
-    <div>
-      <span @click="clickedAverages = true; clickedStreaks = false">Averages</span>
-      <span>|</span>
-      <span @click="clickedStreaks = true; clickedAverages = false">Streaks</span>
+    <div class="center">
+      <span @click="clickedAverages = true; clickedStreaks = false" class="averages-or-streaks-button">Averages</span>
+      <span class="divider">|</span>
+      <span @click="clickedStreaks = true; clickedAverages = false" class="averages-or-streaks-button">Streaks</span>
     </div>
-    <div v-if="clickedAverages && !clickedStreaks">
+    <div v-if="clickedAverages">
       <div class="button-div">
         <div class="button-group">
             <button
@@ -105,15 +105,18 @@ function selectDays(days) {
       </div>
     </div>
     
-    <div v-if="clickedStreaks && !clickedAverages">
+    <div v-if="clickedStreaks">
+      <div class="streaks-container">
+        &nbsp;
+      </div>
       <h2>1+ Hit Streaks</h2>
-      <PlayerStreakTable :data="dataMapHStreak" v-model:currentPage="pageHStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+      <PlayerStreakTable :data="dataMapHStreak" v-model:currentPage="pageHStreak" :metric="'h'" :position="'b'" @update:currentPage="currentPage = $event"/>
       <h2>1+ Strikeout Streaks</h2>
-      <PlayerStreakTable :data="dataMapKStreak" v-model:currentPage="pageKStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+      <PlayerStreakTable :data="dataMapKStreak" v-model:currentPage="pageKStreak" :metric="'k'" :position="'b'" @update:currentPage="currentPage = $event"/>
       <h2>1+ RBI Streaks</h2>
-      <PlayerStreakTable :data="dataMapRBIStreak" v-model:currentPage="pageRBIStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+      <PlayerStreakTable :data="dataMapRBIStreak" v-model:currentPage="pageRBIStreak" :metric="'rbi'" :position="'b'" @update:currentPage="currentPage = $event"/>
       <h2>1+ Run Streaks</h2>
-      <PlayerStreakTable :data="dataMapRStreak" v-model:currentPage="pageRStreak" :position="'b'" @update:currentPage="currentPage = $event"/>
+      <PlayerStreakTable :data="dataMapRStreak" v-model:currentPage="pageRStreak" :metric="'r'" :position="'b'" @update:currentPage="currentPage = $event"/>
     </div>
     
   </div>

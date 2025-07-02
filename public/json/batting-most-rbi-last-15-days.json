@@ -36,8 +36,8 @@
     "opponent": "Twins",
     "metric": "rbi",
     "count": 16,
-    "ab": 52,
-    "expected_count_per_game": 1.231
+    "ab": 48,
+    "expected_count_per_game": 1.333
   },
   {
     "player_id": 4345070,
@@ -48,16 +48,6 @@
     "count": 16,
     "ab": 54,
     "expected_count_per_game": 1.231
-  },
-  {
-    "player_id": 4918256,
-    "name": "James Wood",
-    "team": "Nationals",
-    "opponent": "Tigers",
-    "metric": "rbi",
-    "count": 15,
-    "ab": 47,
-    "expected_count_per_game": 1.154
   },
   {
     "player_id": 4966637,
@@ -120,6 +110,16 @@
     "expected_count_per_game": 1.182
   },
   {
+    "player_id": 4918256,
+    "name": "James Wood",
+    "team": "Nationals",
+    "opponent": "Tigers",
+    "metric": "rbi",
+    "count": 13,
+    "ab": 44,
+    "expected_count_per_game": 1.083
+  },
+  {
     "player_id": 35002,
     "name": "Vladimir Guerrero Jr.",
     "team": "Jays",
@@ -146,8 +146,8 @@
     "opponent": "Jays",
     "metric": "rbi",
     "count": 13,
-    "ab": 56,
-    "expected_count_per_game": 0.929
+    "ab": 51,
+    "expected_count_per_game": 1.0
   },
   {
     "player_id": 31208,
@@ -170,34 +170,14 @@
     "expected_count_per_game": 1.091
   },
   {
-    "player_id": 39961,
-    "name": "Brandon Lowe",
-    "team": "Rays",
-    "opponent": "A's",
-    "metric": "rbi",
-    "count": 12,
-    "ab": 45,
-    "expected_count_per_game": 0.923
-  },
-  {
-    "player_id": 5132014,
-    "name": "Agustin Ramirez",
-    "team": "Marlins",
-    "opponent": "Twins",
-    "metric": "rbi",
-    "count": 12,
-    "ab": 48,
-    "expected_count_per_game": 0.923
-  },
-  {
     "player_id": 4416990,
     "name": "Colton Cowser",
     "team": "Orioles",
     "opponent": "Rangers",
     "metric": "rbi",
     "count": 12,
-    "ab": 48,
-    "expected_count_per_game": 0.923
+    "ab": 45,
+    "expected_count_per_game": 1.0
   },
   {
     "player_id": 34945,
@@ -240,6 +220,16 @@
     "expected_count_per_game": 0.846
   },
   {
+    "player_id": 5132014,
+    "name": "Agustin Ramirez",
+    "team": "Marlins",
+    "opponent": "Twins",
+    "metric": "rbi",
+    "count": 11,
+    "ab": 45,
+    "expected_count_per_game": 0.917
+  },
+  {
     "player_id": 4142424,
     "name": "Seiya Suzuki",
     "team": "Cubs",
@@ -268,6 +258,16 @@
     "count": 11,
     "ab": 51,
     "expected_count_per_game": 0.846
+  },
+  {
+    "player_id": 42796,
+    "name": "Kyle Stowers",
+    "team": "Marlins",
+    "opponent": "Twins",
+    "metric": "rbi",
+    "count": 10,
+    "ab": 36,
+    "expected_count_per_game": 0.833
   },
   {
     "player_id": 42415,
@@ -300,14 +300,24 @@
     "expected_count_per_game": 0.909
   },
   {
-    "player_id": 42796,
-    "name": "Kyle Stowers",
-    "team": "Marlins",
-    "opponent": "Twins",
+    "player_id": 39961,
+    "name": "Brandon Lowe",
+    "team": "Rays",
+    "opponent": "A's",
     "metric": "rbi",
     "count": 10,
     "ab": 40,
-    "expected_count_per_game": 0.769
+    "expected_count_per_game": 0.833
+  },
+  {
+    "player_id": 34923,
+    "name": "Taylor Ward",
+    "team": "Angels",
+    "opponent": "Braves",
+    "metric": "rbi",
+    "count": 10,
+    "ab": 44,
+    "expected_count_per_game": 0.833
   },
   {
     "player_id": 35142,
@@ -337,17 +347,7 @@
     "metric": "rbi",
     "count": 10,
     "ab": 48,
-    "expected_count_per_game": 0.769
-  },
-  {
-    "player_id": 34923,
-    "name": "Taylor Ward",
-    "team": "Angels",
-    "opponent": "Braves",
-    "metric": "rbi",
-    "count": 10,
-    "ab": 48,
-    "expected_count_per_game": 0.769
+    "expected_count_per_game": 0.833
   },
   {
     "player_id": 5080766,
@@ -360,24 +360,14 @@
     "expected_count_per_game": 0.769
   },
   {
-    "player_id": 4739755,
-    "name": "Nolan Schanuel",
-    "team": "Angels",
-    "opponent": "Braves",
-    "metric": "rbi",
-    "count": 10,
-    "ab": 51,
-    "expected_count_per_game": 0.833
-  },
-  {
     "player_id": 40538,
     "name": "Nathaniel Lowe",
     "team": "Nationals",
     "opponent": "Tigers",
     "metric": "rbi",
     "count": 10,
-    "ab": 51,
-    "expected_count_per_game": 0.769
+    "ab": 50,
+    "expected_count_per_game": 0.833
   },
   {
     "player_id": 32655,
@@ -398,16 +388,6 @@
     "count": 9,
     "ab": 22,
     "expected_count_per_game": 1.5
-  },
-  {
-    "player_id": 36181,
-    "name": "Mickey Moniak",
-    "team": "Rockies",
-    "opponent": "Astros",
-    "metric": "rbi",
-    "count": 9,
-    "ab": 34,
-    "expected_count_per_game": 0.9
   },
   {
     "player_id": 40576,
@@ -450,6 +430,16 @@
     "expected_count_per_game": 0.75
   },
   {
+    "player_id": 42507,
+    "name": "Gunnar Henderson",
+    "team": "Orioles",
+    "opponent": "Rangers",
+    "metric": "rbi",
+    "count": 9,
+    "ab": 44,
+    "expected_count_per_game": 0.692
+  },
+  {
     "player_id": 41179,
     "name": "Brice Turang",
     "team": "Brewers",
@@ -458,6 +448,16 @@
     "count": 9,
     "ab": 45,
     "expected_count_per_game": 0.818
+  },
+  {
+    "player_id": 40854,
+    "name": "Jo Adell",
+    "team": "Angels",
+    "opponent": "Braves",
+    "metric": "rbi",
+    "count": 9,
+    "ab": 45,
+    "expected_count_per_game": 0.75
   },
   {
     "player_id": 31127,
@@ -470,6 +470,16 @@
     "expected_count_per_game": 0.75
   },
   {
+    "player_id": 4739755,
+    "name": "Nolan Schanuel",
+    "team": "Angels",
+    "opponent": "Braves",
+    "metric": "rbi",
+    "count": 9,
+    "ab": 46,
+    "expected_count_per_game": 0.818
+  },
+  {
     "player_id": 32691,
     "name": "Corey Seager",
     "team": "Rangers",
@@ -480,23 +490,13 @@
     "expected_count_per_game": 0.75
   },
   {
-    "player_id": 42507,
-    "name": "Gunnar Henderson",
-    "team": "Orioles",
-    "opponent": "Rangers",
+    "player_id": 31187,
+    "name": "Nick Castellanos",
+    "team": "Phillies",
+    "opponent": "Padres",
     "metric": "rbi",
     "count": 9,
-    "ab": 48,
-    "expected_count_per_game": 0.643
-  },
-  {
-    "player_id": 34967,
-    "name": "Kyle Tucker",
-    "team": "Cubs",
-    "opponent": "Guardians",
-    "metric": "rbi",
-    "count": 9,
-    "ab": 49,
+    "ab": 46,
     "expected_count_per_game": 0.75
   }
 ]

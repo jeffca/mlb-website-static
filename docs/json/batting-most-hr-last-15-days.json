@@ -50,24 +50,14 @@
     "expected_count_per_game": 0.455
   },
   {
-    "player_id": 39961,
-    "name": "Brandon Lowe",
-    "team": "Rays",
-    "opponent": "A's",
+    "player_id": 40854,
+    "name": "Jo Adell",
+    "team": "Angels",
+    "opponent": "Braves",
     "metric": "hr",
     "count": 5,
     "ab": 45,
-    "expected_count_per_game": 0.385
-  },
-  {
-    "player_id": 4918256,
-    "name": "James Wood",
-    "team": "Nationals",
-    "opponent": "Tigers",
-    "metric": "hr",
-    "count": 5,
-    "ab": 47,
-    "expected_count_per_game": 0.385
+    "expected_count_per_game": 0.417
   },
   {
     "player_id": 42179,
@@ -78,16 +68,6 @@
     "count": 5,
     "ab": 48,
     "expected_count_per_game": 0.417
-  },
-  {
-    "player_id": 40854,
-    "name": "Jo Adell",
-    "team": "Angels",
-    "opponent": "Braves",
-    "metric": "hr",
-    "count": 5,
-    "ab": 49,
-    "expected_count_per_game": 0.385
   },
   {
     "player_id": 4142424,
@@ -110,6 +90,16 @@
     "expected_count_per_game": 0.417
   },
   {
+    "player_id": 41433,
+    "name": "Jazz Chisholm Jr.",
+    "team": "Yankees",
+    "opponent": "Jays",
+    "metric": "hr",
+    "count": 5,
+    "ab": 51,
+    "expected_count_per_game": 0.385
+  },
+  {
     "player_id": 32512,
     "name": "Ketel Marte",
     "team": "D-Backs",
@@ -130,30 +120,10 @@
     "expected_count_per_game": 0.385
   },
   {
-    "player_id": 41433,
-    "name": "Jazz Chisholm Jr.",
-    "team": "Yankees",
-    "opponent": "Jays",
-    "metric": "hr",
-    "count": 5,
-    "ab": 56,
-    "expected_count_per_game": 0.357
-  },
-  {
     "player_id": 38309,
     "name": "Will Smith",
     "team": "Dodgers",
     "opponent": "White Sox",
-    "metric": "hr",
-    "count": 4,
-    "ab": 34,
-    "expected_count_per_game": 0.4
-  },
-  {
-    "player_id": 36181,
-    "name": "Mickey Moniak",
-    "team": "Rockies",
-    "opponent": "Astros",
     "metric": "hr",
     "count": 4,
     "ab": 34,
@@ -200,6 +170,46 @@
     "expected_count_per_game": 0.333
   },
   {
+    "player_id": 39961,
+    "name": "Brandon Lowe",
+    "team": "Rays",
+    "opponent": "A's",
+    "metric": "hr",
+    "count": 4,
+    "ab": 40,
+    "expected_count_per_game": 0.333
+  },
+  {
+    "player_id": 4918256,
+    "name": "James Wood",
+    "team": "Nationals",
+    "opponent": "Tigers",
+    "metric": "hr",
+    "count": 4,
+    "ab": 44,
+    "expected_count_per_game": 0.333
+  },
+  {
+    "player_id": 4905921,
+    "name": "Junior Caminero",
+    "team": "Rays",
+    "opponent": "A's",
+    "metric": "hr",
+    "count": 4,
+    "ab": 45,
+    "expected_count_per_game": 0.364
+  },
+  {
+    "player_id": 4416990,
+    "name": "Colton Cowser",
+    "team": "Orioles",
+    "opponent": "Rangers",
+    "metric": "hr",
+    "count": 4,
+    "ab": 45,
+    "expected_count_per_game": 0.333
+  },
+  {
     "player_id": 35002,
     "name": "Vladimir Guerrero Jr.",
     "team": "Jays",
@@ -220,13 +230,13 @@
     "expected_count_per_game": 0.333
   },
   {
-    "player_id": 4416990,
-    "name": "Colton Cowser",
-    "team": "Orioles",
-    "opponent": "Rangers",
+    "player_id": 33192,
+    "name": "Aaron Judge",
+    "team": "Yankees",
+    "opponent": "Jays",
     "metric": "hr",
     "count": 4,
-    "ab": 48,
+    "ab": 46,
     "expected_count_per_game": 0.308
   },
   {
@@ -238,16 +248,6 @@
     "count": 4,
     "ab": 48,
     "expected_count_per_game": 0.308
-  },
-  {
-    "player_id": 4905921,
-    "name": "Junior Caminero",
-    "team": "Rays",
-    "opponent": "A's",
-    "metric": "hr",
-    "count": 4,
-    "ab": 49,
-    "expected_count_per_game": 0.333
   },
   {
     "player_id": 34967,
@@ -270,14 +270,14 @@
     "expected_count_per_game": 0.308
   },
   {
-    "player_id": 33192,
-    "name": "Aaron Judge",
-    "team": "Yankees",
-    "opponent": "Jays",
+    "player_id": 40538,
+    "name": "Nathaniel Lowe",
+    "team": "Nationals",
+    "opponent": "Tigers",
     "metric": "hr",
     "count": 4,
-    "ab": 49,
-    "expected_count_per_game": 0.286
+    "ab": 50,
+    "expected_count_per_game": 0.333
   },
   {
     "player_id": 4722857,
@@ -288,26 +288,6 @@
     "count": 4,
     "ab": 51,
     "expected_count_per_game": 0.308
-  },
-  {
-    "player_id": 40538,
-    "name": "Nathaniel Lowe",
-    "team": "Nationals",
-    "opponent": "Tigers",
-    "metric": "hr",
-    "count": 4,
-    "ab": 51,
-    "expected_count_per_game": 0.308
-  },
-  {
-    "player_id": 33710,
-    "name": "Trea Turner",
-    "team": "Phillies",
-    "opponent": "Padres",
-    "metric": "hr",
-    "count": 4,
-    "ab": 59,
-    "expected_count_per_game": 0.286
   },
   {
     "player_id": 33250,
@@ -340,14 +320,14 @@
     "expected_count_per_game": 0.3
   },
   {
-    "player_id": 4416591,
-    "name": "Hunter Goodman",
+    "player_id": 36181,
+    "name": "Mickey Moniak",
     "team": "Rockies",
     "opponent": "Astros",
     "metric": "hr",
     "count": 3,
-    "ab": 28,
-    "expected_count_per_game": 0.429
+    "ab": 30,
+    "expected_count_per_game": 0.333
   },
   {
     "player_id": 42714,
@@ -364,6 +344,16 @@
     "name": "Lars Nootbaar",
     "team": "Cardinals",
     "opponent": "Pirates",
+    "metric": "hr",
+    "count": 3,
+    "ab": 33,
+    "expected_count_per_game": 0.333
+  },
+  {
+    "player_id": 42047,
+    "name": "Logan O'Hoppe",
+    "team": "Angels",
+    "opponent": "Braves",
     "metric": "hr",
     "count": 3,
     "ab": 33,
@@ -390,14 +380,14 @@
     "expected_count_per_game": 0.3
   },
   {
-    "player_id": 42047,
-    "name": "Logan O'Hoppe",
-    "team": "Angels",
-    "opponent": "Braves",
+    "player_id": 42796,
+    "name": "Kyle Stowers",
+    "team": "Marlins",
+    "opponent": "Twins",
     "metric": "hr",
     "count": 3,
-    "ab": 37,
-    "expected_count_per_game": 0.3
+    "ab": 36,
+    "expected_count_per_game": 0.25
   },
   {
     "player_id": 42415,
@@ -410,14 +400,14 @@
     "expected_count_per_game": 0.273
   },
   {
-    "player_id": 42796,
-    "name": "Kyle Stowers",
-    "team": "Marlins",
-    "opponent": "Twins",
+    "player_id": 4927523,
+    "name": "Christian Moore",
+    "team": "Angels",
+    "opponent": "Braves",
     "metric": "hr",
     "count": 3,
     "ab": 40,
-    "expected_count_per_game": 0.231
+    "expected_count_per_game": 0.25
   },
   {
     "player_id": 40767,
@@ -470,16 +460,6 @@
     "expected_count_per_game": 0.25
   },
   {
-    "player_id": 4927523,
-    "name": "Christian Moore",
-    "team": "Angels",
-    "opponent": "Braves",
-    "metric": "hr",
-    "count": 3,
-    "ab": 44,
-    "expected_count_per_game": 0.231
-  },
-  {
     "player_id": 31127,
     "name": "Salvador Perez",
     "team": "Royals",
@@ -498,5 +478,25 @@
     "count": 3,
     "ab": 45,
     "expected_count_per_game": 0.231
+  },
+  {
+    "player_id": 4739755,
+    "name": "Nolan Schanuel",
+    "team": "Angels",
+    "opponent": "Braves",
+    "metric": "hr",
+    "count": 3,
+    "ab": 46,
+    "expected_count_per_game": 0.273
+  },
+  {
+    "player_id": 31187,
+    "name": "Nick Castellanos",
+    "team": "Phillies",
+    "opponent": "Padres",
+    "metric": "hr",
+    "count": 3,
+    "ab": 46,
+    "expected_count_per_game": 0.25
   }
 ]
