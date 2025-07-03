@@ -1,13 +1,13 @@
 [
   {
-    "player_id": 33303,
-    "name": "Max Muncy",
-    "team": "Dodgers",
-    "opponent": "White Sox",
+    "player_id": 32078,
+    "name": "George Springer",
+    "team": "Jays",
+    "opponent": "Yankees",
     "metric": "rbi",
-    "count": 17,
-    "ab": 27,
-    "expected_count_per_game": 2.429
+    "count": 15,
+    "ab": 30,
+    "expected_count_per_game": 1.875
   },
   {
     "player_id": 41917,
@@ -15,68 +15,38 @@
     "team": "Marlins",
     "opponent": "Twins",
     "metric": "rbi",
-    "count": 15,
-    "ab": 30,
-    "expected_count_per_game": 2.143
+    "count": 13,
+    "ab": 33,
+    "expected_count_per_game": 1.625
   },
   {
-    "player_id": 31208,
-    "name": "Tommy Pham",
-    "team": "Pirates",
-    "opponent": "Cardinals",
+    "player_id": 42958,
+    "name": "Joey Ortiz",
+    "team": "Brewers",
+    "opponent": "Mets",
     "metric": "rbi",
-    "count": 11,
-    "ab": 23,
-    "expected_count_per_game": 1.833
+    "count": 12,
+    "ab": 28,
+    "expected_count_per_game": 1.5
   },
   {
-    "player_id": 4990055,
-    "name": "Wilyer Abreu",
-    "team": "Red Sox",
-    "opponent": "Reds",
-    "metric": "rbi",
-    "count": 11,
-    "ab": 26,
-    "expected_count_per_game": 1.375
-  },
-  {
-    "player_id": 31095,
-    "name": "Gary Sanchez",
-    "team": "Orioles",
-    "opponent": "Rangers",
-    "metric": "rbi",
-    "count": 11,
-    "ab": 31,
-    "expected_count_per_game": 1.375
-  },
-  {
-    "player_id": 41433,
-    "name": "Jazz Chisholm Jr.",
-    "team": "Yankees",
-    "opponent": "Jays",
-    "metric": "rbi",
-    "count": 11,
-    "ab": 32,
-    "expected_count_per_game": 1.375
-  },
-  {
-    "player_id": 29703,
-    "name": "Donovan Solano",
-    "team": "Mariners",
-    "opponent": "Royals",
-    "metric": "rbi",
-    "count": 10,
-    "ab": 27,
-    "expected_count_per_game": 1.25
-  },
-  {
-    "player_id": 39832,
-    "name": "Shohei Ohtani",
+    "player_id": 33303,
+    "name": "Max Muncy",
     "team": "Dodgers",
     "opponent": "White Sox",
     "metric": "rbi",
     "count": 10,
-    "ab": 29,
+    "ab": 23,
+    "expected_count_per_game": 1.667
+  },
+  {
+    "player_id": 32517,
+    "name": "Josh Bell",
+    "team": "Nationals",
+    "opponent": "Tigers",
+    "metric": "rbi",
+    "count": 10,
+    "ab": 26,
     "expected_count_per_game": 1.25
   },
   {
@@ -85,33 +55,63 @@
     "team": "Marlins",
     "opponent": "Twins",
     "metric": "rbi",
-    "count": 9,
-    "ab": 24,
-    "expected_count_per_game": 1.286
+    "count": 10,
+    "ab": 29,
+    "expected_count_per_game": 1.25
   },
   {
-    "player_id": 35020,
-    "name": "Ke'Bryan Hayes",
-    "team": "Pirates",
-    "opponent": "Cardinals",
+    "player_id": 42179,
+    "name": "Riley Greene",
+    "team": "Tigers",
+    "opponent": "Nationals",
+    "metric": "rbi",
+    "count": 10,
+    "ab": 32,
+    "expected_count_per_game": 1.25
+  },
+  {
+    "player_id": 33557,
+    "name": "Sean Murphy",
+    "team": "Braves",
+    "opponent": "Angels",
     "metric": "rbi",
     "count": 9,
-    "ab": 28,
-    "expected_count_per_game": 1.286
+    "ab": 18,
+    "expected_count_per_game": 1.5
   },
   {
-    "player_id": 40538,
-    "name": "Nathaniel Lowe",
-    "team": "Nationals",
-    "opponent": "Tigers",
+    "player_id": 33192,
+    "name": "Aaron Judge",
+    "team": "Yankees",
+    "opponent": "Jays",
     "metric": "rbi",
     "count": 9,
-    "ab": 34,
-    "expected_count_per_game": 1.125
+    "ab": 31,
+    "expected_count_per_game": 1.0
   },
   {
-    "player_id": 41355,
-    "name": "Geraldo Perdomo",
+    "player_id": 41433,
+    "name": "Jazz Chisholm Jr.",
+    "team": "Yankees",
+    "opponent": "Jays",
+    "metric": "rbi",
+    "count": 9,
+    "ab": 35,
+    "expected_count_per_game": 1.0
+  },
+  {
+    "player_id": 4142424,
+    "name": "Seiya Suzuki",
+    "team": "Cubs",
+    "opponent": "Guardians",
+    "metric": "rbi",
+    "count": 9,
+    "ab": 36,
+    "expected_count_per_game": 1.0
+  },
+  {
+    "player_id": 32512,
+    "name": "Ketel Marte",
     "team": "D-Backs",
     "opponent": "Giants",
     "metric": "rbi",
@@ -126,18 +126,8 @@
     "opponent": "Royals",
     "metric": "rbi",
     "count": 9,
-    "ab": 37,
-    "expected_count_per_game": 1.0
-  },
-  {
-    "player_id": 32078,
-    "name": "George Springer",
-    "team": "Jays",
-    "opponent": "Yankees",
-    "metric": "rbi",
-    "count": 8,
-    "ab": 23,
-    "expected_count_per_game": 1.143
+    "ab": 39,
+    "expected_count_per_game": 0.9
   },
   {
     "player_id": 4918256,
@@ -150,73 +140,43 @@
     "expected_count_per_game": 1.0
   },
   {
-    "player_id": 41179,
-    "name": "Brice Turang",
-    "team": "Brewers",
-    "opponent": "Mets",
-    "metric": "rbi",
-    "count": 8,
-    "ab": 29,
-    "expected_count_per_game": 1.143
-  },
-  {
-    "player_id": 32150,
-    "name": "Trevor Story",
-    "team": "Red Sox",
-    "opponent": "Reds",
+    "player_id": 5080766,
+    "name": "Cam Smith",
+    "team": "Astros",
+    "opponent": "Rockies",
     "metric": "rbi",
     "count": 8,
     "ab": 30,
     "expected_count_per_game": 1.0
   },
   {
-    "player_id": 4722857,
-    "name": "Spencer Steer",
-    "team": "Reds",
-    "opponent": "Red Sox",
+    "player_id": 37729,
+    "name": "Andres Gimenez",
+    "team": "Jays",
+    "opponent": "Yankees",
     "metric": "rbi",
     "count": 8,
     "ab": 31,
-    "expected_count_per_game": 1.0
+    "expected_count_per_game": 0.889
   },
   {
-    "player_id": 35537,
-    "name": "Adolis Garcia",
-    "team": "Rangers",
-    "opponent": "Orioles",
+    "player_id": 40854,
+    "name": "Jo Adell",
+    "team": "Angels",
+    "opponent": "Braves",
     "metric": "rbi",
     "count": 8,
     "ab": 32,
     "expected_count_per_game": 1.0
   },
   {
-    "player_id": 4142424,
-    "name": "Seiya Suzuki",
-    "team": "Cubs",
-    "opponent": "Guardians",
-    "metric": "rbi",
-    "count": 8,
-    "ab": 33,
-    "expected_count_per_game": 1.0
-  },
-  {
-    "player_id": 34967,
-    "name": "Kyle Tucker",
-    "team": "Cubs",
-    "opponent": "Guardians",
-    "metric": "rbi",
-    "count": 8,
-    "ab": 34,
-    "expected_count_per_game": 1.0
-  },
-  {
-    "player_id": 32512,
-    "name": "Ketel Marte",
+    "player_id": 41355,
+    "name": "Geraldo Perdomo",
     "team": "D-Backs",
     "opponent": "Giants",
     "metric": "rbi",
     "count": 8,
-    "ab": 34,
+    "ab": 36,
     "expected_count_per_game": 0.889
   },
   {
@@ -226,68 +186,18 @@
     "opponent": "Royals",
     "metric": "rbi",
     "count": 8,
-    "ab": 41,
-    "expected_count_per_game": 0.889
+    "ab": 43,
+    "expected_count_per_game": 0.8
   },
   {
-    "player_id": 39961,
-    "name": "Brandon Lowe",
-    "team": "Rays",
-    "opponent": "A's",
+    "player_id": 4345843,
+    "name": "Patrick Bailey",
+    "team": "Giants",
+    "opponent": "D-Backs",
     "metric": "rbi",
     "count": 7,
     "ab": 22,
-    "expected_count_per_game": 1.0
-  },
-  {
-    "player_id": 41586,
-    "name": "Wenceel Perez",
-    "team": "Tigers",
-    "opponent": "Nationals",
-    "metric": "rbi",
-    "count": 7,
-    "ab": 24,
-    "expected_count_per_game": 1.0
-  },
-  {
-    "player_id": 4228472,
-    "name": "Spencer Horwitz",
-    "team": "Pirates",
-    "opponent": "Cardinals",
-    "metric": "rbi",
-    "count": 7,
-    "ab": 26,
-    "expected_count_per_game": 1.0
-  },
-  {
-    "player_id": 42958,
-    "name": "Joey Ortiz",
-    "team": "Brewers",
-    "opponent": "Mets",
-    "metric": "rbi",
-    "count": 7,
-    "ab": 26,
-    "expected_count_per_game": 1.0
-  },
-  {
-    "player_id": 32691,
-    "name": "Corey Seager",
-    "team": "Rangers",
-    "opponent": "Orioles",
-    "metric": "rbi",
-    "count": 7,
-    "ab": 26,
-    "expected_count_per_game": 1.0
-  },
-  {
-    "player_id": 4739755,
-    "name": "Nolan Schanuel",
-    "team": "Angels",
-    "opponent": "Braves",
-    "metric": "rbi",
-    "count": 7,
-    "ab": 28,
-    "expected_count_per_game": 1.0
+    "expected_count_per_game": 0.875
   },
   {
     "player_id": 4927523,
@@ -296,28 +206,18 @@
     "opponent": "Braves",
     "metric": "rbi",
     "count": 7,
-    "ab": 28,
+    "ab": 23,
     "expected_count_per_game": 0.875
   },
   {
-    "player_id": 34923,
-    "name": "Taylor Ward",
-    "team": "Angels",
-    "opponent": "Braves",
+    "player_id": 42081,
+    "name": "Alejandro Kirk",
+    "team": "Jays",
+    "opponent": "Yankees",
     "metric": "rbi",
     "count": 7,
-    "ab": 28,
+    "ab": 26,
     "expected_count_per_game": 0.875
-  },
-  {
-    "player_id": 4311634,
-    "name": "Nick Gonzales",
-    "team": "Pirates",
-    "opponent": "Cardinals",
-    "metric": "rbi",
-    "count": 7,
-    "ab": 29,
-    "expected_count_per_game": 1.0
   },
   {
     "player_id": 31283,
@@ -326,57 +226,27 @@
     "opponent": "Mets",
     "metric": "rbi",
     "count": 7,
-    "ab": 29,
-    "expected_count_per_game": 1.0
-  },
-  {
-    "player_id": 41174,
-    "name": "Nolan Gorman",
-    "team": "Cardinals",
-    "opponent": "Pirates",
-    "metric": "rbi",
-    "count": 7,
-    "ab": 30,
-    "expected_count_per_game": 0.875
-  },
-  {
-    "player_id": 4966637,
-    "name": "Nick Kurtz",
-    "team": "A's",
-    "opponent": "Rays",
-    "metric": "rbi",
-    "count": 7,
     "ab": 31,
-    "expected_count_per_game": 0.778
+    "expected_count_per_game": 0.875
   },
   {
-    "player_id": 4345070,
-    "name": "Alec Burleson",
-    "team": "Cardinals",
-    "opponent": "Pirates",
+    "player_id": 31127,
+    "name": "Salvador Perez",
+    "team": "Royals",
+    "opponent": "Mariners",
     "metric": "rbi",
     "count": 7,
     "ab": 32,
     "expected_count_per_game": 0.875
   },
   {
-    "player_id": 41292,
-    "name": "Cal Raleigh",
-    "team": "Mariners",
-    "opponent": "Royals",
+    "player_id": 40538,
+    "name": "Nathaniel Lowe",
+    "team": "Nationals",
+    "opponent": "Tigers",
     "metric": "rbi",
     "count": 7,
-    "ab": 32,
-    "expected_count_per_game": 0.778
-  },
-  {
-    "player_id": 42437,
-    "name": "Josh Jung",
-    "team": "Rangers",
-    "opponent": "Orioles",
-    "metric": "rbi",
-    "count": 7,
-    "ab": 35,
+    "ab": 33,
     "expected_count_per_game": 0.875
   },
   {
@@ -386,18 +256,18 @@
     "opponent": "Giants",
     "metric": "rbi",
     "count": 7,
-    "ab": 36,
+    "ab": 35,
     "expected_count_per_game": 0.778
   },
   {
-    "player_id": 42402,
-    "name": "CJ Abrams",
-    "team": "Nationals",
-    "opponent": "Tigers",
+    "player_id": 32767,
+    "name": "Matt Olson",
+    "team": "Braves",
+    "opponent": "Angels",
     "metric": "rbi",
     "count": 7,
-    "ab": 39,
-    "expected_count_per_game": 0.875
+    "ab": 38,
+    "expected_count_per_game": 0.778
   },
   {
     "player_id": 42455,
@@ -406,38 +276,78 @@
     "opponent": "Twins",
     "metric": "rbi",
     "count": 6,
-    "ab": 12,
-    "expected_count_per_game": 1.5
-  },
-  {
-    "player_id": 33557,
-    "name": "Sean Murphy",
-    "team": "Braves",
-    "opponent": "Angels",
-    "metric": "rbi",
-    "count": 6,
-    "ab": 14,
-    "expected_count_per_game": 1.2
-  },
-  {
-    "player_id": 4683371,
-    "name": "Coby Mayo",
-    "team": "Orioles",
-    "opponent": "Rangers",
-    "metric": "rbi",
-    "count": 6,
-    "ab": 20,
+    "ab": 15,
     "expected_count_per_game": 1.0
   },
   {
-    "player_id": 38420,
-    "name": "Zach McKinstry",
-    "team": "Tigers",
-    "opponent": "Nationals",
+    "player_id": 33229,
+    "name": "Victor Caratini",
+    "team": "Astros",
+    "opponent": "Rockies",
     "metric": "rbi",
     "count": 6,
-    "ab": 20,
+    "ab": 16,
+    "expected_count_per_game": 1.2
+  },
+  {
+    "player_id": 33711,
+    "name": "Michael Conforto",
+    "team": "Dodgers",
+    "opponent": "White Sox",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 17,
+    "expected_count_per_game": 1.5
+  },
+  {
+    "player_id": 41684,
+    "name": "Lenyn Sosa",
+    "team": "White Sox",
+    "opponent": "Dodgers",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 23,
     "expected_count_per_game": 0.857
+  },
+  {
+    "player_id": 39832,
+    "name": "Shohei Ohtani",
+    "team": "Dodgers",
+    "opponent": "White Sox",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 25,
+    "expected_count_per_game": 0.857
+  },
+  {
+    "player_id": 30583,
+    "name": "Giancarlo Stanton",
+    "team": "Yankees",
+    "opponent": "Jays",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 26,
+    "expected_count_per_game": 0.857
+  },
+  {
+    "player_id": 42415,
+    "name": "Michael Busch",
+    "team": "Cubs",
+    "opponent": "Guardians",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 27,
+    "expected_count_per_game": 0.75
+  },
+  {
+    "player_id": 4414210,
+    "name": "Jacob Young",
+    "team": "Nationals",
+    "opponent": "Tigers",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 29,
+    "expected_count_per_game": 0.75
   },
   {
     "player_id": 36969,
@@ -446,18 +356,38 @@
     "opponent": "Brewers",
     "metric": "rbi",
     "count": 6,
-    "ab": 25,
+    "ab": 29,
+    "expected_count_per_game": 0.667
+  },
+  {
+    "player_id": 41197,
+    "name": "Jake McCarthy",
+    "team": "D-Backs",
+    "opponent": "Giants",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 30,
     "expected_count_per_game": 0.75
   },
   {
-    "player_id": 42047,
-    "name": "Logan O'Hoppe",
-    "team": "Angels",
-    "opponent": "Braves",
+    "player_id": 4997589,
+    "name": "Addison Barger",
+    "team": "Jays",
+    "opponent": "Yankees",
     "metric": "rbi",
     "count": 6,
-    "ab": 26,
-    "expected_count_per_game": 1.0
+    "ab": 31,
+    "expected_count_per_game": 0.75
+  },
+  {
+    "player_id": 36485,
+    "name": "Thairo Estrada",
+    "team": "Rockies",
+    "opponent": "Astros",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 31,
+    "expected_count_per_game": 0.75
   },
   {
     "player_id": 5132014,
@@ -466,37 +396,107 @@
     "opponent": "Twins",
     "metric": "rbi",
     "count": 6,
-    "ab": 26,
-    "expected_count_per_game": 0.857
-  },
-  {
-    "player_id": 5080766,
-    "name": "Cam Smith",
-    "team": "Astros",
-    "opponent": "Rockies",
-    "metric": "rbi",
-    "count": 6,
-    "ab": 28,
+    "ab": 32,
     "expected_count_per_game": 0.75
   },
   {
-    "player_id": 33192,
-    "name": "Aaron Judge",
+    "player_id": 41179,
+    "name": "Brice Turang",
+    "team": "Brewers",
+    "opponent": "Mets",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 32,
+    "expected_count_per_game": 0.75
+  },
+  {
+    "player_id": 41287,
+    "name": "Ernie Clement",
+    "team": "Jays",
+    "opponent": "Yankees",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 33,
+    "expected_count_per_game": 0.667
+  },
+  {
+    "player_id": 32653,
+    "name": "Carlos Correa",
+    "team": "Twins",
+    "opponent": "Marlins",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 33,
+    "expected_count_per_game": 0.667
+  },
+  {
+    "player_id": 4109109,
+    "name": "Vinnie Pasquantino",
+    "team": "Royals",
+    "opponent": "Mariners",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 34,
+    "expected_count_per_game": 0.667
+  },
+  {
+    "player_id": 32159,
+    "name": "Brandon Nimmo",
+    "team": "Mets",
+    "opponent": "Brewers",
+    "metric": "rbi",
+    "count": 6,
+    "ab": 35,
+    "expected_count_per_game": 0.667
+  },
+  {
+    "player_id": 33912,
+    "name": "Cody Bellinger",
     "team": "Yankees",
     "opponent": "Jays",
     "metric": "rbi",
     "count": 6,
-    "ab": 28,
+    "ab": 36,
     "expected_count_per_game": 0.75
   },
   {
-    "player_id": 32517,
-    "name": "Josh Bell",
-    "team": "Nationals",
-    "opponent": "Tigers",
+    "player_id": 34967,
+    "name": "Kyle Tucker",
+    "team": "Cubs",
+    "opponent": "Guardians",
     "metric": "rbi",
     "count": 6,
-    "ab": 29,
-    "expected_count_per_game": 0.75
+    "ab": 37,
+    "expected_count_per_game": 0.667
+  },
+  {
+    "player_id": 35066,
+    "name": "Josh Naylor",
+    "team": "D-Backs",
+    "opponent": "Giants",
+    "metric": "rbi",
+    "count": 5,
+    "ab": 13,
+    "expected_count_per_game": 1.25
+  },
+  {
+    "player_id": 42714,
+    "name": "Kerry Carpenter",
+    "team": "Tigers",
+    "opponent": "Nationals",
+    "metric": "rbi",
+    "count": 5,
+    "ab": 13,
+    "expected_count_per_game": 1.0
+  },
+  {
+    "player_id": 36409,
+    "name": "Lane Thomas",
+    "team": "Guardians",
+    "opponent": "Cubs",
+    "metric": "rbi",
+    "count": 5,
+    "ab": 26,
+    "expected_count_per_game": 0.625
   }
 ]

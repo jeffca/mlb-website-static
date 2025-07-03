@@ -9,6 +9,10 @@ body {
   text-align: center;
 }
 
+.bold-text {
+  font-weight: bold;
+}
+
 h2 {
   font-size: 14pt;
   margin-bottom: 0.5em;

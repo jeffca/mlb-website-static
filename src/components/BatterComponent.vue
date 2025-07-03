@@ -73,9 +73,9 @@ function selectDays(days) {
 <template>
   <div>
     <div class="center">
-      <span @click="clickedAverages = true; clickedStreaks = false" class="averages-or-streaks-button">Averages</span>
+      <span @click="clickedAverages = true; clickedStreaks = false" class="averages-or-streaks-button" :class="{ 'bold-text': clickedAverages }">Averages</span>
       <span class="divider">|</span>
-      <span @click="clickedStreaks = true; clickedAverages = false" class="averages-or-streaks-button">Streaks</span>
+      <span @click="clickedStreaks = true; clickedAverages = false" class="averages-or-streaks-button" :class="{ 'bold-text': clickedStreaks }">Streaks</span>
     </div>
     <div v-if="clickedAverages">
       <div class="button-div">

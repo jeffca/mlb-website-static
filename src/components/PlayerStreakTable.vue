@@ -52,6 +52,7 @@ function openPlayerHistory(player_id) {
         <tr>
             <th>Player</th>
             <th>Team</th>
+            <th>vs.</th>
             <th>Streak</th>
             <th v-if="'ab' in paginatedData[0]">ab</th>
         </tr>
@@ -60,6 +61,7 @@ function openPlayerHistory(player_id) {
         <tr v-for="(row, index) in paginatedData" :key="index">
           <td @click="openPlayerHistory(row.player_id)">{{ row['name'] }}</td>
           <td>{{ row['team'] }}</td>
+          <td>{{ row['opponent'] }}</td>
           <td>{{ row['streak'] }}</td>
           <td v-if="'ab' in paginatedData[index]">{{ row['ab'] }}</td>
         </tr>
