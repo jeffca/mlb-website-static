@@ -65,12 +65,12 @@ function selectDays(days) {
     <PlayerTable :data="dataMapH[selectedDays]" v-model:currentPage="pageH" :metric="'h'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Team Strikeouts</h2>
     <PlayerTable :data="dataMapK[selectedDays]" v-model:currentPage="pageK" :metric="'k'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
+    <h2>Top Team RBIs</h2>
+    <PlayerTable :data="dataMapRBI[selectedDays]" v-model:currentPage="pageRBI" :metric="'rbi'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Team HRs</h2>
     <PlayerTable :data="dataMapHR[selectedDays]" v-model:currentPage="pageHR" :metric="'hr'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
     <h2>Top Team Walks</h2>
     <PlayerTable :data="dataMapBB[selectedDays]" v-model:currentPage="pageBB" :metric="'bb'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top Team RBIs</h2>
-    <PlayerTable :data="dataMapRBI[selectedDays]" v-model:currentPage="pageRBI" :metric="'rbi'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
   </div>
 </template>
 
