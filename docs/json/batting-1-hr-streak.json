@@ -24,28 +24,12 @@
     "ab": 8
   },
   {
-    "player_id": 32367,
-    "name": "Eugenio Suarez",
-    "team": "D-Backs",
-    "opponent": "Royals",
-    "streak": 2,
-    "ab": 6
-  },
-  {
     "player_id": 4990055,
     "name": "Wilyer Abreu",
     "team": "Red Sox",
     "opponent": "Nationals",
     "streak": 2,
     "ab": 6
-  },
-  {
-    "player_id": 38309,
-    "name": "Will Smith",
-    "team": "Dodgers",
-    "opponent": "Astros",
-    "streak": 2,
-    "ab": 5
   },
   {
     "player_id": 33859,
@@ -60,6 +44,14 @@
     "name": "Nolan Arenado",
     "team": "Cardinals",
     "opponent": "Cubs",
+    "streak": 1,
+    "ab": 5
+  },
+  {
+    "player_id": 33039,
+    "name": "Mookie Betts",
+    "team": "Dodgers",
+    "opponent": "Astros",
     "streak": 1,
     "ab": 5
   },
@@ -132,14 +124,6 @@
     "name": "Lars Nootbaar",
     "team": "Cardinals",
     "opponent": "Cubs",
-    "streak": 1,
-    "ab": 5
-  },
-  {
-    "player_id": 4966637,
-    "name": "Nick Kurtz",
-    "team": "A's",
-    "opponent": "Giants",
     "streak": 1,
     "ab": 5
   },
@@ -232,6 +216,14 @@
     "ab": 4
   },
   {
+    "player_id": 39642,
+    "name": "Heliot Ramos",
+    "team": "Giants",
+    "opponent": "A's",
+    "streak": 1,
+    "ab": 4
+  },
+  {
     "player_id": 40803,
     "name": "Brandon Marsh",
     "team": "Phillies",
@@ -264,14 +256,6 @@
     "ab": 4
   },
   {
-    "player_id": 41917,
-    "name": "Otto Lopez",
-    "team": "Marlins",
-    "opponent": "Brewers",
-    "streak": 1,
-    "ab": 4
-  },
-  {
     "player_id": 42933,
     "name": "Jared Triolo",
     "team": "Pirates",
@@ -292,30 +276,6 @@
     "name": "Isaac Collins",
     "team": "Brewers",
     "opponent": "Marlins",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 4345621,
-    "name": "Dominic Canzone",
-    "team": "Mariners",
-    "opponent": "Pirates",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 4417606,
-    "name": "Connor Norby",
-    "team": "Marlins",
-    "opponent": "Brewers",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 4918085,
-    "name": "Denzel Clarke",
-    "team": "A's",
-    "opponent": "Giants",
     "streak": 1,
     "ab": 4
   },
@@ -344,6 +304,14 @@
     "ab": 3
   },
   {
+    "player_id": 39216,
+    "name": "Will Benson",
+    "team": "Reds",
+    "opponent": "Phillies",
+    "streak": 1,
+    "ab": 3
+  },
+  {
     "player_id": 40518,
     "name": "Ryan Noda",
     "team": "White Sox",
@@ -368,6 +336,30 @@
     "ab": 3
   },
   {
+    "player_id": 42796,
+    "name": "Kyle Stowers",
+    "team": "Marlins",
+    "opponent": "Brewers",
+    "streak": 1,
+    "ab": 3
+  },
+  {
+    "player_id": 30791,
+    "name": "Miguel Rojas",
+    "team": "Dodgers",
+    "opponent": "Astros",
+    "streak": 1,
+    "ab": 2
+  },
+  {
+    "player_id": 31399,
+    "name": "Randal Grichuk",
+    "team": "D-Backs",
+    "opponent": "Royals",
+    "streak": 1,
+    "ab": 2
+  },
+  {
     "player_id": 34995,
     "name": "Trent Grisham",
     "team": "Yankees",
@@ -382,13 +374,5 @@
     "opponent": "Twins",
     "streak": 1,
     "ab": 2
-  },
-  {
-    "player_id": 4997597,
-    "name": "Brett Wisely",
-    "team": "Giants",
-    "opponent": "A's",
-    "streak": 1,
-    "ab": 1
   }
 ]

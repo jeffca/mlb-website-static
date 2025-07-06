@@ -47,6 +47,9 @@ function selectDays(days) {
 
 <template>
   <div>
+    <div class="center">
+        <span class="averages-or-streaks-button bold-text">Averages</span>
+      </div>
     <div class="button-div">
 
         <div class="button-group">
@@ -61,15 +64,15 @@ function selectDays(days) {
         </div>
         <span class="days-label">Last {{ selectedDays }} days</span>
     </div>
-    <h2>Top Team Hits</h2>
+    <h2>Top Batting Averages</h2>
     <PlayerTable :data="dataMapH[selectedDays]" v-model:currentPage="pageH" :metric="'h'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top Team Strikeouts</h2>
+    <h2>Top Strikeouts</h2>
     <PlayerTable :data="dataMapK[selectedDays]" v-model:currentPage="pageK" :metric="'k'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top Team RBIs</h2>
+    <h2>Top RBIs</h2>
     <PlayerTable :data="dataMapRBI[selectedDays]" v-model:currentPage="pageRBI" :metric="'rbi'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top Team HRs</h2>
+    <h2>Top HRs</h2>
     <PlayerTable :data="dataMapHR[selectedDays]" v-model:currentPage="pageHR" :metric="'hr'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top Team Walks</h2>
+    <h2>Top Walks</h2>
     <PlayerTable :data="dataMapBB[selectedDays]" v-model:currentPage="pageBB" :metric="'bb'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
   </div>
 </template>
