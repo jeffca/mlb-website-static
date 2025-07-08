@@ -1,53 +1,273 @@
 [
   {
-    "player_id": 31117,
-    "team": "Braves",
-    "name": "Jurickson Profar",
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696248,
+    "date_est": "2025-07-06",
+    "opponent": "Jays"
+  },
+  {
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
     "metric": 0,
-    "ab": 5,
-    "event_id": 401696234,
+    "ab": 3,
+    "event_id": 401696233,
     "date_est": "2025-07-05",
-    "opponent": "Orioles"
+    "opponent": "Jays"
   },
   {
-    "player_id": 31117,
-    "team": "Braves",
-    "name": "Jurickson Profar",
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
     "metric": 1,
-    "ab": 4,
-    "event_id": 401696219,
+    "ab": 3,
+    "event_id": 401696218,
     "date_est": "2025-07-04",
-    "opponent": "Orioles"
+    "opponent": "Jays"
   },
   {
-    "player_id": 31117,
-    "team": "Braves",
-    "name": "Jurickson Profar",
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
     "metric": 1,
-    "ab": 4,
+    "ab": 3,
     "event_id": 401696208,
     "date_est": "2025-07-03",
-    "opponent": "Angels"
+    "opponent": "Braves"
   },
   {
-    "player_id": 31117,
-    "team": "Braves",
-    "name": "Jurickson Profar",
-    "metric": 2,
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
+    "metric": 0,
     "ab": 4,
     "event_id": 401696193,
     "date_est": "2025-07-02",
-    "opponent": "Angels"
+    "opponent": "Braves"
+  },
+  {
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696178,
+    "date_est": "2025-07-01",
+    "opponent": "Braves"
+  },
+  {
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
+    "metric": 0,
+    "ab": 1,
+    "event_id": 401696169,
+    "date_est": "2025-06-29",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696154,
+    "date_est": "2025-06-29",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696139,
+    "date_est": "2025-06-28",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
+    "metric": 1,
+    "ab": 2,
+    "event_id": 401696113,
+    "date_est": "2025-06-25",
+    "opponent": "Red Sox"
+  },
+  {
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696098,
+    "date_est": "2025-06-25",
+    "opponent": "Red Sox"
+  },
+  {
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
+    "metric": 2,
+    "ab": 2,
+    "event_id": 401696084,
+    "date_est": "2025-06-24",
+    "opponent": "Red Sox"
+  },
+  {
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
+    "metric": 0,
+    "ab": 5,
+    "event_id": 401696074,
+    "date_est": "2025-06-22",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 30836,
+    "team": "Angels",
+    "name": "Mike Trout",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696059,
+    "date_est": "2025-06-22",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401796219,
+    "date_est": "2025-07-02",
+    "opponent": "Mets"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696253,
+    "date_est": "2025-07-06",
+    "opponent": "Marlins"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696238,
+    "date_est": "2025-07-05",
+    "opponent": "Marlins"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696223,
+    "date_est": "2025-07-04",
+    "opponent": "Marlins"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 0,
+    "ab": 1,
+    "event_id": 401696210,
+    "date_est": "2025-07-03",
+    "opponent": "Mets"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696196,
+    "date_est": "2025-07-02",
+    "opponent": "Mets"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696164,
+    "date_est": "2025-06-29",
+    "opponent": "Rockies"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696149,
+    "date_est": "2025-06-28",
+    "opponent": "Rockies"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696109,
+    "date_est": "2025-06-25",
+    "opponent": "Pirates"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696094,
+    "date_est": "2025-06-24",
+    "opponent": "Pirates"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 2,
+    "ab": 3,
+    "event_id": 401696082,
+    "date_est": "2025-06-23",
+    "opponent": "Pirates"
+  },
+  {
+    "player_id": 31283,
+    "team": "Brewers",
+    "name": "Christian Yelich",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696069,
+    "date_est": "2025-06-22",
+    "opponent": "Twins"
   },
   {
     "player_id": 31662,
     "team": "Astros",
     "name": "Jose Altuve",
-    "metric": 0,
+    "metric": 1,
     "ab": 4,
-    "event_id": 401764557,
-    "date_est": "2025-06-20",
-    "opponent": "A's"
+    "event_id": 401696258,
+    "date_est": "2025-07-06",
+    "opponent": "Dodgers"
   },
   {
     "player_id": 31662,
@@ -180,13 +400,13 @@
     "opponent": "Angels"
   },
   {
-    "player_id": 31662,
-    "team": "Astros",
-    "name": "Jose Altuve",
+    "player_id": 32078,
+    "team": "Jays",
+    "name": "George Springer",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696044,
-    "date_est": "2025-06-21",
+    "event_id": 401696248,
+    "date_est": "2025-07-06",
     "opponent": "Angels"
   },
   {
@@ -310,174 +530,124 @@
     "opponent": "White Sox"
   },
   {
-    "player_id": 32078,
-    "team": "Jays",
-    "name": "George Springer",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696049,
-    "date_est": "2025-06-21",
-    "opponent": "White Sox"
-  },
-  {
-    "player_id": 32078,
-    "team": "Jays",
-    "name": "George Springer",
+    "player_id": 32146,
+    "team": "Rangers",
+    "name": "Marcus Semien",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696034,
-    "date_est": "2025-06-20",
-    "opponent": "White Sox"
-  },
-  {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401796219,
-    "date_est": "2025-07-02",
-    "opponent": "Brewers"
-  },
-  {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
-    "metric": 4,
-    "ab": 3,
-    "event_id": 401696240,
-    "date_est": "2025-07-05",
-    "opponent": "Yankees"
-  },
-  {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696225,
+    "event_id": 401696232,
     "date_est": "2025-07-04",
-    "opponent": "Yankees"
+    "opponent": "Padres"
   },
   {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
+    "player_id": 32146,
+    "team": "Rangers",
+    "name": "Marcus Semien",
     "metric": 1,
     "ab": 4,
-    "event_id": 401696210,
+    "event_id": 401696202,
     "date_est": "2025-07-03",
-    "opponent": "Brewers"
+    "opponent": "Orioles"
   },
   {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696196,
+    "player_id": 32146,
+    "team": "Rangers",
+    "name": "Marcus Semien",
+    "metric": 3,
+    "ab": 3,
+    "event_id": 401696187,
     "date_est": "2025-07-02",
-    "opponent": "Brewers"
+    "opponent": "Orioles"
   },
   {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
+    "player_id": 32146,
+    "team": "Rangers",
+    "name": "Marcus Semien",
+    "metric": 2,
+    "ab": 3,
+    "event_id": 401696175,
+    "date_est": "2025-07-01",
+    "opponent": "Orioles"
+  },
+  {
+    "player_id": 32146,
+    "team": "Rangers",
+    "name": "Marcus Semien",
     "metric": 0,
-    "ab": 4,
-    "event_id": 401696156,
+    "ab": 6,
+    "event_id": 401696166,
     "date_est": "2025-06-29",
-    "opponent": "Pirates"
+    "opponent": "Mariners"
   },
   {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696141,
+    "player_id": 32146,
+    "team": "Rangers",
+    "name": "Marcus Semien",
+    "metric": 0,
+    "ab": 5,
+    "event_id": 401696151,
     "date_est": "2025-06-28",
-    "opponent": "Pirates"
+    "opponent": "Mariners"
   },
   {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696126,
-    "date_est": "2025-06-27",
-    "opponent": "Pirates"
+    "player_id": 32146,
+    "team": "Rangers",
+    "name": "Marcus Semien",
+    "metric": 1,
+    "ab": 6,
+    "event_id": 401696136,
+    "date_est": "2025-06-28",
+    "opponent": "Mariners"
   },
   {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
+    "player_id": 32146,
+    "team": "Rangers",
+    "name": "Marcus Semien",
     "metric": 1,
     "ab": 4,
-    "event_id": 401696116,
-    "date_est": "2025-06-26",
-    "opponent": "Braves"
-  },
-  {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696101,
+    "event_id": 401696104,
     "date_est": "2025-06-25",
-    "opponent": "Braves"
+    "opponent": "Orioles"
   },
   {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
-    "metric": 0,
+    "player_id": 32146,
+    "team": "Rangers",
+    "name": "Marcus Semien",
+    "metric": 1,
     "ab": 5,
-    "event_id": 401696086,
+    "event_id": 401696089,
     "date_est": "2025-06-24",
-    "opponent": "Braves"
+    "opponent": "Orioles"
   },
   {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
+    "player_id": 32146,
+    "team": "Rangers",
+    "name": "Marcus Semien",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696077,
+    "event_id": 401696079,
     "date_est": "2025-06-23",
-    "opponent": "Braves"
+    "opponent": "Orioles"
   },
   {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
+    "player_id": 32146,
+    "team": "Rangers",
+    "name": "Marcus Semien",
     "metric": 1,
-    "ab": 4,
-    "event_id": 401696066,
+    "ab": 3,
+    "event_id": 401696067,
     "date_est": "2025-06-22",
-    "opponent": "Phillies"
+    "opponent": "Pirates"
   },
   {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
+    "player_id": 32150,
+    "team": "Red Sox",
+    "name": "Trevor Story",
     "metric": 1,
-    "ab": 5,
-    "event_id": 401696051,
-    "date_est": "2025-06-21",
-    "opponent": "Phillies"
-  },
-  {
-    "player_id": 32129,
-    "team": "Mets",
-    "name": "Francisco Lindor",
-    "metric": 0,
     "ab": 4,
-    "event_id": 401696036,
-    "date_est": "2025-06-20",
-    "opponent": "Phillies"
+    "event_id": 401696250,
+    "date_est": "2025-07-06",
+    "opponent": "Nationals"
   },
   {
     "player_id": 32150,
@@ -600,24 +770,14 @@
     "opponent": "Giants"
   },
   {
-    "player_id": 32150,
-    "team": "Red Sox",
-    "name": "Trevor Story",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696057,
-    "date_est": "2025-06-21",
-    "opponent": "Giants"
-  },
-  {
-    "player_id": 32150,
-    "team": "Red Sox",
-    "name": "Trevor Story",
+    "player_id": 32367,
+    "team": "D-Backs",
+    "name": "Eugenio Suarez",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696042,
-    "date_est": "2025-06-21",
-    "opponent": "Giants"
+    "event_id": 401696259,
+    "date_est": "2025-07-06",
+    "opponent": "Royals"
   },
   {
     "player_id": 32367,
@@ -740,164 +900,384 @@
     "opponent": "Rockies"
   },
   {
-    "player_id": 32367,
-    "team": "D-Backs",
-    "name": "Eugenio Suarez",
+    "player_id": 32691,
+    "team": "Rangers",
+    "name": "Corey Seager",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696232,
+    "date_est": "2025-07-04",
+    "opponent": "Padres"
+  },
+  {
+    "player_id": 32691,
+    "team": "Rangers",
+    "name": "Corey Seager",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696202,
+    "date_est": "2025-07-03",
+    "opponent": "Orioles"
+  },
+  {
+    "player_id": 32691,
+    "team": "Rangers",
+    "name": "Corey Seager",
+    "metric": 2,
+    "ab": 4,
+    "event_id": 401696187,
+    "date_est": "2025-07-02",
+    "opponent": "Orioles"
+  },
+  {
+    "player_id": 32691,
+    "team": "Rangers",
+    "name": "Corey Seager",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696175,
+    "date_est": "2025-07-01",
+    "opponent": "Orioles"
+  },
+  {
+    "player_id": 32691,
+    "team": "Rangers",
+    "name": "Corey Seager",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696166,
+    "date_est": "2025-06-29",
+    "opponent": "Mariners"
+  },
+  {
+    "player_id": 32691,
+    "team": "Rangers",
+    "name": "Corey Seager",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696151,
+    "date_est": "2025-06-28",
+    "opponent": "Mariners"
+  },
+  {
+    "player_id": 32691,
+    "team": "Rangers",
+    "name": "Corey Seager",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696136,
+    "date_est": "2025-06-28",
+    "opponent": "Mariners"
+  },
+  {
+    "player_id": 32691,
+    "team": "Rangers",
+    "name": "Corey Seager",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696104,
+    "date_est": "2025-06-25",
+    "opponent": "Orioles"
+  },
+  {
+    "player_id": 32691,
+    "team": "Rangers",
+    "name": "Corey Seager",
+    "metric": 2,
+    "ab": 4,
+    "event_id": 401696089,
+    "date_est": "2025-06-24",
+    "opponent": "Orioles"
+  },
+  {
+    "player_id": 32691,
+    "team": "Rangers",
+    "name": "Corey Seager",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696067,
+    "date_est": "2025-06-22",
+    "opponent": "Pirates"
+  },
+  {
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696258,
+    "date_est": "2025-07-06",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696243,
+    "date_est": "2025-07-05",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
     "metric": 3,
-    "ab": 6,
-    "event_id": 401696041,
-    "date_est": "2025-06-21",
+    "ab": 5,
+    "event_id": 401696228,
+    "date_est": "2025-07-05",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
+    "metric": 0,
+    "ab": 5,
+    "event_id": 401696214,
+    "date_est": "2025-07-03",
     "opponent": "Rockies"
   },
   {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
     "metric": 0,
-    "ab": 4,
-    "event_id": 401696240,
-    "date_est": "2025-07-05",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696225,
-    "date_est": "2025-07-04",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
-    "metric": 1,
-    "ab": 2,
-    "event_id": 401696212,
+    "ab": 5,
+    "event_id": 401696204,
     "date_est": "2025-07-03",
-    "opponent": "Jays"
+    "opponent": "Rockies"
   },
   {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
-    "metric": 2,
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
+    "metric": 0,
     "ab": 4,
-    "event_id": 401696198,
+    "event_id": 401696189,
     "date_est": "2025-07-02",
-    "opponent": "Jays"
+    "opponent": "Rockies"
   },
   {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
-    "metric": 2,
-    "ab": 2,
-    "event_id": 401696183,
-    "date_est": "2025-07-01",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
     "metric": 0,
-    "ab": 2,
-    "event_id": 401696171,
-    "date_est": "2025-06-30",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
-    "metric": 3,
     "ab": 4,
-    "event_id": 401696157,
+    "event_id": 401696163,
     "date_est": "2025-06-29",
-    "opponent": "A's"
+    "opponent": "Cubs"
   },
   {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
     "metric": 0,
     "ab": 3,
-    "event_id": 401696142,
+    "event_id": 401696148,
     "date_est": "2025-06-28",
-    "opponent": "A's"
+    "opponent": "Cubs"
   },
   {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696133,
+    "date_est": "2025-06-28",
+    "opponent": "Cubs"
+  },
+  {
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696120,
+    "date_est": "2025-06-26",
+    "opponent": "Phillies"
+  },
+  {
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
+    "metric": 0,
+    "ab": 2,
+    "event_id": 401696108,
+    "date_est": "2025-06-26",
+    "opponent": "Phillies"
+  },
+  {
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
     "metric": 0,
     "ab": 3,
-    "event_id": 401696127,
-    "date_est": "2025-06-27",
-    "opponent": "A's"
+    "event_id": 401696093,
+    "date_est": "2025-06-25",
+    "opponent": "Phillies"
   },
   {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
     "metric": 0,
     "ab": 5,
-    "event_id": 401696102,
-    "date_est": "2025-06-25",
-    "opponent": "Reds"
+    "event_id": 401696074,
+    "date_est": "2025-06-22",
+    "opponent": "Angels"
   },
   {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
+    "player_id": 32758,
+    "team": "Astros",
+    "name": "Christian Walker",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696059,
+    "date_est": "2025-06-22",
+    "opponent": "Angels"
+  },
+  {
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
     "metric": 2,
     "ab": 5,
-    "event_id": 401696087,
-    "date_est": "2025-06-24",
-    "opponent": "Reds"
+    "event_id": 401696254,
+    "date_est": "2025-07-06",
+    "opponent": "Twins"
   },
   {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696239,
+    "date_est": "2025-07-05",
+    "opponent": "Twins"
+  },
+  {
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
     "metric": 1,
     "ab": 3,
-    "event_id": 401696078,
-    "date_est": "2025-06-23",
-    "opponent": "Reds"
+    "event_id": 401696224,
+    "date_est": "2025-07-04",
+    "opponent": "Twins"
   },
   {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696063,
-    "date_est": "2025-06-22",
-    "opponent": "Orioles"
-  },
-  {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696048,
-    "date_est": "2025-06-21",
-    "opponent": "Orioles"
-  },
-  {
-    "player_id": 33192,
-    "team": "Yankees",
-    "name": "Aaron Judge",
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
     "metric": 1,
     "ab": 4,
-    "event_id": 401696033,
-    "date_est": "2025-06-20",
+    "event_id": 401696199,
+    "date_est": "2025-07-02",
+    "opponent": "A's"
+  },
+  {
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696184,
+    "date_est": "2025-07-01",
+    "opponent": "A's"
+  },
+  {
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696172,
+    "date_est": "2025-06-30",
+    "opponent": "A's"
+  },
+  {
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696161,
+    "date_est": "2025-06-29",
     "opponent": "Orioles"
+  },
+  {
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696146,
+    "date_est": "2025-06-28",
+    "opponent": "Orioles"
+  },
+  {
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696131,
+    "date_est": "2025-06-27",
+    "opponent": "Orioles"
+  },
+  {
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696122,
+    "date_est": "2025-06-26",
+    "opponent": "Royals"
+  },
+  {
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696111,
+    "date_est": "2025-06-25",
+    "opponent": "Royals"
+  },
+  {
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696096,
+    "date_est": "2025-06-24",
+    "opponent": "Royals"
+  },
+  {
+    "player_id": 33481,
+    "team": "Rays",
+    "name": "Yandy Diaz",
+    "metric": 0,
+    "ab": 5,
+    "event_id": 401696065,
+    "date_est": "2025-06-22",
+    "opponent": "Tigers"
+  },
+  {
+    "player_id": 33675,
+    "team": "Giants",
+    "name": "Willy Adames",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401764563,
+    "date_est": "2025-07-07",
+    "opponent": "A's"
   },
   {
     "player_id": 33675,
@@ -1030,654 +1410,634 @@
     "opponent": "Red Sox"
   },
   {
-    "player_id": 33675,
-    "team": "Giants",
-    "name": "Willy Adames",
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
     "metric": 0,
     "ab": 3,
-    "event_id": 401696057,
-    "date_est": "2025-06-21",
-    "opponent": "Red Sox"
-  },
-  {
-    "player_id": 33675,
-    "team": "Giants",
-    "name": "Willy Adames",
-    "metric": 2,
-    "ab": 2,
-    "event_id": 401696042,
-    "date_est": "2025-06-21",
-    "opponent": "Red Sox"
-  },
-  {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696240,
-    "date_est": "2025-07-05",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696225,
-    "date_est": "2025-07-04",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696212,
-    "date_est": "2025-07-03",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696198,
+    "event_id": 401795088,
     "date_est": "2025-07-02",
-    "opponent": "Jays"
+    "opponent": "Padres"
   },
   {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696183,
-    "date_est": "2025-07-01",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696171,
-    "date_est": "2025-06-30",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
-    "metric": 3,
-    "ab": 5,
-    "event_id": 401696157,
-    "date_est": "2025-06-29",
-    "opponent": "A's"
-  },
-  {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
     "metric": 0,
     "ab": 3,
-    "event_id": 401696142,
-    "date_est": "2025-06-28",
-    "opponent": "A's"
-  },
-  {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696127,
-    "date_est": "2025-06-27",
-    "opponent": "A's"
-  },
-  {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696087,
-    "date_est": "2025-06-24",
+    "event_id": 401696251,
+    "date_est": "2025-07-06",
     "opponent": "Reds"
   },
   {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
+    "metric": 2,
+    "ab": 3,
+    "event_id": 401696236,
+    "date_est": "2025-07-05",
+    "opponent": "Reds"
+  },
+  {
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696221,
+    "date_est": "2025-07-04",
+    "opponent": "Reds"
+  },
+  {
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696200,
+    "date_est": "2025-07-02",
+    "opponent": "Padres"
+  },
+  {
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696173,
+    "date_est": "2025-06-30",
+    "opponent": "Padres"
+  },
+  {
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696158,
+    "date_est": "2025-06-29",
+    "opponent": "Braves"
+  },
+  {
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
+    "metric": 0,
+    "ab": 2,
+    "event_id": 401696143,
+    "date_est": "2025-06-28",
+    "opponent": "Braves"
+  },
+  {
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
+    "metric": 2,
+    "ab": 4,
+    "event_id": 401696128,
+    "date_est": "2025-06-27",
+    "opponent": "Braves"
+  },
+  {
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696120,
+    "date_est": "2025-06-26",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696108,
+    "date_est": "2025-06-26",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696093,
+    "date_est": "2025-06-25",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 33712,
+    "team": "Phillies",
+    "name": "Kyle Schwarber",
+    "metric": 2,
+    "ab": 4,
+    "event_id": 401696066,
+    "date_est": "2025-06-22",
+    "opponent": "Mets"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 2,
+    "ab": 3,
+    "event_id": 401795089,
+    "date_est": "2025-07-02",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 1,
+    "ab": 1,
+    "event_id": 401696252,
+    "date_est": "2025-07-06",
+    "opponent": "Guardians"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 0,
+    "ab": 0,
+    "event_id": 401696237,
+    "date_est": "2025-07-05",
+    "opponent": "Guardians"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696222,
+    "date_est": "2025-07-04",
+    "opponent": "Guardians"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696209,
+    "date_est": "2025-07-03",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696195,
+    "date_est": "2025-07-02",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696155,
+    "date_est": "2025-06-29",
+    "opponent": "Twins"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 2,
+    "ab": 4,
+    "event_id": 401696140,
+    "date_est": "2025-06-28",
+    "opponent": "Twins"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 2,
+    "ab": 3,
+    "event_id": 401696117,
+    "date_est": "2025-06-26",
+    "opponent": "A's"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696103,
+    "date_est": "2025-06-25",
+    "opponent": "A's"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 2,
+    "ab": 5,
+    "event_id": 401696088,
+    "date_est": "2025-06-24",
+    "opponent": "A's"
+  },
+  {
+    "player_id": 33804,
+    "team": "Tigers",
+    "name": "Gleyber Torres",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696065,
+    "date_est": "2025-06-22",
+    "opponent": "Rays"
+  },
+  {
+    "player_id": 33809,
+    "team": "Phillies",
+    "name": "Edmundo Sosa",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696236,
+    "date_est": "2025-07-05",
+    "opponent": "Reds"
+  },
+  {
+    "player_id": 33809,
+    "team": "Phillies",
+    "name": "Edmundo Sosa",
+    "metric": 1,
+    "ab": 2,
+    "event_id": 401696221,
+    "date_est": "2025-07-04",
+    "opponent": "Reds"
+  },
+  {
+    "player_id": 33809,
+    "team": "Phillies",
+    "name": "Edmundo Sosa",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696200,
+    "date_est": "2025-07-02",
+    "opponent": "Padres"
+  },
+  {
+    "player_id": 33809,
+    "team": "Phillies",
+    "name": "Edmundo Sosa",
+    "metric": 0,
+    "ab": 2,
+    "event_id": 401696128,
+    "date_est": "2025-06-27",
+    "opponent": "Braves"
+  },
+  {
+    "player_id": 33809,
+    "team": "Phillies",
+    "name": "Edmundo Sosa",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696108,
+    "date_est": "2025-06-26",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 33809,
+    "team": "Phillies",
+    "name": "Edmundo Sosa",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696093,
+    "date_est": "2025-06-25",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 33809,
+    "team": "Phillies",
+    "name": "Edmundo Sosa",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696066,
+    "date_est": "2025-06-22",
+    "opponent": "Mets"
+  },
+  {
+    "player_id": 34975,
+    "team": "Reds",
+    "name": "Tyler Stephenson",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696251,
+    "date_est": "2025-07-06",
+    "opponent": "Phillies"
+  },
+  {
+    "player_id": 34975,
+    "team": "Reds",
+    "name": "Tyler Stephenson",
+    "metric": 0,
+    "ab": 1,
+    "event_id": 401696236,
+    "date_est": "2025-07-05",
+    "opponent": "Phillies"
+  },
+  {
+    "player_id": 34975,
+    "team": "Reds",
+    "name": "Tyler Stephenson",
+    "metric": 2,
+    "ab": 3,
+    "event_id": 401696221,
+    "date_est": "2025-07-04",
+    "opponent": "Phillies"
+  },
+  {
+    "player_id": 34975,
+    "team": "Reds",
+    "name": "Tyler Stephenson",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696194,
+    "date_est": "2025-07-02",
+    "opponent": "Red Sox"
+  },
+  {
+    "player_id": 34975,
+    "team": "Reds",
+    "name": "Tyler Stephenson",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696170,
+    "date_est": "2025-06-30",
+    "opponent": "Red Sox"
+  },
+  {
+    "player_id": 34975,
+    "team": "Reds",
+    "name": "Tyler Stephenson",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696144,
+    "date_est": "2025-06-28",
+    "opponent": "Padres"
+  },
+  {
+    "player_id": 34975,
+    "team": "Reds",
+    "name": "Tyler Stephenson",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696129,
+    "date_est": "2025-06-27",
+    "opponent": "Padres"
+  },
+  {
+    "player_id": 34975,
+    "team": "Reds",
+    "name": "Tyler Stephenson",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696102,
+    "date_est": "2025-06-25",
+    "opponent": "Yankees"
+  },
+  {
+    "player_id": 34975,
+    "team": "Reds",
+    "name": "Tyler Stephenson",
+    "metric": 1,
+    "ab": 2,
+    "event_id": 401696087,
+    "date_est": "2025-06-24",
+    "opponent": "Yankees"
+  },
+  {
+    "player_id": 34975,
+    "team": "Reds",
+    "name": "Tyler Stephenson",
     "metric": 0,
     "ab": 4,
     "event_id": 401696078,
     "date_est": "2025-06-23",
-    "opponent": "Reds"
+    "opponent": "Yankees"
   },
   {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
+    "player_id": 34975,
+    "team": "Reds",
+    "name": "Tyler Stephenson",
     "metric": 0,
-    "ab": 4,
-    "event_id": 401696063,
+    "ab": 3,
+    "event_id": 401696068,
     "date_est": "2025-06-22",
-    "opponent": "Orioles"
+    "opponent": "Cardinals"
   },
   {
-    "player_id": 33912,
-    "team": "Yankees",
-    "name": "Cody Bellinger",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696048,
-    "date_est": "2025-06-21",
-    "opponent": "Orioles"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696233,
-    "date_est": "2025-07-05",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696218,
-    "date_est": "2025-07-04",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696208,
-    "date_est": "2025-07-03",
-    "opponent": "Braves"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696193,
-    "date_est": "2025-07-02",
-    "opponent": "Braves"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
+    "player_id": 34986,
+    "team": "White Sox",
+    "name": "Andrew Benintendi",
     "metric": 1,
     "ab": 3,
-    "event_id": 401696178,
-    "date_est": "2025-07-01",
-    "opponent": "Braves"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696169,
-    "date_est": "2025-06-29",
-    "opponent": "Nationals"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 2,
-    "ab": 2,
-    "event_id": 401696154,
-    "date_est": "2025-06-29",
-    "opponent": "Nationals"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696139,
-    "date_est": "2025-06-28",
-    "opponent": "Nationals"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696113,
-    "date_est": "2025-06-25",
-    "opponent": "Red Sox"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696098,
-    "date_est": "2025-06-25",
-    "opponent": "Red Sox"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 1,
-    "ab": 1,
-    "event_id": 401696084,
-    "date_est": "2025-06-24",
-    "opponent": "Red Sox"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696074,
-    "date_est": "2025-06-22",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696059,
-    "date_est": "2025-06-22",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 34923,
-    "team": "Angels",
-    "name": "Taylor Ward",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696044,
-    "date_est": "2025-06-21",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696240,
-    "date_est": "2025-07-05",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 0,
-    "ab": 1,
-    "event_id": 401696225,
-    "date_est": "2025-07-04",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696212,
-    "date_est": "2025-07-03",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 0,
-    "ab": 2,
-    "event_id": 401696198,
-    "date_est": "2025-07-02",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 1,
-    "ab": 2,
-    "event_id": 401696171,
-    "date_est": "2025-06-30",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 2,
-    "ab": 3,
-    "event_id": 401696157,
-    "date_est": "2025-06-29",
-    "opponent": "A's"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696127,
-    "date_est": "2025-06-27",
-    "opponent": "A's"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 1,
-    "ab": 6,
-    "event_id": 401696102,
-    "date_est": "2025-06-25",
-    "opponent": "Reds"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696087,
-    "date_est": "2025-06-24",
-    "opponent": "Reds"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696063,
-    "date_est": "2025-06-22",
-    "opponent": "Orioles"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696048,
-    "date_est": "2025-06-21",
-    "opponent": "Orioles"
-  },
-  {
-    "player_id": 34995,
-    "team": "Yankees",
-    "name": "Trent Grisham",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696033,
-    "date_est": "2025-06-20",
-    "opponent": "Orioles"
-  },
-  {
-    "player_id": 35020,
-    "team": "Pirates",
-    "name": "Ke'Bryan Hayes",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696245,
+    "event_id": 401696257,
     "date_est": "2025-07-06",
-    "opponent": "Mariners"
+    "opponent": "Rockies"
   },
   {
-    "player_id": 35020,
-    "team": "Pirates",
-    "name": "Ke'Bryan Hayes",
+    "player_id": 34986,
+    "team": "White Sox",
+    "name": "Andrew Benintendi",
     "metric": 1,
-    "ab": 4,
-    "event_id": 401696201,
-    "date_est": "2025-07-02",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 35020,
-    "team": "Pirates",
-    "name": "Ke'Bryan Hayes",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696186,
-    "date_est": "2025-07-01",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 35020,
-    "team": "Pirates",
-    "name": "Ke'Bryan Hayes",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696174,
-    "date_est": "2025-06-30",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 35020,
-    "team": "Pirates",
-    "name": "Ke'Bryan Hayes",
-    "metric": 3,
     "ab": 5,
-    "event_id": 401696156,
-    "date_est": "2025-06-29",
-    "opponent": "Mets"
+    "event_id": 401696227,
+    "date_est": "2025-07-05",
+    "opponent": "Rockies"
   },
   {
-    "player_id": 35020,
-    "team": "Pirates",
-    "name": "Ke'Bryan Hayes",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696141,
-    "date_est": "2025-06-28",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 35020,
-    "team": "Pirates",
-    "name": "Ke'Bryan Hayes",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696126,
-    "date_est": "2025-06-27",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 35020,
-    "team": "Pirates",
-    "name": "Ke'Bryan Hayes",
+    "player_id": 34986,
+    "team": "White Sox",
+    "name": "Andrew Benintendi",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696094,
-    "date_est": "2025-06-24",
-    "opponent": "Brewers"
+    "event_id": 401696215,
+    "date_est": "2025-07-04",
+    "opponent": "Dodgers"
   },
   {
-    "player_id": 35020,
-    "team": "Pirates",
-    "name": "Ke'Bryan Hayes",
+    "player_id": 34986,
+    "team": "White Sox",
+    "name": "Andrew Benintendi",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696205,
+    "date_est": "2025-07-03",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 34986,
+    "team": "White Sox",
+    "name": "Andrew Benintendi",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696190,
+    "date_est": "2025-07-02",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 34986,
+    "team": "White Sox",
+    "name": "Andrew Benintendi",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696167,
+    "date_est": "2025-06-29",
+    "opponent": "Giants"
+  },
+  {
+    "player_id": 34986,
+    "team": "White Sox",
+    "name": "Andrew Benintendi",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696152,
+    "date_est": "2025-06-28",
+    "opponent": "Giants"
+  },
+  {
+    "player_id": 34986,
+    "team": "White Sox",
+    "name": "Andrew Benintendi",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696137,
+    "date_est": "2025-06-27",
+    "opponent": "Giants"
+  },
+  {
+    "player_id": 34986,
+    "team": "White Sox",
+    "name": "Andrew Benintendi",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696106,
+    "date_est": "2025-06-25",
+    "opponent": "D-Backs"
+  },
+  {
+    "player_id": 34986,
+    "team": "White Sox",
+    "name": "Andrew Benintendi",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696091,
+    "date_est": "2025-06-24",
+    "opponent": "D-Backs"
+  },
+  {
+    "player_id": 34986,
+    "team": "White Sox",
+    "name": "Andrew Benintendi",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696064,
+    "date_est": "2025-06-22",
+    "opponent": "Jays"
+  },
+  {
+    "player_id": 35004,
+    "team": "Rays",
+    "name": "Danny Jansen",
+    "metric": 1,
+    "ab": 1,
+    "event_id": 401696254,
+    "date_est": "2025-07-06",
+    "opponent": "Twins"
+  },
+  {
+    "player_id": 35004,
+    "team": "Rays",
+    "name": "Danny Jansen",
     "metric": 1,
     "ab": 3,
-    "event_id": 401696082,
-    "date_est": "2025-06-23",
-    "opponent": "Brewers"
-  },
-  {
-    "player_id": 35020,
-    "team": "Pirates",
-    "name": "Ke'Bryan Hayes",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696067,
-    "date_est": "2025-06-22",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35020,
-    "team": "Pirates",
-    "name": "Ke'Bryan Hayes",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696052,
-    "date_est": "2025-06-21",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696234,
+    "event_id": 401696239,
     "date_est": "2025-07-05",
-    "opponent": "Braves"
+    "opponent": "Twins"
   },
   {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
+    "player_id": 35004,
+    "team": "Rays",
+    "name": "Danny Jansen",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696219,
+    "event_id": 401696224,
     "date_est": "2025-07-04",
-    "opponent": "Braves"
+    "opponent": "Twins"
   },
   {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696202,
-    "date_est": "2025-07-03",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696187,
-    "date_est": "2025-07-02",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
-    "metric": 3,
-    "ab": 6,
-    "event_id": 401696175,
+    "player_id": 35004,
+    "team": "Rays",
+    "name": "Danny Jansen",
+    "metric": 1,
+    "ab": 2,
+    "event_id": 401696184,
     "date_est": "2025-07-01",
-    "opponent": "Rangers"
+    "opponent": "A's"
   },
   {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
-    "metric": 2,
-    "ab": 4,
+    "player_id": 35004,
+    "team": "Rays",
+    "name": "Danny Jansen",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696172,
+    "date_est": "2025-06-30",
+    "opponent": "A's"
+  },
+  {
+    "player_id": 35004,
+    "team": "Rays",
+    "name": "Danny Jansen",
+    "metric": 0,
+    "ab": 3,
     "event_id": 401696161,
     "date_est": "2025-06-29",
-    "opponent": "Rays"
+    "opponent": "Orioles"
   },
   {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696146,
-    "date_est": "2025-06-28",
-    "opponent": "Rays"
-  },
-  {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
-    "metric": 4,
-    "ab": 3,
+    "player_id": 35004,
+    "team": "Rays",
+    "name": "Danny Jansen",
+    "metric": 2,
+    "ab": 4,
     "event_id": 401696131,
     "date_est": "2025-06-27",
-    "opponent": "Rays"
+    "opponent": "Orioles"
   },
   {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
+    "player_id": 35004,
+    "team": "Rays",
+    "name": "Danny Jansen",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696111,
+    "date_est": "2025-06-25",
+    "opponent": "Royals"
+  },
+  {
+    "player_id": 35004,
+    "team": "Rays",
+    "name": "Danny Jansen",
     "metric": 1,
     "ab": 3,
-    "event_id": 401696089,
+    "event_id": 401696096,
     "date_est": "2025-06-24",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696079,
-    "date_est": "2025-06-23",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696063,
-    "date_est": "2025-06-22",
-    "opponent": "Yankees"
-  },
-  {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696048,
-    "date_est": "2025-06-21",
-    "opponent": "Yankees"
-  },
-  {
-    "player_id": 35142,
-    "team": "Orioles",
-    "name": "Ramon Laureano",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696033,
-    "date_est": "2025-06-20",
-    "opponent": "Yankees"
+    "opponent": "Royals"
   },
   {
     "player_id": 35265,
@@ -1770,154 +2130,154 @@
     "opponent": "Jays"
   },
   {
-    "player_id": 35265,
-    "team": "White Sox",
-    "name": "Austin Slater",
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696258,
+    "date_est": "2025-07-06",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696243,
+    "date_est": "2025-07-05",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
+    "metric": 1,
+    "ab": 6,
+    "event_id": 401696228,
+    "date_est": "2025-07-05",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
     "metric": 0,
     "ab": 3,
-    "event_id": 401696049,
-    "date_est": "2025-06-21",
-    "opponent": "Jays"
+    "event_id": 401696214,
+    "date_est": "2025-07-03",
+    "opponent": "Rockies"
   },
   {
-    "player_id": 35265,
-    "team": "White Sox",
-    "name": "Austin Slater",
-    "metric": 2,
-    "ab": 2,
-    "event_id": 401696034,
-    "date_est": "2025-06-20",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
-    "metric": 2,
-    "ab": 2,
-    "event_id": 401696234,
-    "date_est": "2025-07-05",
-    "opponent": "Braves"
-  },
-  {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
     "metric": 1,
     "ab": 3,
-    "event_id": 401696219,
-    "date_est": "2025-07-04",
-    "opponent": "Braves"
+    "event_id": 401696204,
+    "date_est": "2025-07-03",
+    "opponent": "Rockies"
   },
   {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696189,
+    "date_est": "2025-07-02",
+    "opponent": "Rockies"
+  },
+  {
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696163,
+    "date_est": "2025-06-29",
+    "opponent": "Cubs"
+  },
+  {
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696148,
+    "date_est": "2025-06-28",
+    "opponent": "Cubs"
+  },
+  {
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
+    "metric": 0,
+    "ab": 2,
+    "event_id": 401696133,
+    "date_est": "2025-06-28",
+    "opponent": "Cubs"
+  },
+  {
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696120,
+    "date_est": "2025-06-26",
+    "opponent": "Phillies"
+  },
+  {
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
+    "metric": 0,
+    "ab": 0,
+    "event_id": 401696108,
+    "date_est": "2025-06-26",
+    "opponent": "Phillies"
+  },
+  {
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696093,
+    "date_est": "2025-06-25",
+    "opponent": "Phillies"
+  },
+  {
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
+    "metric": 2,
+    "ab": 4,
+    "event_id": 401696074,
+    "date_est": "2025-06-22",
+    "opponent": "Angels"
+  },
+  {
+    "player_id": 35304,
+    "team": "Astros",
+    "name": "Mauricio Dubon",
     "metric": 0,
     "ab": 1,
-    "event_id": 401696202,
-    "date_est": "2025-07-03",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696187,
-    "date_est": "2025-07-02",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696175,
-    "date_est": "2025-07-01",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
-    "metric": 1,
-    "ab": 2,
-    "event_id": 401696161,
-    "date_est": "2025-06-29",
-    "opponent": "Rays"
-  },
-  {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696146,
-    "date_est": "2025-06-28",
-    "opponent": "Rays"
-  },
-  {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696131,
-    "date_est": "2025-06-27",
-    "opponent": "Rays"
-  },
-  {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696104,
-    "date_est": "2025-06-25",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696089,
-    "date_est": "2025-06-24",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696079,
-    "date_est": "2025-06-23",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696063,
+    "event_id": 401696059,
     "date_est": "2025-06-22",
-    "opponent": "Yankees"
+    "opponent": "Angels"
   },
   {
-    "player_id": 35578,
-    "team": "Orioles",
-    "name": "Cedric Mullins",
+    "player_id": 35682,
+    "team": "Jays",
+    "name": "Nathan Lukes",
     "metric": 0,
-    "ab": 3,
-    "event_id": 401696048,
-    "date_est": "2025-06-21",
-    "opponent": "Yankees"
+    "ab": 0,
+    "event_id": 401696248,
+    "date_est": "2025-07-06",
+    "opponent": "Angels"
   },
   {
     "player_id": 35682,
@@ -2040,24 +2400,114 @@
     "opponent": "White Sox"
   },
   {
-    "player_id": 35682,
-    "team": "Jays",
-    "name": "Nathan Lukes",
-    "metric": 0,
+    "player_id": 35983,
+    "team": "Padres",
+    "name": "Fernando Tatis Jr.",
+    "metric": 1,
     "ab": 4,
-    "event_id": 401696049,
-    "date_est": "2025-06-21",
-    "opponent": "White Sox"
+    "event_id": 401795088,
+    "date_est": "2025-07-02",
+    "opponent": "Phillies"
   },
   {
-    "player_id": 35682,
-    "team": "Jays",
-    "name": "Nathan Lukes",
+    "player_id": 35983,
+    "team": "Padres",
+    "name": "Fernando Tatis Jr.",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696232,
+    "date_est": "2025-07-04",
+    "opponent": "Rangers"
+  },
+  {
+    "player_id": 35983,
+    "team": "Padres",
+    "name": "Fernando Tatis Jr.",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696200,
+    "date_est": "2025-07-02",
+    "opponent": "Phillies"
+  },
+  {
+    "player_id": 35983,
+    "team": "Padres",
+    "name": "Fernando Tatis Jr.",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696034,
-    "date_est": "2025-06-20",
-    "opponent": "White Sox"
+    "event_id": 401696173,
+    "date_est": "2025-06-30",
+    "opponent": "Phillies"
+  },
+  {
+    "player_id": 35983,
+    "team": "Padres",
+    "name": "Fernando Tatis Jr.",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696159,
+    "date_est": "2025-06-29",
+    "opponent": "Reds"
+  },
+  {
+    "player_id": 35983,
+    "team": "Padres",
+    "name": "Fernando Tatis Jr.",
+    "metric": 0,
+    "ab": 5,
+    "event_id": 401696144,
+    "date_est": "2025-06-28",
+    "opponent": "Reds"
+  },
+  {
+    "player_id": 35983,
+    "team": "Padres",
+    "name": "Fernando Tatis Jr.",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696129,
+    "date_est": "2025-06-27",
+    "opponent": "Reds"
+  },
+  {
+    "player_id": 35983,
+    "team": "Padres",
+    "name": "Fernando Tatis Jr.",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696115,
+    "date_est": "2025-06-25",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 35983,
+    "team": "Padres",
+    "name": "Fernando Tatis Jr.",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696100,
+    "date_est": "2025-06-25",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 35983,
+    "team": "Padres",
+    "name": "Fernando Tatis Jr.",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696085,
+    "date_est": "2025-06-24",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 35983,
+    "team": "Padres",
+    "name": "Fernando Tatis Jr.",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696075,
+    "date_est": "2025-06-22",
+    "opponent": "Royals"
   },
   {
     "player_id": 36040,
@@ -2190,164 +2640,54 @@
     "opponent": "Rockies"
   },
   {
-    "player_id": 36040,
-    "team": "D-Backs",
-    "name": "Lourdes Gurriel Jr.",
+    "player_id": 36170,
+    "team": "Giants",
+    "name": "Andrew Knizner",
     "metric": 1,
-    "ab": 6,
-    "event_id": 401696041,
-    "date_est": "2025-06-21",
-    "opponent": "Rockies"
+    "ab": 4,
+    "event_id": 401764563,
+    "date_est": "2025-07-07",
+    "opponent": "A's"
   },
   {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
+    "player_id": 36170,
+    "team": "Giants",
+    "name": "Andrew Knizner",
     "metric": 0,
-    "ab": 4,
-    "event_id": 401696245,
-    "date_est": "2025-07-06",
-    "opponent": "Pirates"
+    "ab": 1,
+    "event_id": 401764561,
+    "date_est": "2025-07-05",
+    "opponent": "A's"
   },
   {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 0,
+    "player_id": 36170,
+    "team": "Giants",
+    "name": "Andrew Knizner",
+    "metric": 2,
     "ab": 4,
-    "event_id": 401696216,
+    "event_id": 401696217,
     "date_est": "2025-07-04",
-    "opponent": "Royals"
+    "opponent": "D-Backs"
   },
   {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
+    "player_id": 36170,
+    "team": "Giants",
+    "name": "Andrew Knizner",
+    "metric": 0,
+    "ab": 2,
+    "event_id": 401696152,
+    "date_est": "2025-06-28",
+    "opponent": "White Sox"
+  },
+  {
+    "player_id": 36170,
+    "team": "Giants",
+    "name": "Andrew Knizner",
     "metric": 1,
     "ab": 3,
-    "event_id": 401696206,
-    "date_est": "2025-07-03",
-    "opponent": "Royals"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696191,
-    "date_est": "2025-07-02",
-    "opponent": "Royals"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696176,
-    "date_est": "2025-07-01",
-    "opponent": "Royals"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 3,
-    "ab": 5,
-    "event_id": 401696166,
-    "date_est": "2025-06-29",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696151,
-    "date_est": "2025-06-28",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696136,
-    "date_est": "2025-06-28",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696121,
+    "event_id": 401696124,
     "date_est": "2025-06-26",
-    "opponent": "Twins"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696110,
-    "date_est": "2025-06-25",
-    "opponent": "Twins"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696095,
-    "date_est": "2025-06-24",
-    "opponent": "Twins"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696083,
-    "date_est": "2025-06-23",
-    "opponent": "Twins"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696070,
-    "date_est": "2025-06-22",
-    "opponent": "Cubs"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696055,
-    "date_est": "2025-06-21",
-    "opponent": "Cubs"
-  },
-  {
-    "player_id": 36488,
-    "team": "Mariners",
-    "name": "Randy Arozarena",
-    "metric": 2,
-    "ab": 5,
-    "event_id": 401696040,
-    "date_est": "2025-06-20",
-    "opponent": "Cubs"
+    "opponent": "Marlins"
   },
   {
     "player_id": 37729,
@@ -2460,26 +2800,6 @@
     "opponent": "White Sox"
   },
   {
-    "player_id": 37729,
-    "team": "Jays",
-    "name": "Andres Gimenez",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696049,
-    "date_est": "2025-06-21",
-    "opponent": "White Sox"
-  },
-  {
-    "player_id": 37729,
-    "team": "Jays",
-    "name": "Andres Gimenez",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696034,
-    "date_est": "2025-06-20",
-    "opponent": "White Sox"
-  },
-  {
     "player_id": 38309,
     "team": "Dodgers",
     "name": "Will Smith",
@@ -2570,104 +2890,134 @@
     "opponent": "Nationals"
   },
   {
-    "player_id": 38309,
-    "team": "Dodgers",
-    "name": "Will Smith",
-    "metric": 1,
-    "ab": 2,
-    "event_id": 401696046,
-    "date_est": "2025-06-21",
-    "opponent": "Nationals"
-  },
-  {
-    "player_id": 38309,
-    "team": "Dodgers",
-    "name": "Will Smith",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696031,
-    "date_est": "2025-06-20",
-    "opponent": "Padres"
-  },
-  {
-    "player_id": 38994,
-    "team": "Nationals",
-    "name": "Alex Call",
-    "metric": 1,
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
+    "metric": 2,
     "ab": 5,
     "event_id": 401795089,
     "date_est": "2025-07-02",
-    "opponent": "Tigers"
+    "opponent": "Nationals"
   },
   {
-    "player_id": 38994,
-    "team": "Nationals",
-    "name": "Alex Call",
-    "metric": 0,
-    "ab": 1,
-    "event_id": 401696220,
-    "date_est": "2025-07-04",
-    "opponent": "Red Sox"
-  },
-  {
-    "player_id": 38994,
-    "team": "Nationals",
-    "name": "Alex Call",
-    "metric": 2,
-    "ab": 5,
-    "event_id": 401696209,
-    "date_est": "2025-07-03",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 38994,
-    "team": "Nationals",
-    "name": "Alex Call",
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
     "metric": 1,
-    "ab": 0,
-    "event_id": 401696195,
-    "date_est": "2025-07-02",
-    "opponent": "Tigers"
+    "ab": 1,
+    "event_id": 401696252,
+    "date_est": "2025-07-06",
+    "opponent": "Guardians"
   },
   {
-    "player_id": 38994,
-    "team": "Nationals",
-    "name": "Alex Call",
-    "metric": 0,
-    "ab": 0,
-    "event_id": 401696169,
-    "date_est": "2025-06-29",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 38994,
-    "team": "Nationals",
-    "name": "Alex Call",
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
     "metric": 0,
     "ab": 3,
-    "event_id": 401696115,
-    "date_est": "2025-06-25",
-    "opponent": "Padres"
+    "event_id": 401696237,
+    "date_est": "2025-07-05",
+    "opponent": "Guardians"
   },
   {
-    "player_id": 38994,
-    "team": "Nationals",
-    "name": "Alex Call",
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
     "metric": 1,
-    "ab": 0,
-    "event_id": 401696076,
-    "date_est": "2025-06-22",
-    "opponent": "Dodgers"
+    "ab": 4,
+    "event_id": 401696222,
+    "date_est": "2025-07-04",
+    "opponent": "Guardians"
   },
   {
-    "player_id": 38994,
-    "team": "Nationals",
-    "name": "Alex Call",
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696209,
+    "date_est": "2025-07-03",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696195,
+    "date_est": "2025-07-02",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696046,
-    "date_est": "2025-06-21",
-    "opponent": "Dodgers"
+    "event_id": 401696155,
+    "date_est": "2025-06-29",
+    "opponent": "Twins"
+  },
+  {
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
+    "metric": 2,
+    "ab": 4,
+    "event_id": 401696140,
+    "date_est": "2025-06-28",
+    "opponent": "Twins"
+  },
+  {
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696117,
+    "date_est": "2025-06-26",
+    "opponent": "A's"
+  },
+  {
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696103,
+    "date_est": "2025-06-25",
+    "opponent": "A's"
+  },
+  {
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696088,
+    "date_est": "2025-06-24",
+    "opponent": "A's"
+  },
+  {
+    "player_id": 38420,
+    "team": "Tigers",
+    "name": "Zach McKinstry",
+    "metric": 0,
+    "ab": 1,
+    "event_id": 401696065,
+    "date_est": "2025-06-22",
+    "opponent": "Rays"
+  },
+  {
+    "player_id": 39105,
+    "team": "Jays",
+    "name": "Myles Straw",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696248,
+    "date_est": "2025-07-06",
+    "opponent": "Angels"
   },
   {
     "player_id": 39105,
@@ -2790,134 +3140,154 @@
     "opponent": "White Sox"
   },
   {
-    "player_id": 39105,
-    "team": "Jays",
-    "name": "Myles Straw",
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696049,
-    "date_est": "2025-06-21",
+    "event_id": 401696258,
+    "date_est": "2025-07-06",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696243,
+    "date_est": "2025-07-05",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696228,
+    "date_est": "2025-07-05",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
+    "metric": 2,
+    "ab": 2,
+    "event_id": 401696215,
+    "date_est": "2025-07-04",
     "opponent": "White Sox"
   },
   {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696245,
-    "date_est": "2025-07-06",
-    "opponent": "Mariners"
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696205,
+    "date_est": "2025-07-03",
+    "opponent": "White Sox"
   },
   {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
     "metric": 1,
     "ab": 4,
-    "event_id": 401696201,
+    "event_id": 401696190,
     "date_est": "2025-07-02",
-    "opponent": "Cardinals"
+    "opponent": "White Sox"
   },
   {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
     "metric": 0,
-    "ab": 3,
-    "event_id": 401696186,
-    "date_est": "2025-07-01",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
-    "metric": 1,
-    "ab": 2,
-    "event_id": 401696174,
-    "date_est": "2025-06-30",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
-    "metric": 2,
     "ab": 4,
-    "event_id": 401696156,
+    "event_id": 401696165,
     "date_est": "2025-06-29",
-    "opponent": "Mets"
+    "opponent": "Royals"
   },
   {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
-    "metric": 1,
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
+    "metric": 0,
     "ab": 4,
-    "event_id": 401696141,
+    "event_id": 401696150,
     "date_est": "2025-06-28",
-    "opponent": "Mets"
+    "opponent": "Royals"
   },
   {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
+    "metric": 2,
+    "ab": 3,
+    "event_id": 401696135,
+    "date_est": "2025-06-28",
+    "opponent": "Royals"
+  },
+  {
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
     "metric": 1,
-    "ab": 4,
-    "event_id": 401696109,
-    "date_est": "2025-06-25",
-    "opponent": "Brewers"
+    "ab": 3,
+    "event_id": 401696123,
+    "date_est": "2025-06-26",
+    "opponent": "Rockies"
   },
   {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696094,
-    "date_est": "2025-06-24",
-    "opponent": "Brewers"
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
+    "metric": 2,
+    "ab": 2,
+    "event_id": 401696112,
+    "date_est": "2025-06-26",
+    "opponent": "Rockies"
   },
   {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
-    "metric": 0,
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
+    "metric": 1,
     "ab": 5,
-    "event_id": 401696082,
-    "date_est": "2025-06-23",
-    "opponent": "Brewers"
+    "event_id": 401696097,
+    "date_est": "2025-06-25",
+    "opponent": "Rockies"
   },
   {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
-    "metric": 1,
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
+    "metric": 3,
     "ab": 4,
-    "event_id": 401696067,
+    "event_id": 401696076,
     "date_est": "2025-06-22",
-    "opponent": "Rangers"
+    "opponent": "Nationals"
   },
   {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
+    "player_id": 39832,
+    "team": "Dodgers",
+    "name": "Shohei Ohtani",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696061,
+    "date_est": "2025-06-22",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 40423,
+    "team": "Reds",
+    "name": "Gavin Lux",
     "metric": 0,
     "ab": 3,
-    "event_id": 401696052,
-    "date_est": "2025-06-21",
-    "opponent": "Rangers"
-  },
-  {
-    "player_id": 39712,
-    "team": "Pirates",
-    "name": "Oneil Cruz",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696037,
-    "date_est": "2025-06-20",
-    "opponent": "Rangers"
+    "event_id": 401696251,
+    "date_est": "2025-07-06",
+    "opponent": "Phillies"
   },
   {
     "player_id": 40423,
@@ -3000,174 +3370,14 @@
     "opponent": "Cardinals"
   },
   {
-    "player_id": 40423,
-    "team": "Reds",
-    "name": "Gavin Lux",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696053,
-    "date_est": "2025-06-21",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 40423,
-    "team": "Reds",
-    "name": "Gavin Lux",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696038,
-    "date_est": "2025-06-20",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401795089,
-    "date_est": "2025-07-02",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696235,
-    "date_est": "2025-07-05",
-    "opponent": "Red Sox"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696220,
-    "date_est": "2025-07-04",
-    "opponent": "Red Sox"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696209,
-    "date_est": "2025-07-03",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696195,
-    "date_est": "2025-07-02",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696169,
-    "date_est": "2025-06-29",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696154,
-    "date_est": "2025-06-29",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 2,
-    "ab": 6,
-    "event_id": 401696139,
-    "date_est": "2025-06-28",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696115,
-    "date_est": "2025-06-25",
-    "opponent": "Padres"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696100,
-    "date_est": "2025-06-25",
-    "opponent": "Padres"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696085,
-    "date_est": "2025-06-24",
-    "opponent": "Padres"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696076,
-    "date_est": "2025-06-22",
-    "opponent": "Dodgers"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 2,
-    "ab": 5,
-    "event_id": 401696061,
-    "date_est": "2025-06-22",
-    "opponent": "Dodgers"
-  },
-  {
-    "player_id": 40538,
-    "team": "Nationals",
-    "name": "Nathaniel Lowe",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696046,
-    "date_est": "2025-06-21",
-    "opponent": "Dodgers"
-  },
-  {
     "player_id": 40719,
     "team": "Astros",
     "name": "Jake Meyers",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401764557,
-    "date_est": "2025-06-20",
-    "opponent": "A's"
+    "metric": 0,
+    "ab": 2,
+    "event_id": 401696258,
+    "date_est": "2025-07-06",
+    "opponent": "Dodgers"
   },
   {
     "player_id": 40719,
@@ -3300,14 +3510,14 @@
     "opponent": "Angels"
   },
   {
-    "player_id": 40719,
-    "team": "Astros",
-    "name": "Jake Meyers",
+    "player_id": 40754,
+    "team": "Red Sox",
+    "name": "Abraham Toro",
     "metric": 0,
-    "ab": 4,
-    "event_id": 401696044,
-    "date_est": "2025-06-21",
-    "opponent": "Angels"
+    "ab": 3,
+    "event_id": 401696250,
+    "date_est": "2025-07-06",
+    "opponent": "Nationals"
   },
   {
     "player_id": 40754,
@@ -3430,24 +3640,124 @@
     "opponent": "Giants"
   },
   {
-    "player_id": 40754,
-    "team": "Red Sox",
-    "name": "Abraham Toro",
-    "metric": 0,
+    "player_id": 40803,
+    "team": "Phillies",
+    "name": "Brandon Marsh",
+    "metric": 1,
     "ab": 4,
-    "event_id": 401696057,
-    "date_est": "2025-06-21",
-    "opponent": "Giants"
+    "event_id": 401795088,
+    "date_est": "2025-07-02",
+    "opponent": "Padres"
   },
   {
-    "player_id": 40754,
-    "team": "Red Sox",
-    "name": "Abraham Toro",
+    "player_id": 40803,
+    "team": "Phillies",
+    "name": "Brandon Marsh",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696251,
+    "date_est": "2025-07-06",
+    "opponent": "Reds"
+  },
+  {
+    "player_id": 40803,
+    "team": "Phillies",
+    "name": "Brandon Marsh",
+    "metric": 1,
+    "ab": 2,
+    "event_id": 401696221,
+    "date_est": "2025-07-04",
+    "opponent": "Reds"
+  },
+  {
+    "player_id": 40803,
+    "team": "Phillies",
+    "name": "Brandon Marsh",
+    "metric": 0,
+    "ab": 1,
+    "event_id": 401696200,
+    "date_est": "2025-07-02",
+    "opponent": "Padres"
+  },
+  {
+    "player_id": 40803,
+    "team": "Phillies",
+    "name": "Brandon Marsh",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696173,
+    "date_est": "2025-06-30",
+    "opponent": "Padres"
+  },
+  {
+    "player_id": 40803,
+    "team": "Phillies",
+    "name": "Brandon Marsh",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696158,
+    "date_est": "2025-06-29",
+    "opponent": "Braves"
+  },
+  {
+    "player_id": 40803,
+    "team": "Phillies",
+    "name": "Brandon Marsh",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696143,
+    "date_est": "2025-06-28",
+    "opponent": "Braves"
+  },
+  {
+    "player_id": 40803,
+    "team": "Phillies",
+    "name": "Brandon Marsh",
     "metric": 1,
     "ab": 5,
-    "event_id": 401696042,
-    "date_est": "2025-06-21",
-    "opponent": "Giants"
+    "event_id": 401696128,
+    "date_est": "2025-06-27",
+    "opponent": "Braves"
+  },
+  {
+    "player_id": 40803,
+    "team": "Phillies",
+    "name": "Brandon Marsh",
+    "metric": 0,
+    "ab": 2,
+    "event_id": 401696120,
+    "date_est": "2025-06-26",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 40803,
+    "team": "Phillies",
+    "name": "Brandon Marsh",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696108,
+    "date_est": "2025-06-26",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 40803,
+    "team": "Phillies",
+    "name": "Brandon Marsh",
+    "metric": 0,
+    "ab": 2,
+    "event_id": 401696066,
+    "date_est": "2025-06-22",
+    "opponent": "Mets"
+  },
+  {
+    "player_id": 41171,
+    "team": "Royals",
+    "name": "Jonathan India",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696259,
+    "date_est": "2025-07-06",
+    "opponent": "D-Backs"
   },
   {
     "player_id": 41171,
@@ -3580,24 +3890,14 @@
     "opponent": "Padres"
   },
   {
-    "player_id": 41171,
-    "team": "Royals",
-    "name": "Jonathan India",
+    "player_id": 41326,
+    "team": "Marlins",
+    "name": "Xavier Edwards",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696060,
-    "date_est": "2025-06-21",
-    "opponent": "Padres"
-  },
-  {
-    "player_id": 41171,
-    "team": "Royals",
-    "name": "Jonathan India",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696045,
-    "date_est": "2025-06-21",
-    "opponent": "Padres"
+    "event_id": 401696253,
+    "date_est": "2025-07-06",
+    "opponent": "Brewers"
   },
   {
     "player_id": 41326,
@@ -3710,24 +4010,14 @@
     "opponent": "Braves"
   },
   {
-    "player_id": 41326,
-    "team": "Marlins",
-    "name": "Xavier Edwards",
+    "player_id": 41355,
+    "team": "D-Backs",
+    "name": "Geraldo Perdomo",
     "metric": 0,
     "ab": 3,
-    "event_id": 401696047,
-    "date_est": "2025-06-21",
-    "opponent": "Braves"
-  },
-  {
-    "player_id": 41326,
-    "team": "Marlins",
-    "name": "Xavier Edwards",
-    "metric": 2,
-    "ab": 3,
-    "event_id": 401696032,
-    "date_est": "2025-06-20",
-    "opponent": "Braves"
+    "event_id": 401696259,
+    "date_est": "2025-07-06",
+    "opponent": "Royals"
   },
   {
     "player_id": 41355,
@@ -3870,584 +4160,144 @@
     "opponent": "Rockies"
   },
   {
-    "player_id": 41355,
-    "team": "D-Backs",
-    "name": "Geraldo Perdomo",
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
     "metric": 0,
-    "ab": 6,
-    "event_id": 401696041,
-    "date_est": "2025-06-21",
+    "ab": 3,
+    "event_id": 401696258,
+    "date_est": "2025-07-06",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
+    "metric": 1,
+    "ab": 2,
+    "event_id": 401696243,
+    "date_est": "2025-07-05",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
+    "metric": 1,
+    "ab": 2,
+    "event_id": 401696228,
+    "date_est": "2025-07-05",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696214,
+    "date_est": "2025-07-03",
     "opponent": "Rockies"
   },
   {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
     "metric": 1,
-    "ab": 3,
-    "event_id": 401696240,
-    "date_est": "2025-07-05",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 0,
     "ab": 4,
-    "event_id": 401696225,
-    "date_est": "2025-07-04",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696212,
+    "event_id": 401696204,
     "date_est": "2025-07-03",
-    "opponent": "Jays"
+    "opponent": "Rockies"
   },
   {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
     "metric": 0,
-    "ab": 4,
-    "event_id": 401696198,
+    "ab": 3,
+    "event_id": 401696189,
     "date_est": "2025-07-02",
-    "opponent": "Jays"
+    "opponent": "Rockies"
   },
   {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696183,
-    "date_est": "2025-07-01",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696171,
-    "date_est": "2025-06-30",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696157,
-    "date_est": "2025-06-29",
-    "opponent": "A's"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696142,
-    "date_est": "2025-06-28",
-    "opponent": "A's"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696127,
-    "date_est": "2025-06-27",
-    "opponent": "A's"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696102,
-    "date_est": "2025-06-25",
-    "opponent": "Reds"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696087,
-    "date_est": "2025-06-24",
-    "opponent": "Reds"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696078,
-    "date_est": "2025-06-23",
-    "opponent": "Reds"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696063,
-    "date_est": "2025-06-22",
-    "opponent": "Orioles"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696048,
-    "date_est": "2025-06-21",
-    "opponent": "Orioles"
-  },
-  {
-    "player_id": 41433,
-    "team": "Yankees",
-    "name": "Jazz Chisholm Jr.",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696033,
-    "date_est": "2025-06-20",
-    "opponent": "Orioles"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696235,
-    "date_est": "2025-07-05",
-    "opponent": "Nationals"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696220,
-    "date_est": "2025-07-04",
-    "opponent": "Nationals"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696194,
-    "date_est": "2025-07-02",
-    "opponent": "Reds"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696179,
-    "date_est": "2025-07-01",
-    "opponent": "Reds"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 3,
-    "ab": 3,
-    "event_id": 401696170,
-    "date_est": "2025-06-30",
-    "opponent": "Reds"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696162,
-    "date_est": "2025-06-29",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 2,
-    "ab": 3,
-    "event_id": 401696147,
-    "date_est": "2025-06-28",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696132,
-    "date_est": "2025-06-27",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696113,
-    "date_est": "2025-06-25",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696098,
-    "date_est": "2025-06-25",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696084,
-    "date_est": "2025-06-24",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696072,
-    "date_est": "2025-06-22",
-    "opponent": "Giants"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696057,
-    "date_est": "2025-06-21",
-    "opponent": "Giants"
-  },
-  {
-    "player_id": 41610,
-    "team": "Red Sox",
-    "name": "Jarren Duran",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696042,
-    "date_est": "2025-06-21",
-    "opponent": "Giants"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696240,
-    "date_est": "2025-07-05",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696225,
-    "date_est": "2025-07-04",
-    "opponent": "Mets"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696212,
-    "date_est": "2025-07-03",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696198,
-    "date_est": "2025-07-02",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696183,
-    "date_est": "2025-07-01",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696171,
-    "date_est": "2025-06-30",
-    "opponent": "Jays"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696157,
-    "date_est": "2025-06-29",
-    "opponent": "A's"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696142,
-    "date_est": "2025-06-28",
-    "opponent": "A's"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 2,
-    "ab": 5,
-    "event_id": 401696102,
-    "date_est": "2025-06-25",
-    "opponent": "Reds"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 0,
-    "ab": 1,
-    "event_id": 401696087,
-    "date_est": "2025-06-24",
-    "opponent": "Reds"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696078,
-    "date_est": "2025-06-23",
-    "opponent": "Reds"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 0,
-    "ab": 1,
-    "event_id": 401696063,
-    "date_est": "2025-06-22",
-    "opponent": "Orioles"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696048,
-    "date_est": "2025-06-21",
-    "opponent": "Orioles"
-  },
-  {
-    "player_id": 42401,
-    "team": "Yankees",
-    "name": "Jasson Dominguez",
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
     "metric": 0,
     "ab": 2,
-    "event_id": 401696033,
-    "date_est": "2025-06-20",
-    "opponent": "Orioles"
+    "event_id": 401696163,
+    "date_est": "2025-06-29",
+    "opponent": "Cubs"
   },
   {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
-    "metric": 1,
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696148,
+    "date_est": "2025-06-28",
+    "opponent": "Cubs"
+  },
+  {
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
+    "metric": 0,
     "ab": 2,
-    "event_id": 401795089,
-    "date_est": "2025-07-02",
-    "opponent": "Tigers"
+    "event_id": 401696120,
+    "date_est": "2025-06-26",
+    "opponent": "Phillies"
   },
   {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696235,
-    "date_est": "2025-07-05",
-    "opponent": "Red Sox"
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
+    "metric": 0,
+    "ab": 2,
+    "event_id": 401696108,
+    "date_est": "2025-06-26",
+    "opponent": "Phillies"
   },
   {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
     "metric": 1,
     "ab": 3,
-    "event_id": 401696220,
-    "date_est": "2025-07-04",
-    "opponent": "Red Sox"
-  },
-  {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696209,
-    "date_est": "2025-07-03",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696195,
-    "date_est": "2025-07-02",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
-    "metric": 0,
-    "ab": 6,
-    "event_id": 401696169,
-    "date_est": "2025-06-29",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696154,
-    "date_est": "2025-06-29",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
-    "metric": 0,
-    "ab": 6,
-    "event_id": 401696139,
-    "date_est": "2025-06-28",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696115,
+    "event_id": 401696093,
     "date_est": "2025-06-25",
-    "opponent": "Padres"
+    "opponent": "Phillies"
   },
   {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696074,
+    "date_est": "2025-06-22",
+    "opponent": "Angels"
+  },
+  {
+    "player_id": 41626,
+    "team": "Astros",
+    "name": "Cooper Hummel",
     "metric": 0,
-    "ab": 4,
-    "event_id": 401696100,
-    "date_est": "2025-06-25",
-    "opponent": "Padres"
+    "ab": 0,
+    "event_id": 401696059,
+    "date_est": "2025-06-22",
+    "opponent": "Angels"
   },
   {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
-    "metric": 3,
-    "ab": 5,
-    "event_id": 401696085,
-    "date_est": "2025-06-24",
-    "opponent": "Padres"
-  },
-  {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
+    "player_id": 42403,
+    "team": "Royals",
+    "name": "Bobby Witt Jr.",
     "metric": 1,
     "ab": 4,
-    "event_id": 401696076,
-    "date_est": "2025-06-22",
-    "opponent": "Dodgers"
-  },
-  {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696061,
-    "date_est": "2025-06-22",
-    "opponent": "Dodgers"
-  },
-  {
-    "player_id": 42402,
-    "team": "Nationals",
-    "name": "CJ Abrams",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696046,
-    "date_est": "2025-06-21",
-    "opponent": "Dodgers"
+    "event_id": 401696259,
+    "date_est": "2025-07-06",
+    "opponent": "D-Backs"
   },
   {
     "player_id": 42403,
@@ -4580,414 +4430,104 @@
     "opponent": "Padres"
   },
   {
-    "player_id": 42403,
-    "team": "Royals",
-    "name": "Bobby Witt Jr.",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696060,
-    "date_est": "2025-06-21",
-    "opponent": "Padres"
-  },
-  {
-    "player_id": 42403,
-    "team": "Royals",
-    "name": "Bobby Witt Jr.",
+    "player_id": 42845,
+    "team": "Red Sox",
+    "name": "Nate Eaton",
     "metric": 1,
-    "ab": 5,
-    "event_id": 401696045,
-    "date_est": "2025-06-21",
-    "opponent": "Padres"
+    "ab": 2,
+    "event_id": 401696250,
+    "date_est": "2025-07-06",
+    "opponent": "Nationals"
   },
   {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
+    "player_id": 42845,
+    "team": "Red Sox",
+    "name": "Nate Eaton",
     "metric": 2,
     "ab": 5,
-    "event_id": 401696241,
+    "event_id": 401696235,
     "date_est": "2025-07-05",
-    "opponent": "Cardinals"
+    "opponent": "Nationals"
   },
   {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
-    "metric": 3,
-    "ab": 4,
-    "event_id": 401696226,
-    "date_est": "2025-07-04",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696213,
-    "date_est": "2025-07-04",
-    "opponent": "Guardians"
-  },
-  {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696203,
-    "date_est": "2025-07-03",
-    "opponent": "Guardians"
-  },
-  {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696188,
-    "date_est": "2025-07-02",
-    "opponent": "Guardians"
-  },
-  {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
+    "player_id": 42845,
+    "team": "Red Sox",
+    "name": "Nate Eaton",
     "metric": 0,
     "ab": 1,
-    "event_id": 401696163,
-    "date_est": "2025-06-29",
-    "opponent": "Astros"
+    "event_id": 401696220,
+    "date_est": "2025-07-04",
+    "opponent": "Nationals"
   },
   {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
+    "player_id": 42845,
+    "team": "Red Sox",
+    "name": "Nate Eaton",
     "metric": 1,
-    "ab": 4,
-    "event_id": 401696148,
-    "date_est": "2025-06-28",
-    "opponent": "Astros"
+    "ab": 0,
+    "event_id": 401696179,
+    "date_est": "2025-07-01",
+    "opponent": "Reds"
   },
   {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
+    "player_id": 42845,
+    "team": "Red Sox",
+    "name": "Nate Eaton",
     "metric": 0,
     "ab": 2,
-    "event_id": 401696133,
-    "date_est": "2025-06-28",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696119,
-    "date_est": "2025-06-26",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
-    "metric": 2,
-    "ab": 5,
-    "event_id": 401696107,
-    "date_est": "2025-06-25",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696092,
-    "date_est": "2025-06-24",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696070,
-    "date_est": "2025-06-22",
-    "opponent": "Mariners"
-  },
-  {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
-    "metric": 2,
-    "ab": 3,
-    "event_id": 401696055,
-    "date_est": "2025-06-21",
-    "opponent": "Mariners"
-  },
-  {
-    "player_id": 42415,
-    "team": "Cubs",
-    "name": "Michael Busch",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696040,
-    "date_est": "2025-06-20",
-    "opponent": "Mariners"
-  },
-  {
-    "player_id": 42462,
-    "team": "Rockies",
-    "name": "Brenton Doyle",
-    "metric": 1,
-    "ab": 1,
-    "event_id": 401696242,
-    "date_est": "2025-07-06",
-    "opponent": "White Sox"
-  },
-  {
-    "player_id": 42462,
-    "team": "Rockies",
-    "name": "Brenton Doyle",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696214,
-    "date_est": "2025-07-03",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 42462,
-    "team": "Rockies",
-    "name": "Brenton Doyle",
-    "metric": 1,
-    "ab": 1,
-    "event_id": 401696204,
-    "date_est": "2025-07-03",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 42462,
-    "team": "Rockies",
-    "name": "Brenton Doyle",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696189,
-    "date_est": "2025-07-02",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 42462,
-    "team": "Rockies",
-    "name": "Brenton Doyle",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696164,
+    "event_id": 401696162,
     "date_est": "2025-06-29",
-    "opponent": "Brewers"
+    "opponent": "Jays"
   },
   {
-    "player_id": 42462,
-    "team": "Rockies",
-    "name": "Brenton Doyle",
+    "player_id": 42845,
+    "team": "Red Sox",
+    "name": "Nate Eaton",
     "metric": 0,
-    "ab": 4,
-    "event_id": 401696149,
+    "ab": 1,
+    "event_id": 401696147,
     "date_est": "2025-06-28",
-    "opponent": "Brewers"
+    "opponent": "Jays"
   },
   {
-    "player_id": 42462,
-    "team": "Rockies",
-    "name": "Brenton Doyle",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696123,
-    "date_est": "2025-06-26",
-    "opponent": "Dodgers"
-  },
-  {
-    "player_id": 42462,
-    "team": "Rockies",
-    "name": "Brenton Doyle",
+    "player_id": 42845,
+    "team": "Red Sox",
+    "name": "Nate Eaton",
     "metric": 0,
-    "ab": 5,
-    "event_id": 401696097,
+    "ab": 1,
+    "event_id": 401696132,
+    "date_est": "2025-06-27",
+    "opponent": "Jays"
+  },
+  {
+    "player_id": 42845,
+    "team": "Red Sox",
+    "name": "Nate Eaton",
+    "metric": 0,
+    "ab": 2,
+    "event_id": 401696113,
     "date_est": "2025-06-25",
-    "opponent": "Dodgers"
+    "opponent": "Angels"
   },
   {
-    "player_id": 42462,
-    "team": "Rockies",
-    "name": "Brenton Doyle",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696071,
-    "date_est": "2025-06-22",
-    "opponent": "D-Backs"
-  },
-  {
-    "player_id": 42462,
-    "team": "Rockies",
-    "name": "Brenton Doyle",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696041,
-    "date_est": "2025-06-21",
-    "opponent": "D-Backs"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696243,
-    "date_est": "2025-07-05",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
+    "player_id": 42845,
+    "team": "Red Sox",
+    "name": "Nate Eaton",
     "metric": 0,
-    "ab": 3,
-    "event_id": 401696228,
-    "date_est": "2025-07-05",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696215,
-    "date_est": "2025-07-04",
-    "opponent": "White Sox"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696205,
-    "date_est": "2025-07-03",
-    "opponent": "White Sox"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696190,
-    "date_est": "2025-07-02",
-    "opponent": "White Sox"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696165,
-    "date_est": "2025-06-29",
-    "opponent": "Royals"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696150,
-    "date_est": "2025-06-28",
-    "opponent": "Royals"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696135,
-    "date_est": "2025-06-28",
-    "opponent": "Royals"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696123,
-    "date_est": "2025-06-26",
-    "opponent": "Rockies"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696112,
-    "date_est": "2025-06-26",
-    "opponent": "Rockies"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696097,
+    "ab": 0,
+    "event_id": 401696098,
     "date_est": "2025-06-25",
-    "opponent": "Rockies"
+    "opponent": "Angels"
   },
   {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696076,
-    "date_est": "2025-06-22",
-    "opponent": "Nationals"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
+    "player_id": 42845,
+    "team": "Red Sox",
+    "name": "Nate Eaton",
     "metric": 1,
-    "ab": 4,
-    "event_id": 401696061,
+    "ab": 3,
+    "event_id": 401696072,
     "date_est": "2025-06-22",
-    "opponent": "Nationals"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696046,
-    "date_est": "2025-06-21",
-    "opponent": "Nationals"
-  },
-  {
-    "player_id": 42468,
-    "team": "Dodgers",
-    "name": "Andy Pages",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696031,
-    "date_est": "2025-06-20",
-    "opponent": "Padres"
+    "opponent": "Giants"
   },
   {
     "player_id": 4413898,
@@ -5050,6 +4590,76 @@
     "opponent": "Red Sox"
   },
   {
+    "player_id": 4416591,
+    "team": "Rockies",
+    "name": "Hunter Goodman",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696242,
+    "date_est": "2025-07-06",
+    "opponent": "White Sox"
+  },
+  {
+    "player_id": 4416591,
+    "team": "Rockies",
+    "name": "Hunter Goodman",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696227,
+    "date_est": "2025-07-05",
+    "opponent": "White Sox"
+  },
+  {
+    "player_id": 4416591,
+    "team": "Rockies",
+    "name": "Hunter Goodman",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696204,
+    "date_est": "2025-07-03",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 4416591,
+    "team": "Rockies",
+    "name": "Hunter Goodman",
+    "metric": 3,
+    "ab": 4,
+    "event_id": 401696189,
+    "date_est": "2025-07-02",
+    "opponent": "Astros"
+  },
+  {
+    "player_id": 4416591,
+    "team": "Rockies",
+    "name": "Hunter Goodman",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696112,
+    "date_est": "2025-06-26",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 4416591,
+    "team": "Rockies",
+    "name": "Hunter Goodman",
+    "metric": 2,
+    "ab": 4,
+    "event_id": 401696097,
+    "date_est": "2025-06-25",
+    "opponent": "Dodgers"
+  },
+  {
+    "player_id": 4416591,
+    "team": "Rockies",
+    "name": "Hunter Goodman",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696056,
+    "date_est": "2025-06-22",
+    "opponent": "D-Backs"
+  },
+  {
     "player_id": 4424286,
     "team": "Tigers",
     "name": "Spencer Torkelson",
@@ -5058,6 +4668,16 @@
     "event_id": 401795089,
     "date_est": "2025-07-02",
     "opponent": "Nationals"
+  },
+  {
+    "player_id": 4424286,
+    "team": "Tigers",
+    "name": "Spencer Torkelson",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696252,
+    "date_est": "2025-07-06",
+    "opponent": "Guardians"
   },
   {
     "player_id": 4424286,
@@ -5150,14 +4770,14 @@
     "opponent": "Rays"
   },
   {
-    "player_id": 4424286,
-    "team": "Tigers",
-    "name": "Spencer Torkelson",
+    "player_id": 4666100,
+    "team": "Angels",
+    "name": "Zach Neto",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696035,
-    "date_est": "2025-06-20",
-    "opponent": "Rays"
+    "event_id": 401696248,
+    "date_est": "2025-07-06",
+    "opponent": "Jays"
   },
   {
     "player_id": 4666100,
@@ -5280,14 +4900,14 @@
     "opponent": "Astros"
   },
   {
-    "player_id": 4666100,
-    "team": "Angels",
-    "name": "Zach Neto",
+    "player_id": 4679983,
+    "team": "Rays",
+    "name": "Chandler Simpson",
     "metric": 0,
     "ab": 4,
-    "event_id": 401696044,
-    "date_est": "2025-06-21",
-    "opponent": "Astros"
+    "event_id": 401696254,
+    "date_est": "2025-07-06",
+    "opponent": "Twins"
   },
   {
     "player_id": 4679983,
@@ -5400,584 +5020,384 @@
     "opponent": "Royals"
   },
   {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696241,
-    "date_est": "2025-07-05",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 4,
-    "ab": 4,
-    "event_id": 401696226,
-    "date_est": "2025-07-04",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696213,
-    "date_est": "2025-07-04",
-    "opponent": "Guardians"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696203,
-    "date_est": "2025-07-03",
-    "opponent": "Guardians"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696188,
-    "date_est": "2025-07-02",
-    "opponent": "Guardians"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696163,
-    "date_est": "2025-06-29",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
     "metric": 0,
     "ab": 3,
-    "event_id": 401696148,
-    "date_est": "2025-06-28",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696133,
-    "date_est": "2025-06-28",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696119,
-    "date_est": "2025-06-26",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696107,
-    "date_est": "2025-06-25",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696092,
-    "date_est": "2025-06-24",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 2,
-    "ab": 3,
-    "event_id": 401696081,
-    "date_est": "2025-06-23",
-    "opponent": "Cardinals"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696070,
-    "date_est": "2025-06-22",
-    "opponent": "Mariners"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 2,
-    "ab": 4,
-    "event_id": 401696055,
-    "date_est": "2025-06-21",
-    "opponent": "Mariners"
-  },
-  {
-    "player_id": 4717833,
-    "team": "Cubs",
-    "name": "Pete Crow-Armstrong",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696040,
-    "date_est": "2025-06-20",
-    "opponent": "Mariners"
-  },
-  {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401764562,
+    "event_id": 401696251,
     "date_est": "2025-07-06",
-    "opponent": "Giants"
+    "opponent": "Phillies"
   },
   {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 1,
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
+    "metric": 0,
     "ab": 4,
-    "event_id": 401764561,
+    "event_id": 401696236,
     "date_est": "2025-07-05",
-    "opponent": "Giants"
+    "opponent": "Phillies"
   },
   {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 0,
-    "ab": 1,
-    "event_id": 401764560,
-    "date_est": "2025-06-22",
-    "opponent": "Guardians"
-  },
-  {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 0,
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
+    "metric": 2,
     "ab": 3,
-    "event_id": 401764559,
-    "date_est": "2025-06-22",
-    "opponent": "Guardians"
+    "event_id": 401696221,
+    "date_est": "2025-07-04",
+    "opponent": "Phillies"
   },
   {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401764558,
-    "date_est": "2025-06-21",
-    "opponent": "Guardians"
-  },
-  {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
     "metric": 1,
-    "ab": 4,
-    "event_id": 401764557,
-    "date_est": "2025-06-20",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696199,
-    "date_est": "2025-07-02",
-    "opponent": "Rays"
-  },
-  {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696184,
+    "ab": 2,
+    "event_id": 401696179,
     "date_est": "2025-07-01",
-    "opponent": "Rays"
+    "opponent": "Red Sox"
   },
   {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 1,
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
+    "metric": 0,
     "ab": 4,
-    "event_id": 401696172,
+    "event_id": 401696170,
     "date_est": "2025-06-30",
-    "opponent": "Rays"
+    "opponent": "Red Sox"
   },
   {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 1,
-    "ab": 1,
-    "event_id": 401696157,
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696159,
     "date_est": "2025-06-29",
-    "opponent": "Yankees"
+    "opponent": "Padres"
   },
   {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
     "metric": 1,
-    "ab": 4,
-    "event_id": 401696142,
+    "ab": 5,
+    "event_id": 401696144,
     "date_est": "2025-06-28",
-    "opponent": "Yankees"
+    "opponent": "Padres"
   },
   {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696117,
-    "date_est": "2025-06-26",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696103,
-    "date_est": "2025-06-25",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 4872686,
-    "team": "A's",
-    "name": "Max Muncy",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696088,
-    "date_est": "2025-06-24",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401764562,
-    "date_est": "2025-07-06",
-    "opponent": "Giants"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
     "metric": 3,
     "ab": 4,
-    "event_id": 401764561,
-    "date_est": "2025-07-05",
-    "opponent": "Giants"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401764560,
-    "date_est": "2025-06-22",
-    "opponent": "Guardians"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401764559,
-    "date_est": "2025-06-22",
-    "opponent": "Guardians"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401764558,
-    "date_est": "2025-06-21",
-    "opponent": "Guardians"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401764557,
-    "date_est": "2025-06-20",
-    "opponent": "Astros"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 0,
-    "ab": 1,
-    "event_id": 401696199,
-    "date_est": "2025-07-02",
-    "opponent": "Rays"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696184,
-    "date_est": "2025-07-01",
-    "opponent": "Rays"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 1,
-    "ab": 5,
-    "event_id": 401696172,
-    "date_est": "2025-06-30",
-    "opponent": "Rays"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 0,
-    "ab": 5,
-    "event_id": 401696157,
-    "date_est": "2025-06-29",
-    "opponent": "Yankees"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696142,
-    "date_est": "2025-06-28",
-    "opponent": "Yankees"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696127,
+    "event_id": 401696129,
     "date_est": "2025-06-27",
+    "opponent": "Padres"
+  },
+  {
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696102,
+    "date_est": "2025-06-25",
     "opponent": "Yankees"
   },
   {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 0,
-    "ab": 1,
-    "event_id": 401696117,
-    "date_est": "2025-06-26",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696103,
-    "date_est": "2025-06-25",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 4917919,
-    "team": "A's",
-    "name": "Lawrence Butler",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696088,
-    "date_est": "2025-06-24",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
     "metric": 0,
     "ab": 5,
-    "event_id": 401795089,
-    "date_est": "2025-07-02",
-    "opponent": "Tigers"
+    "event_id": 401696087,
+    "date_est": "2025-06-24",
+    "opponent": "Yankees"
   },
   {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696078,
+    "date_est": "2025-06-23",
+    "opponent": "Yankees"
+  },
+  {
+    "player_id": 4722857,
+    "team": "Reds",
+    "name": "Spencer Steer",
     "metric": 0,
+    "ab": 4,
+    "event_id": 401696068,
+    "date_est": "2025-06-22",
+    "opponent": "Cardinals"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 0,
+    "ab": 5,
+    "event_id": 401796219,
+    "date_est": "2025-07-02",
+    "opponent": "Mets"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696253,
+    "date_est": "2025-07-06",
+    "opponent": "Marlins"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 2,
+    "ab": 4,
+    "event_id": 401696238,
+    "date_est": "2025-07-05",
+    "opponent": "Marlins"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696223,
+    "date_est": "2025-07-04",
+    "opponent": "Marlins"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696210,
+    "date_est": "2025-07-03",
+    "opponent": "Mets"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696196,
+    "date_est": "2025-07-02",
+    "opponent": "Mets"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696164,
+    "date_est": "2025-06-29",
+    "opponent": "Rockies"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696149,
+    "date_est": "2025-06-28",
+    "opponent": "Rockies"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696109,
+    "date_est": "2025-06-25",
+    "opponent": "Pirates"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696094,
+    "date_est": "2025-06-24",
+    "opponent": "Pirates"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696082,
+    "date_est": "2025-06-23",
+    "opponent": "Pirates"
+  },
+  {
+    "player_id": 4917869,
+    "team": "Brewers",
+    "name": "Jackson Chourio",
+    "metric": 1,
+    "ab": 5,
+    "event_id": 401696069,
+    "date_est": "2025-06-22",
+    "opponent": "Twins"
+  },
+  {
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
+    "metric": 2,
+    "ab": 4,
+    "event_id": 401696250,
+    "date_est": "2025-07-06",
+    "opponent": "Nationals"
+  },
+  {
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
+    "metric": 1,
     "ab": 4,
     "event_id": 401696235,
     "date_est": "2025-07-05",
-    "opponent": "Red Sox"
+    "opponent": "Nationals"
   },
   {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
-    "metric": 0,
-    "ab": 2,
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
+    "metric": 1,
+    "ab": 5,
     "event_id": 401696220,
     "date_est": "2025-07-04",
-    "opponent": "Red Sox"
+    "opponent": "Nationals"
   },
   {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
-    "metric": 3,
-    "ab": 5,
-    "event_id": 401696209,
-    "date_est": "2025-07-03",
-    "opponent": "Tigers"
-  },
-  {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
-    "metric": 3,
-    "ab": 2,
-    "event_id": 401696195,
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696194,
     "date_est": "2025-07-02",
-    "opponent": "Tigers"
+    "opponent": "Reds"
   },
   {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
     "metric": 0,
-    "ab": 2,
-    "event_id": 401696169,
-    "date_est": "2025-06-29",
-    "opponent": "Angels"
+    "ab": 3,
+    "event_id": 401696179,
+    "date_est": "2025-07-01",
+    "opponent": "Reds"
   },
   {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696154,
-    "date_est": "2025-06-29",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
-    "metric": 2,
-    "ab": 2,
-    "event_id": 401696139,
-    "date_est": "2025-06-28",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696115,
-    "date_est": "2025-06-25",
-    "opponent": "Padres"
-  },
-  {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696100,
-    "date_est": "2025-06-25",
-    "opponent": "Padres"
-  },
-  {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
-    "metric": 3,
-    "ab": 5,
-    "event_id": 401696085,
-    "date_est": "2025-06-24",
-    "opponent": "Padres"
-  },
-  {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
     "metric": 1,
     "ab": 3,
-    "event_id": 401696076,
-    "date_est": "2025-06-22",
-    "opponent": "Dodgers"
+    "event_id": 401696170,
+    "date_est": "2025-06-30",
+    "opponent": "Reds"
   },
   {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
+    "metric": 0,
+    "ab": 4,
+    "event_id": 401696162,
+    "date_est": "2025-06-29",
+    "opponent": "Jays"
+  },
+  {
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
+    "metric": 2,
+    "ab": 5,
+    "event_id": 401696147,
+    "date_est": "2025-06-28",
+    "opponent": "Jays"
+  },
+  {
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696132,
+    "date_est": "2025-06-27",
+    "opponent": "Jays"
+  },
+  {
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
+    "metric": 0,
+    "ab": 3,
+    "event_id": 401696113,
+    "date_est": "2025-06-25",
+    "opponent": "Angels"
+  },
+  {
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
     "metric": 1,
     "ab": 4,
-    "event_id": 401696061,
-    "date_est": "2025-06-22",
-    "opponent": "Dodgers"
+    "event_id": 401696098,
+    "date_est": "2025-06-25",
+    "opponent": "Angels"
   },
   {
-    "player_id": 4918256,
-    "team": "Nationals",
-    "name": "James Wood",
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
+    "metric": 1,
+    "ab": 3,
+    "event_id": 401696084,
+    "date_est": "2025-06-24",
+    "opponent": "Angels"
+  },
+  {
+    "player_id": 4987382,
+    "team": "Red Sox",
+    "name": "Ceddanne Rafaela",
+    "metric": 1,
+    "ab": 4,
+    "event_id": 401696072,
+    "date_est": "2025-06-22",
+    "opponent": "Giants"
+  },
+  {
+    "player_id": 4990055,
+    "team": "Red Sox",
+    "name": "Wilyer Abreu",
     "metric": 0,
-    "ab": 5,
-    "event_id": 401696046,
-    "date_est": "2025-06-21",
-    "opponent": "Dodgers"
+    "ab": 0,
+    "event_id": 401696250,
+    "date_est": "2025-07-06",
+    "opponent": "Nationals"
   },
   {
     "player_id": 4990055,
@@ -6090,24 +5510,14 @@
     "opponent": "Giants"
   },
   {
-    "player_id": 4990055,
-    "team": "Red Sox",
-    "name": "Wilyer Abreu",
+    "player_id": 4997181,
+    "team": "Jays",
+    "name": "Davis Schneider",
     "metric": 0,
-    "ab": 4,
-    "event_id": 401696057,
-    "date_est": "2025-06-21",
-    "opponent": "Giants"
-  },
-  {
-    "player_id": 4990055,
-    "team": "Red Sox",
-    "name": "Wilyer Abreu",
-    "metric": 1,
-    "ab": 4,
-    "event_id": 401696042,
-    "date_est": "2025-06-21",
-    "opponent": "Giants"
+    "ab": 3,
+    "event_id": 401696248,
+    "date_est": "2025-07-06",
+    "opponent": "Angels"
   },
   {
     "player_id": 4997181,
@@ -6200,14 +5610,14 @@
     "opponent": "Guardians"
   },
   {
-    "player_id": 4997181,
+    "player_id": 4997589,
     "team": "Jays",
-    "name": "Davis Schneider",
-    "metric": 1,
-    "ab": 3,
-    "event_id": 401696049,
-    "date_est": "2025-06-21",
-    "opponent": "White Sox"
+    "name": "Addison Barger",
+    "metric": 0,
+    "ab": 1,
+    "event_id": 401696248,
+    "date_est": "2025-07-06",
+    "opponent": "Angels"
   },
   {
     "player_id": 4997589,
@@ -6330,24 +5740,14 @@
     "opponent": "White Sox"
   },
   {
-    "player_id": 4997589,
-    "team": "Jays",
-    "name": "Addison Barger",
-    "metric": 0,
-    "ab": 3,
-    "event_id": 401696034,
-    "date_est": "2025-06-20",
-    "opponent": "White Sox"
-  },
-  {
     "player_id": 5080766,
     "team": "Astros",
     "name": "Cam Smith",
     "metric": 0,
-    "ab": 4,
-    "event_id": 401764557,
-    "date_est": "2025-06-20",
-    "opponent": "A's"
+    "ab": 5,
+    "event_id": 401696258,
+    "date_est": "2025-07-06",
+    "opponent": "Dodgers"
   },
   {
     "player_id": 5080766,
@@ -6477,16 +5877,6 @@
     "ab": 4,
     "event_id": 401696059,
     "date_est": "2025-06-22",
-    "opponent": "Angels"
-  },
-  {
-    "player_id": 5080766,
-    "team": "Astros",
-    "name": "Cam Smith",
-    "metric": 0,
-    "ab": 4,
-    "event_id": 401696044,
-    "date_est": "2025-06-21",
     "opponent": "Angels"
   }
 ]
