@@ -3,39 +3,55 @@
     "player_id": 34923,
     "name": "Taylor Ward",
     "team": "Angels",
-    "opponent": "D-Backs",
-    "streak": 7,
-    "ab": 29
+    "opponent": "Phillies",
+    "streak": 5,
+    "ab": 22
   },
   {
-    "player_id": 33859,
-    "name": "Rafael Devers",
-    "team": "Red Sox",
-    "opponent": "Rays",
-    "streak": 4,
-    "ab": 17
-  },
-  {
-    "player_id": 33984,
-    "name": "Yoan Moncada",
-    "team": "Angels",
+    "player_id": 31261,
+    "name": "Nolan Arenado",
+    "team": "Cardinals",
     "opponent": "D-Backs",
     "streak": 4,
-    "ab": 14
+    "ab": 19
   },
   {
     "player_id": 4142424,
     "name": "Seiya Suzuki",
     "team": "Cubs",
-    "opponent": "Yankees",
-    "streak": 3,
-    "ab": 15
+    "opponent": "Red Sox",
+    "streak": 4,
+    "ab": 19
+  },
+  {
+    "player_id": 33859,
+    "name": "Rafael Devers",
+    "team": "Red Sox",
+    "opponent": "Cubs",
+    "streak": 4,
+    "ab": 17
+  },
+  {
+    "player_id": 32532,
+    "name": "Willson Contreras",
+    "team": "Cardinals",
+    "opponent": "D-Backs",
+    "streak": 4,
+    "ab": 16
+  },
+  {
+    "player_id": 40851,
+    "name": "Jose Herrera",
+    "team": "D-Backs",
+    "opponent": "Cardinals",
+    "streak": 4,
+    "ab": 14
   },
   {
     "player_id": 4666100,
     "name": "Zach Neto",
     "team": "Angels",
-    "opponent": "D-Backs",
+    "opponent": "Phillies",
     "streak": 3,
     "ab": 15
   },
@@ -43,7 +59,7 @@
     "player_id": 33192,
     "name": "Aaron Judge",
     "team": "Yankees",
-    "opponent": "Cubs",
+    "opponent": "Braves",
     "streak": 3,
     "ab": 14
   },
@@ -51,39 +67,47 @@
     "player_id": 42047,
     "name": "Logan O'Hoppe",
     "team": "Angels",
-    "opponent": "D-Backs",
+    "opponent": "Phillies",
     "streak": 3,
     "ab": 14
   },
   {
-    "player_id": 4905921,
-    "name": "Junior Caminero",
-    "team": "Rays",
-    "opponent": "Red Sox",
+    "player_id": 30836,
+    "name": "Mike Trout",
+    "team": "Angels",
+    "opponent": "Phillies",
     "streak": 3,
-    "ab": 13
+    "ab": 11
   },
   {
     "player_id": 40344,
     "name": "Gabriel Arias",
     "team": "Guardians",
-    "opponent": "White Sox",
+    "opponent": "A's",
     "streak": 3,
     "ab": 11
+  },
+  {
+    "player_id": 33984,
+    "name": "Yoan Moncada",
+    "team": "Angels",
+    "opponent": "Phillies",
+    "streak": 3,
+    "ab": 10
+  },
+  {
+    "player_id": 36928,
+    "name": "Austin Hays",
+    "team": "Reds",
+    "opponent": "Mets",
+    "streak": 3,
+    "ab": 10
   },
   {
     "player_id": 37498,
     "name": "Pete Alonso",
     "team": "Mets",
-    "opponent": "Royals",
-    "streak": 3,
-    "ab": 10
-  },
-  {
-    "player_id": 39832,
-    "name": "Shohei Ohtani",
-    "team": "Dodgers",
-    "opponent": "Giants",
+    "opponent": "Reds",
     "streak": 3,
     "ab": 10
   },
@@ -91,23 +115,15 @@
     "player_id": 42414,
     "name": "Brett Baty",
     "team": "Mets",
-    "opponent": "Royals",
+    "opponent": "Reds",
     "streak": 3,
     "ab": 10
-  },
-  {
-    "player_id": 30583,
-    "name": "Giancarlo Stanton",
-    "team": "Yankees",
-    "opponent": "Cubs",
-    "streak": 3,
-    "ab": 9
   },
   {
     "player_id": 4990055,
     "name": "Wilyer Abreu",
     "team": "Red Sox",
-    "opponent": "Rays",
+    "opponent": "Cubs",
     "streak": 3,
     "ab": 7
   },
@@ -115,63 +131,55 @@
     "player_id": 41273,
     "name": "Jeremy Pena",
     "team": "Astros",
-    "opponent": "Rangers",
+    "opponent": "Mariners",
     "streak": 2,
     "ab": 11
+  },
+  {
+    "player_id": 41917,
+    "name": "Otto Lopez",
+    "team": "Marlins",
+    "opponent": "Royals",
+    "streak": 2,
+    "ab": 10
   },
   {
     "player_id": 42979,
     "name": "Nick Sogard",
     "team": "Red Sox",
-    "opponent": "Rays",
+    "opponent": "Cubs",
     "streak": 2,
     "ab": 10
+  },
+  {
+    "player_id": 4683365,
+    "name": "Masyn Winn",
+    "team": "Cardinals",
+    "opponent": "D-Backs",
+    "streak": 2,
+    "ab": 10
+  },
+  {
+    "player_id": 31117,
+    "name": "Jurickson Profar",
+    "team": "Braves",
+    "opponent": "Yankees",
+    "streak": 2,
+    "ab": 9
   },
   {
     "player_id": 41610,
     "name": "Jarren Duran",
     "team": "Red Sox",
-    "opponent": "Rays",
+    "opponent": "Cubs",
     "streak": 2,
     "ab": 9
   },
   {
-    "player_id": 42404,
-    "name": "Corbin Carroll",
-    "team": "D-Backs",
-    "opponent": "Angels",
-    "streak": 2,
-    "ab": 9
-  },
-  {
-    "player_id": 4417795,
-    "name": "Sal Frelick",
-    "team": "Brewers",
-    "opponent": "Nationals",
-    "streak": 2,
-    "ab": 9
-  },
-  {
-    "player_id": 4686066,
-    "name": "Tyler Soderstrom",
-    "team": "A's",
-    "opponent": "Jays",
-    "streak": 2,
-    "ab": 9
-  },
-  {
-    "player_id": 4917921,
-    "name": "Evan Carter",
-    "team": "Rangers",
-    "opponent": "Astros",
-    "streak": 2,
-    "ab": 9
-  },
-  {
-    "player_id": 4918256,
-    "name": "James Wood",
-    "team": "Nationals",
-    "opponent": "Brewers",
+    "player_id": 5132014,
+    "name": "Agustin Ramirez",
+    "team": "Marlins",
+    "opponent": "Royals",
     "streak": 2,
     "ab": 9
   },
@@ -179,7 +187,7 @@
     "player_id": 33229,
     "name": "Victor Caratini",
     "team": "Astros",
-    "opponent": "Rangers",
+    "opponent": "Mariners",
     "streak": 2,
     "ab": 8
   },
@@ -187,7 +195,7 @@
     "player_id": 33675,
     "name": "Willy Adames",
     "team": "Giants",
-    "opponent": "Dodgers",
+    "opponent": "Jays",
     "streak": 2,
     "ab": 8
   },
@@ -195,7 +203,15 @@
     "player_id": 34951,
     "name": "Leody Taveras",
     "team": "Mariners",
-    "opponent": "Tigers",
+    "opponent": "Astros",
+    "streak": 2,
+    "ab": 8
+  },
+  {
+    "player_id": 40557,
+    "name": "Josh Lowe",
+    "team": "Rays",
+    "opponent": "Orioles",
     "streak": 2,
     "ab": 8
   },
@@ -203,15 +219,15 @@
     "player_id": 40593,
     "name": "Dylan Moore",
     "team": "Mariners",
-    "opponent": "Tigers",
+    "opponent": "Astros",
     "streak": 2,
     "ab": 8
   },
   {
-    "player_id": 4089862,
-    "name": "Ha-Seong Kim",
-    "team": "Rays",
-    "opponent": "Red Sox",
+    "player_id": 41345,
+    "name": "Blaze Alexander",
+    "team": "D-Backs",
+    "opponent": "Cardinals",
     "streak": 2,
     "ab": 8
   },
@@ -219,23 +235,23 @@
     "player_id": 4109109,
     "name": "Vinnie Pasquantino",
     "team": "Royals",
-    "opponent": "Mets",
+    "opponent": "Marlins",
     "streak": 2,
     "ab": 8
   },
   {
-    "player_id": 5080641,
-    "name": "Cole Young",
-    "team": "Mariners",
-    "opponent": "Tigers",
-    "streak": 2,
-    "ab": 8
-  },
-  {
-    "player_id": 40851,
-    "name": "Jose Herrera",
+    "player_id": 31399,
+    "name": "Randal Grichuk",
     "team": "D-Backs",
-    "opponent": "Angels",
+    "opponent": "Cardinals",
+    "streak": 2,
+    "ab": 7
+  },
+  {
+    "player_id": 33557,
+    "name": "Sean Murphy",
+    "team": "Braves",
+    "opponent": "Yankees",
     "streak": 2,
     "ab": 7
   },
@@ -243,7 +259,7 @@
     "player_id": 40854,
     "name": "Jo Adell",
     "team": "Angels",
-    "opponent": "D-Backs",
+    "opponent": "Phillies",
     "streak": 2,
     "ab": 7
   },
@@ -251,7 +267,7 @@
     "player_id": 41253,
     "name": "Francisco Alvarez",
     "team": "Mets",
-    "opponent": "Royals",
+    "opponent": "Reds",
     "streak": 2,
     "ab": 7
   },
@@ -259,23 +275,15 @@
     "player_id": 41259,
     "name": "Jorge Barrosa",
     "team": "D-Backs",
-    "opponent": "Angels",
+    "opponent": "Cardinals",
     "streak": 2,
     "ab": 7
   },
   {
-    "player_id": 4872648,
-    "name": "Marcelo Mayer",
-    "team": "Red Sox",
-    "opponent": "Rays",
-    "streak": 2,
-    "ab": 7
-  },
-  {
-    "player_id": 4966637,
-    "name": "Nick Kurtz",
-    "team": "A's",
-    "opponent": "Jays",
+    "player_id": 4417795,
+    "name": "Sal Frelick",
+    "team": "Brewers",
+    "opponent": "Dodgers",
     "streak": 2,
     "ab": 7
   },
@@ -283,7 +291,7 @@
     "player_id": 32797,
     "name": "Carson Kelly",
     "team": "Cubs",
-    "opponent": "Yankees",
+    "opponent": "Red Sox",
     "streak": 2,
     "ab": 6
   },
@@ -291,7 +299,7 @@
     "player_id": 42497,
     "name": "Angel Martinez",
     "team": "Guardians",
-    "opponent": "White Sox",
+    "opponent": "A's",
     "streak": 2,
     "ab": 6
   },
@@ -299,7 +307,7 @@
     "player_id": 40702,
     "name": "Jhonny Pereda",
     "team": "A's",
-    "opponent": "Jays",
+    "opponent": "Guardians",
     "streak": 2,
     "ab": 5
   },
@@ -307,15 +315,39 @@
     "player_id": 4997597,
     "name": "Brett Wisely",
     "team": "Giants",
-    "opponent": "Dodgers",
+    "opponent": "Jays",
     "streak": 2,
     "ab": 5
+  },
+  {
+    "player_id": 30583,
+    "name": "Giancarlo Stanton",
+    "team": "Yankees",
+    "opponent": "Braves",
+    "streak": 2,
+    "ab": 4
+  },
+  {
+    "player_id": 36953,
+    "name": "Zack Short",
+    "team": "Astros",
+    "opponent": "Mariners",
+    "streak": 2,
+    "ab": 4
   },
   {
     "player_id": 33411,
     "name": "Rob Refsnyder",
     "team": "Red Sox",
-    "opponent": "Rays",
+    "opponent": "Cubs",
+    "streak": 1,
+    "ab": 5
+  },
+  {
+    "player_id": 33572,
+    "name": "Isiah Kiner-Falefa",
+    "team": "Pirates",
+    "opponent": "White Sox",
     "streak": 1,
     "ab": 5
   },
@@ -323,15 +355,7 @@
     "player_id": 35022,
     "name": "Kevin Newman",
     "team": "Angels",
-    "opponent": "D-Backs",
-    "streak": 1,
-    "ab": 5
-  },
-  {
-    "player_id": 38309,
-    "name": "Will Smith",
-    "team": "Dodgers",
-    "opponent": "Giants",
+    "opponent": "Phillies",
     "streak": 1,
     "ab": 5
   },
@@ -339,15 +363,15 @@
     "player_id": 39900,
     "name": "Jake Rogers",
     "team": "Tigers",
-    "opponent": "Mariners",
+    "opponent": "Rangers",
     "streak": 1,
     "ab": 5
   },
   {
-    "player_id": 40926,
-    "name": "Brent Rooker",
-    "team": "A's",
-    "opponent": "Jays",
+    "player_id": 41205,
+    "name": "Trevor Larnach",
+    "team": "Twins",
+    "opponent": "Rockies",
     "streak": 1,
     "ab": 5
   },
@@ -355,7 +379,15 @@
     "player_id": 42179,
     "name": "Riley Greene",
     "team": "Tigers",
-    "opponent": "Mariners",
+    "opponent": "Rangers",
+    "streak": 1,
+    "ab": 5
+  },
+  {
+    "player_id": 42796,
+    "name": "Kyle Stowers",
+    "team": "Marlins",
+    "opponent": "Royals",
     "streak": 1,
     "ab": 5
   },
@@ -363,40 +395,8 @@
     "player_id": 4298641,
     "name": "Jordan Westburg",
     "team": "Orioles",
-    "opponent": "Marlins",
-    "streak": 1,
-    "ab": 5
-  },
-  {
-    "player_id": 4424286,
-    "name": "Spencer Torkelson",
-    "team": "Tigers",
-    "opponent": "Mariners",
-    "streak": 1,
-    "ab": 5
-  },
-  {
-    "player_id": 4722941,
-    "name": "Luis Matos",
-    "team": "Giants",
-    "opponent": "Dodgers",
-    "streak": 1,
-    "ab": 5
-  },
-  {
-    "player_id": 5012120,
-    "name": "Carlos Narvaez",
-    "team": "Red Sox",
     "opponent": "Rays",
     "streak": 1,
     "ab": 5
-  },
-  {
-    "player_id": 30280,
-    "name": "Carlos Santana",
-    "team": "Guardians",
-    "opponent": "White Sox",
-    "streak": 1,
-    "ab": 4
   }
 ]
