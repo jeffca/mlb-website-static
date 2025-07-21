@@ -64,15 +64,15 @@ function selectDays(days) {
         </div>
         <span class="days-label">Last {{ selectedDays }} days</span>
     </div>
-    <h2>Top Batting Averages</h2>
+    <h2>Team Batting Averages</h2>
     <PlayerTable :data="dataMapH[selectedDays]" v-model:currentPage="pageH" :metric="'h'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top Strikeouts</h2>
+    <h2>Team Strikeouts</h2>
     <PlayerTable :data="dataMapK[selectedDays]" v-model:currentPage="pageK" :metric="'k'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top RBIs</h2>
+    <h2>Team RBIs</h2>
     <PlayerTable :data="dataMapRBI[selectedDays]" v-model:currentPage="pageRBI" :metric="'rbi'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top HRs</h2>
+    <h2>Team HRs</h2>
     <PlayerTable :data="dataMapHR[selectedDays]" v-model:currentPage="pageHR" :metric="'hr'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
-    <h2>Top Walks</h2>
+    <h2>Team Walks</h2>
     <PlayerTable :data="dataMapBB[selectedDays]" v-model:currentPage="pageBB" :metric="'bb'" :position="'team'" :selectedDays="selectedDays" @update:currentPage="currentPage = $event"/>
   </div>
 </template>
