@@ -2,7 +2,7 @@ body {
   background-color: rgb(12, 5, 14);
   color: white;
   font-family: Helvetica;
-  font-size: 9pt;
+  font-size: 8.5pt;
 }
 
 .center {
@@ -28,8 +28,8 @@ table {
 }
 
 button {
-  font-size: 7pt;
-  padding: 10px 16px;
+  font-size: 6pt;
+  padding: 6px 10px;
   border: 1px solid #e0e0e0;
   border-radius: 20px;
   background: white;
@@ -192,7 +192,6 @@ button.active {
   display: flex;
   flex-direction: column;
   min-height: 300px; /* Optional */
-  padding: 1rem;
   box-sizing: border-box;
   overflow: auto; /* Optional: if you want scrollbars */
 }
@@ -213,6 +212,7 @@ button.active {
 .player-table td {
   text-align: left;
 }
+
 
 .page {
   font-size: smaller;
@@ -258,7 +258,37 @@ button.active {
   border-radius: 4px;
 }
 
+.pagination {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
+.pagination-button {
+  background: linear-gradient(135deg, #1d1a4d9e, #8e949f); 
+  color: white;
+  border: none;
+  border-radius: 9999px; /* pill shape */
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+.pagination-button:hover {
+  background: linear-gradient(135deg, #101012, #57585a);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(59, 130, 246, 0.4);
+}
+
+.pagination-button:disabled {
+  background: #dcdddf; 
+  color: #64748b;
+  cursor: not-allowed;
+  box-shadow: none;
+  transform: none;
+}
 
 .layout {
   display: flex;
@@ -269,24 +299,58 @@ button.active {
 }
 
 .layout > * {
-  flex: 0 0 calc(33.33% - 32px / 3); /* Accounts for the gap */
-  max-width: calc(33.33% - 32px / 3);
   box-sizing: border-box;
 }
 
+/* First child (37%) */
+.layout > :nth-child(1) {
+  flex: 0 0 calc(37% - 32px / 3);
+  max-width: calc(37% - 32px / 3);
+}
 
-@media (max-width: 850px) and (min-width: 621px) {
+/* Second child (25%) */
+.layout > :nth-child(2) {
+  flex: 0 0 calc(25% - 32px / 3);
+  max-width: calc(25% - 32px / 3);
+}
+
+/* Third child (37%) */
+.layout > :nth-child(3) {
+  flex: 0 0 calc(37% - 32px / 3);
+  max-width: calc(37% - 32px / 3);
+}
+
+
+@media (max-width: 700px) and (min-width: 600px) {
   .layout > * {
     flex: 0 0 calc(50% - 16px / 2); /* Accounts for the gap */
     max-width: calc(50% - 16px / 2);
-    font-size: 12pt;
+    font-size: 8pt;
   }
+  .player-table td:first-child span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    max-width: 85px; /* adjust as needed */
+  }
+  
+  .player-table td:nth-child(2) span,
+  .player-table td:nth-child(3) span 
+  {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    max-width: 40px; /* adjust as needed */
+  }
+  
 }
 
-@media (max-width: 620px) {
+@media (max-width: 599px) {
   .layout > * {
     flex: 0 0 100%;
     max-width: 100%;
-    font-size: 10.5pt;
+    font-size: 7.5pt;
   }
 }

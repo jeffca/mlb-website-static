@@ -19,6 +19,7 @@ const dataMapBBStreak = ref({})
 const dataMapIPStreak = ref({}) 
 const loading = ref(true)
 
+const currentPage = ref(null);
 const pageH = ref(1)
 const pageHStreak = ref(1)
 const pageK = ref(1)
@@ -29,8 +30,8 @@ const pageER = ref(1)
 const pageERStreak = ref(1)
 const pageBB = ref(1)
 const pageBBStreak = ref(1)
-const pageIP = ref(1)
-const pageIPStreak = ref(1)
+// const pageIP = ref(1)
+// const pageIPStreak = ref(1)
 
 const clickedAverages = ref(true);
 const clickedStreaks = ref(false);

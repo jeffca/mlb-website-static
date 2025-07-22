@@ -4,6 +4,7 @@ import { ref, onMounted } from 'vue'
 
 const daysOptions = [3,5,7,10,15] 
 const selectedDays = ref(3)
+const currentPage = ref(1);
 const dataMapH = ref({}) 
 const dataMapHR = ref({}) 
 const dataMapK = ref({}) 

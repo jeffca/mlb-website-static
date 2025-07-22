@@ -17,6 +17,7 @@ const dataMapRStreak = ref({})
 const dataMapRBIStreak = ref({}) 
 const loading = ref(true)
 
+const currentPage = ref(null);
 const pageH = ref(1)
 const pageHStreak = ref(1)
 const pageK = ref(1)

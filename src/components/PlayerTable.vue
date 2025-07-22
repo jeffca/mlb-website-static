@@ -83,10 +83,10 @@ function openPlayerHistory(player_id) {
         </tr>
       </tbody>
     </table>
-    <div style="margin-top: 1rem;">
-      <button @click="prevPage" :disabled="currentPage === 1">Previous</button>
+    <div class="pagination">
+      <button class="pagination-button" @click="prevPage" :disabled="currentPage === 1">Previous</button>
       <span class="page">Page {{ currentPage }} of {{ totalPages }}</span>
-      <button @click="nextPage" :disabled="currentPage === totalPages">Next</button>
+      <button class="pagination-button" @click="nextPage" :disabled="currentPage === totalPages">Next</button>
     </div>
     <PlayerHistory 
       v-if="showModal" 
