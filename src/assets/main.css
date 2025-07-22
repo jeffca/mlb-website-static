@@ -2,7 +2,7 @@ body {
   background-color: rgb(12, 5, 14);
   color: white;
   font-family: Helvetica;
-  font-size: 8.5pt;
+  font-size: 11pt;
 }
 
 .center {
@@ -28,8 +28,8 @@ table {
 }
 
 button {
-  font-size: 6pt;
-  padding: 6px 10px;
+  font-size: 8pt;
+  padding: 10px 16px;
   border: 1px solid #e0e0e0;
   border-radius: 20px;
   background: white;
@@ -321,7 +321,7 @@ button.active {
 }
 
 
-@media (max-width: 700px) and (min-width: 600px) {
+@media (max-width: 820px) and (min-width: 600px) {
   .layout > * {
     flex: 0 0 calc(50% - 16px / 2); /* Accounts for the gap */
     max-width: calc(50% - 16px / 2);
@@ -333,6 +333,27 @@ button.active {
     text-overflow: ellipsis;
     display: inline-block;
     max-width: 85px; /* adjust as needed */
+  }
+
+  body {
+    background-color: rgb(12, 5, 14);
+    color: white;
+    font-family: Helvetica;
+    font-size: 8.5pt;
+  }
+
+
+  button {
+    font-size: 6pt;
+    padding: 6px 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 20px;
+    background: white;
+    color: #333;
+    font-weight: 500;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    transition: all 0.2s ease;
   }
   
   .player-table td:nth-child(2) span,
