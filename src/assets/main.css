@@ -2,7 +2,7 @@ body {
   background-color: rgb(12, 5, 14);
   color: white;
   font-family: Helvetica;
-  font-size: 14pt;
+  font-size: 9pt;
 }
 
 .center {
@@ -10,7 +10,7 @@ body {
 }
 
 h2 {
-  font-size: 14pt;
+  font-size: 10.5pt;
   margin-bottom: 0.5em;
 }
 
@@ -100,7 +100,7 @@ button.active {
 
 .averages-or-streaks-button {
   margin-top: 1em;
-  font-size: smaller;
+  font-size: larger;
   font-weight: 900;
   border-radius: 9999px;
   font-family: 'Arial Narrow Bold', sans-serif;
@@ -132,7 +132,8 @@ button.active {
 
 
 .today { 
-  font-family:fantasy;
+  font-size: larger;
+  font-family: fantasy;
 }
 
 .scoreboard {
