@@ -1,26 +1,50 @@
 [
   {
-    "player_id": 41221,
-    "name": "Logan Gilbert",
+    "player_id": 31313,
+    "name": "Patrick Corbin",
+    "team": "Rangers",
+    "opponent": "A's",
+    "streak": 3,
+    "ip": 15.2
+  },
+  {
+    "player_id": 34984,
+    "name": "Michael Soroka",
+    "team": "Nationals",
+    "opponent": "Reds",
+    "streak": 3,
+    "ip": 13.0
+  },
+  {
+    "player_id": 4109034,
+    "name": "Andre Pallante",
+    "team": "Cardinals",
+    "opponent": "Rockies",
+    "streak": 3,
+    "ip": 11.399999999999999
+  },
+  {
+    "player_id": 4307825,
+    "name": "Spencer Strider",
+    "team": "Braves",
+    "opponent": "Giants",
+    "streak": 2,
+    "ip": 12.2
+  },
+  {
+    "player_id": 35124,
+    "name": "Luis Castillo",
     "team": "Mariners",
     "opponent": "Brewers",
-    "streak": 3,
-    "ip": 14.399999999999999
-  },
-  {
-    "player_id": 4927516,
-    "name": "Chase Burns",
-    "team": "Reds",
-    "opponent": "Nationals",
-    "streak": 3,
-    "ip": 10.299999999999999
-  },
-  {
-    "player_id": 4872587,
-    "name": "Yoshinobu Yamamoto",
-    "team": "Dodgers",
-    "opponent": "Twins",
     "streak": 2,
-    "ip": 7.2
+    "ip": 11.2
+  },
+  {
+    "player_id": 35241,
+    "name": "Sandy Alcantara",
+    "team": "Marlins",
+    "opponent": "Padres",
+    "streak": 2,
+    "ip": 11.0
   }
 ]
