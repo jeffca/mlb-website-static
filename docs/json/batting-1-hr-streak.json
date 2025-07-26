@@ -1,13 +1,5 @@
 [
   {
-    "player_id": 39832,
-    "name": "Shohei Ohtani",
-    "team": "Dodgers",
-    "opponent": "Red Sox",
-    "streak": 5,
-    "ab": 21
-  },
-  {
     "player_id": 42047,
     "name": "Logan O'Hoppe",
     "team": "Angels",
@@ -24,12 +16,20 @@
     "ab": 10
   },
   {
-    "player_id": 28701,
-    "name": "Andrew McCutchen",
-    "team": "Pirates",
-    "opponent": "D-Backs",
+    "player_id": 33229,
+    "name": "Victor Caratini",
+    "team": "Astros",
+    "opponent": "A's",
     "streak": 2,
     "ab": 8
+  },
+  {
+    "player_id": 4905919,
+    "name": "Ezequiel Tovar",
+    "team": "Rockies",
+    "opponent": "Orioles",
+    "streak": 2,
+    "ab": 7
   },
   {
     "player_id": 4990055,
@@ -56,18 +56,18 @@
     "ab": 5
   },
   {
-    "player_id": 32512,
-    "name": "Ketel Marte",
-    "team": "D-Backs",
-    "opponent": "Pirates",
-    "streak": 1,
-    "ab": 5
-  },
-  {
     "player_id": 33411,
     "name": "Rob Refsnyder",
     "team": "Red Sox",
     "opponent": "Dodgers",
+    "streak": 1,
+    "ab": 5
+  },
+  {
+    "player_id": 34975,
+    "name": "Tyler Stephenson",
+    "team": "Reds",
+    "opponent": "Rays",
     "streak": 1,
     "ab": 5
   },
@@ -144,6 +144,14 @@
     "ab": 5
   },
   {
+    "player_id": 28701,
+    "name": "Andrew McCutchen",
+    "team": "Pirates",
+    "opponent": "D-Backs",
+    "streak": 1,
+    "ab": 4
+  },
+  {
     "player_id": 30280,
     "name": "Carlos Santana",
     "team": "Guardians",
@@ -160,34 +168,10 @@
     "ab": 4
   },
   {
-    "player_id": 31870,
-    "name": "Max Kepler",
-    "team": "Phillies",
-    "opponent": "Yankees",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 32177,
-    "name": "J.T. Realmuto",
-    "team": "Phillies",
-    "opponent": "Yankees",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 33192,
-    "name": "Aaron Judge",
-    "team": "Yankees",
-    "opponent": "Phillies",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 33481,
-    "name": "Yandy Diaz",
-    "team": "Rays",
-    "opponent": "Reds",
+    "player_id": 33250,
+    "name": "Reese McGuire",
+    "team": "Cubs",
+    "opponent": "White Sox",
     "streak": 1,
     "ab": 4
   },
@@ -232,10 +216,10 @@
     "ab": 4
   },
   {
-    "player_id": 40803,
-    "name": "Brandon Marsh",
-    "team": "Phillies",
-    "opponent": "Yankees",
+    "player_id": 36485,
+    "name": "Thairo Estrada",
+    "team": "Rockies",
+    "opponent": "Orioles",
     "streak": 1,
     "ab": 4
   },
@@ -252,14 +236,6 @@
     "name": "Kody Clemens",
     "team": "Twins",
     "opponent": "Nationals",
-    "streak": 1,
-    "ab": 4
-  },
-  {
-    "player_id": 41644,
-    "name": "J.C. Escarra",
-    "team": "Yankees",
-    "opponent": "Phillies",
     "streak": 1,
     "ab": 4
   },
@@ -312,20 +288,28 @@
     "ab": 4
   },
   {
-    "player_id": 4905919,
-    "name": "Ezequiel Tovar",
-    "team": "Rockies",
-    "opponent": "Orioles",
+    "player_id": 4686066,
+    "name": "Tyler Soderstrom",
+    "team": "A's",
+    "opponent": "Astros",
     "streak": 1,
     "ab": 4
   },
   {
-    "player_id": 4905921,
-    "name": "Junior Caminero",
-    "team": "Rays",
-    "opponent": "Reds",
+    "player_id": 4966637,
+    "name": "Nick Kurtz",
+    "team": "A's",
+    "opponent": "Astros",
     "streak": 1,
     "ab": 4
+  },
+  {
+    "player_id": 33377,
+    "name": "Teoscar Hernandez",
+    "team": "Dodgers",
+    "opponent": "Red Sox",
+    "streak": 1,
+    "ab": 3
   },
   {
     "player_id": 33557,
@@ -344,6 +328,14 @@
     "ab": 3
   },
   {
+    "player_id": 35314,
+    "name": "Austin Wynns",
+    "team": "A's",
+    "opponent": "Astros",
+    "streak": 1,
+    "ab": 3
+  },
+  {
     "player_id": 36084,
     "name": "Anthony Santander",
     "team": "Jays",
@@ -352,18 +344,18 @@
     "ab": 3
   },
   {
-    "player_id": 39631,
-    "name": "Luis Robert Jr.",
-    "team": "White Sox",
-    "opponent": "Cubs",
+    "player_id": 36953,
+    "name": "Zack Short",
+    "team": "Astros",
+    "opponent": "A's",
     "streak": 1,
     "ab": 3
   },
   {
-    "player_id": 39957,
-    "name": "Jesus Sanchez",
-    "team": "Marlins",
-    "opponent": "Brewers",
+    "player_id": 39631,
+    "name": "Luis Robert Jr.",
+    "team": "White Sox",
+    "opponent": "Cubs",
     "streak": 1,
     "ab": 3
   },
@@ -396,6 +388,14 @@
     "name": "Angel Martinez",
     "team": "Guardians",
     "opponent": "Royals",
+    "streak": 1,
+    "ab": 3
+  },
+  {
+    "player_id": 42796,
+    "name": "Kyle Stowers",
+    "team": "Marlins",
+    "opponent": "Brewers",
     "streak": 1,
     "ab": 3
   }

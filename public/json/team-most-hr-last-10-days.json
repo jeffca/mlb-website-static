@@ -1,21 +1,9 @@
 [
   {
-    "id": 29,
-    "team": "Phillies",
-    "opponent": "Yankees",
-    "avg": 0.065
-  },
-  {
     "id": 13,
     "team": "Dodgers",
     "opponent": "Red Sox",
-    "avg": 0.062
-  },
-  {
-    "id": 8,
-    "team": "Yankees",
-    "opponent": "Phillies",
-    "avg": 0.059
+    "avg": 0.057
   },
   {
     "id": 5,
@@ -24,10 +12,28 @@
     "avg": 0.057
   },
   {
+    "id": 26,
+    "team": "Rockies",
+    "opponent": "Orioles",
+    "avg": 0.05
+  },
+  {
+    "id": 3,
+    "team": "White Sox",
+    "opponent": "Cubs",
+    "avg": 0.05
+  },
+  {
+    "id": 21,
+    "team": "A's",
+    "opponent": "Astros",
+    "avg": 0.049
+  },
+  {
     "id": 20,
     "team": "Cubs",
     "opponent": "White Sox",
-    "avg": 0.051
+    "avg": 0.048
   },
   {
     "id": 22,
@@ -36,135 +42,129 @@
     "avg": 0.045
   },
   {
-    "id": 26,
-    "team": "Rockies",
-    "opponent": "Orioles",
-    "avg": 0.044
-  },
-  {
-    "id": 12,
-    "team": "Giants",
-    "opponent": "Mets",
-    "avg": 0.043
-  },
-  {
-    "id": 2,
-    "team": "Angels",
-    "opponent": "Mariners",
-    "avg": 0.042
-  },
-  {
-    "id": 15,
-    "team": "Rays",
-    "opponent": "Reds",
-    "avg": 0.041
-  },
-  {
-    "id": 3,
-    "team": "White Sox",
-    "opponent": "Cubs",
+    "id": 1,
+    "team": "Orioles",
+    "opponent": "Rockies",
     "avg": 0.041
   },
   {
     "id": 19,
     "team": "Rangers",
     "opponent": "Braves",
-    "avg": 0.04
+    "avg": 0.039
+  },
+  {
+    "id": 12,
+    "team": "Giants",
+    "opponent": "Mets",
+    "avg": 0.037
+  },
+  {
+    "id": 2,
+    "team": "Angels",
+    "opponent": "Mariners",
+    "avg": 0.036
+  },
+  {
+    "id": 15,
+    "team": "Rays",
+    "opponent": "Reds",
+    "avg": 0.035
   },
   {
     "id": 6,
     "team": "Twins",
     "opponent": "Nationals",
-    "avg": 0.039
-  },
-  {
-    "id": 24,
-    "team": "Red Sox",
-    "opponent": "Dodgers",
-    "avg": 0.034
-  },
-  {
-    "id": 16,
-    "team": "Jays",
-    "opponent": "Tigers",
-    "avg": 0.033
-  },
-  {
-    "id": 27,
-    "team": "Mets",
-    "opponent": "Giants",
-    "avg": 0.031
-  },
-  {
-    "id": 25,
-    "team": "D-Backs",
-    "opponent": "Pirates",
-    "avg": 0.03
-  },
-  {
-    "id": 1,
-    "team": "Orioles",
-    "opponent": "Rockies",
-    "avg": 0.03
+    "avg": 0.035
   },
   {
     "id": 23,
     "team": "Mariners",
     "opponent": "Angels",
-    "avg": 0.027
+    "avg": 0.031
   },
   {
-    "id": 18,
-    "team": "Nationals",
-    "opponent": "Twins",
-    "avg": 0.026
+    "id": 27,
+    "team": "Mets",
+    "opponent": "Giants",
+    "avg": 0.03
+  },
+  {
+    "id": 24,
+    "team": "Red Sox",
+    "opponent": "Dodgers",
+    "avg": 0.03
+  },
+  {
+    "id": 16,
+    "team": "Jays",
+    "opponent": "Tigers",
+    "avg": 0.028
   },
   {
     "id": 30,
     "team": "Braves",
     "opponent": "Rangers",
-    "avg": 0.025
-  },
-  {
-    "id": 14,
-    "team": "Cardinals",
-    "opponent": "Padres",
-    "avg": 0.025
+    "avg": 0.026
   },
   {
     "id": 9,
     "team": "Marlins",
     "opponent": "Brewers",
+    "avg": 0.026
+  },
+  {
+    "id": 25,
+    "team": "D-Backs",
+    "opponent": "Pirates",
+    "avg": 0.025
+  },
+  {
+    "id": 17,
+    "team": "Reds",
+    "opponent": "Rays",
     "avg": 0.025
   },
   {
     "id": 4,
     "team": "Tigers",
     "opponent": "Jays",
+    "avg": 0.023
+  },
+  {
+    "id": 18,
+    "team": "Nationals",
+    "opponent": "Twins",
     "avg": 0.022
   },
   {
-    "id": 17,
-    "team": "Reds",
-    "opponent": "Rays",
-    "avg": 0.02
+    "id": 14,
+    "team": "Cardinals",
+    "opponent": "Padres",
+    "avg": 0.022
+  },
+  {
+    "id": 7,
+    "team": "Astros",
+    "opponent": "A's",
+    "avg": 0.021
   },
   {
     "id": 11,
     "team": "Padres",
     "opponent": "Cardinals",
-    "avg": 0.02
+    "avg": 0.018
   },
   {
     "id": 28,
     "team": "Brewers",
     "opponent": "Marlins",
-    "avg": 0.014
+    "avg": 0.016
   },
   {
     "id": 10,
     "team": "Pirates",
     "opponent": "D-Backs",
-    "avg": 0.01
+    "avg": 0.009
   }
 ]
