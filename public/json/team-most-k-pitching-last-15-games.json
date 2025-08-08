@@ -1,110 +1,170 @@
 [
   {
-    "id": 19,
-    "team": "Rangers",
-    "opponent": "Mariners",
-    "avg": 1.163
-  },
-  {
-    "id": 4,
-    "team": "Tigers",
-    "opponent": "Phillies",
-    "avg": 1.126
-  },
-  {
-    "id": 29,
-    "team": "Phillies",
-    "opponent": "Tigers",
-    "avg": 1.123
-  },
-  {
-    "id": 13,
-    "team": "Dodgers",
-    "opponent": "Rays",
-    "avg": 1.116
-  },
-  {
-    "id": 23,
-    "team": "Mariners",
-    "opponent": "Rangers",
-    "avg": 1.091
-  },
-  {
     "id": 15,
     "team": "Rays",
-    "opponent": "Dodgers",
-    "avg": 1.085
-  },
-  {
-    "id": 6,
-    "team": "Twins",
-    "opponent": "Guardians",
-    "avg": 1.072
-  },
-  {
-    "id": 28,
-    "team": "Brewers",
-    "opponent": "Nationals",
-    "avg": 1.053
-  },
-  {
-    "id": 12,
-    "team": "Giants",
-    "opponent": "Mets",
-    "avg": 1.039
-  },
-  {
-    "id": 10,
-    "team": "Pirates",
-    "opponent": "Rockies",
-    "avg": 1.017
-  },
-  {
-    "id": 27,
-    "team": "Mets",
-    "opponent": "Giants",
-    "avg": 1.012
+    "opponent": "Mariners",
+    "avg": 1.176
   },
   {
     "id": 8,
     "team": "Yankees",
-    "opponent": "Marlins",
-    "avg": 0.976
+    "opponent": "Astros",
+    "avg": 1.174
   },
   {
-    "id": 11,
-    "team": "Padres",
-    "opponent": "Cardinals",
-    "avg": 0.914
+    "id": 7,
+    "team": "Astros",
+    "opponent": "Yankees",
+    "avg": 1.158
   },
   {
-    "id": 14,
-    "team": "Cardinals",
-    "opponent": "Padres",
-    "avg": 0.905
+    "id": 3,
+    "team": "White Sox",
+    "opponent": "Guardians",
+    "avg": 1.157
+  },
+  {
+    "id": 17,
+    "team": "Reds",
+    "opponent": "Pirates",
+    "avg": 1.141
+  },
+  {
+    "id": 13,
+    "team": "Dodgers",
+    "opponent": "Jays",
+    "avg": 1.132
+  },
+  {
+    "id": 19,
+    "team": "Rangers",
+    "opponent": "Phillies",
+    "avg": 1.13
+  },
+  {
+    "id": 23,
+    "team": "Mariners",
+    "opponent": "Rays",
+    "avg": 1.079
   },
   {
     "id": 22,
     "team": "Guardians",
-    "opponent": "Twins",
-    "avg": 0.869
+    "opponent": "White Sox",
+    "avg": 1.042
+  },
+  {
+    "id": 16,
+    "team": "Jays",
+    "opponent": "Dodgers",
+    "avg": 1.037
+  },
+  {
+    "id": 1,
+    "team": "Orioles",
+    "opponent": "A's",
+    "avg": 1.036
+  },
+  {
+    "id": 28,
+    "team": "Brewers",
+    "opponent": "Mets",
+    "avg": 1.035
+  },
+  {
+    "id": 10,
+    "team": "Pirates",
+    "opponent": "Reds",
+    "avg": 1.026
+  },
+  {
+    "id": 21,
+    "team": "A's",
+    "opponent": "Orioles",
+    "avg": 1.007
+  },
+  {
+    "id": 11,
+    "team": "Padres",
+    "opponent": "Red Sox",
+    "avg": 1.003
+  },
+  {
+    "id": 27,
+    "team": "Mets",
+    "opponent": "Brewers",
+    "avg": 0.997
+  },
+  {
+    "id": 20,
+    "team": "Cubs",
+    "opponent": "Cardinals",
+    "avg": 0.986
+  },
+  {
+    "id": 6,
+    "team": "Twins",
+    "opponent": "Royals",
+    "avg": 0.981
+  },
+  {
+    "id": 2,
+    "team": "Angels",
+    "opponent": "Tigers",
+    "avg": 0.975
   },
   {
     "id": 9,
     "team": "Marlins",
-    "opponent": "Yankees",
-    "avg": 0.863
+    "opponent": "Braves",
+    "avg": 0.949
+  },
+  {
+    "id": 24,
+    "team": "Red Sox",
+    "opponent": "Padres",
+    "avg": 0.946
+  },
+  {
+    "id": 29,
+    "team": "Phillies",
+    "opponent": "Rangers",
+    "avg": 0.919
+  },
+  {
+    "id": 4,
+    "team": "Tigers",
+    "opponent": "Angels",
+    "avg": 0.907
+  },
+  {
+    "id": 30,
+    "team": "Braves",
+    "opponent": "Marlins",
+    "avg": 0.873
+  },
+  {
+    "id": 14,
+    "team": "Cardinals",
+    "opponent": "Cubs",
+    "avg": 0.794
+  },
+  {
+    "id": 25,
+    "team": "D-Backs",
+    "opponent": "Rockies",
+    "avg": 0.792
+  },
+  {
+    "id": 5,
+    "team": "Royals",
+    "opponent": "Twins",
+    "avg": 0.768
   },
   {
     "id": 26,
     "team": "Rockies",
-    "opponent": "Pirates",
-    "avg": 0.757
-  },
-  {
-    "id": 18,
-    "team": "Nationals",
-    "opponent": "Brewers",
-    "avg": 0.756
+    "opponent": "D-Backs",
+    "avg": 0.766
   }
 ]
